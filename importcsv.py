@@ -44,7 +44,7 @@ def import_csv():
 
 		info.execute("UPDATE info SET total=%d, size='%s'" % (totalWord, fileSize))
 
-		print subprocess.Popen("git commit -a -m 'Update'; git push", shell=True, stdout=subprocess.PIPE).stdout.read()
+		print subprocess.Popen("git commit -a -m 'Update'; git push; git status", shell=True, stdout=subprocess.PIPE).stdout.read()
 
 
 import_csv()
