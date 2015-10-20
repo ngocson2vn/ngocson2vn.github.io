@@ -1,0 +1,309 @@
+﻿私*わたし*I*---
+私たち*わたしたち*We*---
+あなた*あなた*You*---
+あの人*あのひと*That person, He, She*---
+あの方*あのかた*That person, He, She (Polite way)*---
+皆さん*みなさん*Ladies and gentlemen, All of you*---
+さん*さん*Mr., Ms. (Title of respect added to a name)*---
+ちゃん*ちゃん*(Suffix often added to a child''s name)*---
+君*くん*(Suffix often added to a boy''s name)*---
+人*じん*(Suffix meaning "a national of")*---
+先生*せんせい*Teacher, Instructor (not used when referring to one''s own job)*---
+教師*きょうし*Teacher, Instructor*---
+学生*がくせい*Student*---
+会社員*かいしゃいん*Company employee*---
+社員*しゃいん*Employee of ~ Company*---
+銀行員*ぎんこういん*Bank employee*---
+医者*いしゃ*Medical doctor*---
+研究者*けんきゅうしゃ*Researcher, Scholar*---
+エンジニア*エンジニア*Engineer*---
+大学*だいがく*University*---
+病院*びょういん*Hospital*---
+電気*でんき*Electricity, Light*---
+だれ*だれ*Who*---
+どなた*どなた*Who (Polite way)*---
+歳*さい*~ years old*---
+何歳*なんさい*How old*---
+おいくつ*おいくつ*How old (Polite way)*---
+はい*はい*Yes*---
+いいえ*いいえ*No*---
+失礼ですが*しつれいですが*Excuse me, but*---
+お名前輪？*おなまえわ？*May I have your name?*---
+初めまして*はじめまして*How do you do! (Usually used as the first phrase when introducing oneself)*---
+どうぞよろしくお願いします*どうぞよろしくおねがいします*Pleased to meet you (Usually sued at the end of a self-introduction)*---
+こちらは*こちらは*This is Mr./Ms. ~*---
+から来ました*からきました*I came from ~*---
+アメリカ*アメリカ*U.S.A*---
+イギリス*イギリス*U.K*---
+インド*インド*India*---
+インドネシア*インドネシア*Indonesia*---
+韓国*かんこく*South Korea*---
+タイ*タイ*Thailand*---
+中国*ちゅうごく*China*---
+ドイツ*ドイツ*Germany*---
+日本*にほん*Japan*---
+フランス*フランス*France*---
+ブラゼル*ブラゼル*Brazil*---
+これ*これ*This (thing here)*---
+それ*それ*That (thing near you)*---
+あれ*あれ*That (thing over there)*---
+この*この*This ~, This ~ here*---
+その*その*That ~, That ~ near you*---
+あの*あの*That ~, That ~ over there*---
+本*ほん*Book*---
+辞書*じしょ*Dictionary*---
+雑誌*ざっし*Magazine*---
+新聞*しんぶん*Newspaper*---
+ノト*ノト*Notebook*---
+手帳*てちょう*Pocket notebook*---
+名刺*めいし*Business card*---
+カード*カード*Card*---
+テレホンカード*テレホンカード*Telephone card*---
+鉛筆*えんぴつ*Pencil*---
+ボルペン*ボルペン*Ballpoint pen*---
+シャープペンシル*シャープペンシル*Mechanical pencil, propelling pencil*---
+かぎ*かぎ*Key*---
+時計*とけい*Watch, clock*---
+かさ*かさ*Umbrealla*---
+かばん*かばん*Bag, briefcase*---
+「カセット」テープ*「カセット」テープ*Tape recorder*---
+テレビ*テレビ*Television*---
+ラジオ*ラジオ*Radio*---
+カメラ*カメラ*Camera*---
+コンピューター*コンピューター*Computer*---
+自動車*じどうしゃ*Automobile, car*---
+机*つくえ*Desk*---
+いす*いす*Chair*---
+チョコレート*チョコレート*Chocolate*---
+コーヒー*コーヒー*Coffee*---
+英語*えいご*English language*---
+日本語*にほんご*Japanese language*---
+～語*～ご*~ Language *---
+何*なん*What*---
+そう*そう*So*---
+違います*ちがいます*No, it isn''t/you are wrong*---
+そうですか*そうですか*I see/Is that so?*---
+あのう*あのう*Well (used to show hesitation)*---
+ほんの気持ちです*ほんのきもちです*It''s nothing/it''s a token of my gratitude*---
+どうぞ*どうぞ*Please/here you are (used when offering someone something)*---
+どうも*どうも*Well, thanks*---
+「どうも」ありがとう「ございます」*「どうも」ありがとう「ございます」*Thanh you [very much]*---
+これからお世話になります*これからおせわになります*I hope for your kind assistance hereafter*---
+こちらこそよろしく*こちらこそよろしく*I''m pleased to meet you*---
+ここ*ここ*Here, this place*---
+そこ*そこ*There, that place near you*---
+あそこ*あそこ*That place over there*---
+どこ*どこ*Where, what place*---
+こちら*こちら*This way, this place (polite way)*---
+そちら*そちら*That way, that place near you (polite way)*---
+あちら*あちら*That way, that place over there (polite way)*---
+どちら*どちら*Which way, where (polite way)*---
+教室*きょうしつ*Classroom*---
+食堂*しょくどう*Dining hall, canteen*---
+事務所*じむしょ*Office*---
+会議室*かいぎしつ*Conference room, assembly room*---
+受付*うけつけ*Reception desk*---
+ロビー*ロビー*Lobby*---
+部屋*へや*Room*---
+トイレ（お手洗い）*トイレ（おてあらい）*Toilet, rest room*---
+階段*かいだん*Staircase*---
+エレベーター*エレベーター*Elevator, lift*---
+エスカレーター*エスカレーター*Escalator*---
+「お」国*「お」くに*Country*---
+会社*かいしゃ*Company*---
+うち*うち*House, home*---
+電話*でんわ*Telephone, telephone call*---
+靴*くつ*Shoes*---
+ネクタイ*ネクタイ*Necktie*---
+ワイン*ワイン*Wine*---
+たばこ*たばこ*Tabacco, cigarette*---
+売り場*うりば*Department, counter (in a department store)*---
+地価*ちか*Basement*---
+ー階*ーかい（－がい）*- th floor*---
+何階*なんがい*What floor*---
+ー円*－えん*- Yen*---
+いくら*いくら*How much*---
+百*ひゃく*Hundred*---
+千*せん*Thousand*---
+万*まん*Ten thousand*---
+すみません*すみません*Excuse me*---
+じゃ*じゃ*Well, then, in that case*---
+起きます*おきます*Get up, wake up*---
+寝ます*ねます*Sleep, go to bed*---
+働きます*はたらきます*Work*---
+休みます*やすみます*Take a rest, take a holiday*---
+勉強します*べんきょうします*Study*---
+終わります*おわります*Finish*---
+デパート*デパート*Department store*---
+銀行*ぎんこう*Bank*---
+郵便局*ゆうびんきょく*Post office*---
+図書館*としょかん*Library*---
+今*いま*Now*---
+～時*～じ*~ O''clock*---
+～分*～ふん（～ぷん）*~ Minute*---
+半*はん*Half*---
+何時*なんじ*What time*---
+何分*なんぷん*What minute*---
+午前*ごぜん*A.M., morning*---
+午後*ごご*P.M., afternoon*---
+朝*あさ*Morning*---
+昼*ひる*Daytime, noon*---
+晩（夜）*ばん（よる）*Night, evening*---
+おととい*おととい*The day before yesterday*---
+昨日*きのう*Yesterday*---
+今日*きょう*Today*---
+明日*あした*Tomorrow*---
+あさって*あさって*The day after tomorrow*---
+今朝*けさ*This morning*---
+今晩*こんばん*This evening, tonight*---
+休み*やすみ*Rest, a holiday, a day off*---
+昼休み*ひるやすみ*Lunchtime*---
+毎朝*まいあさ*Every morning*---
+毎晩*まいばん*Every night*---
+毎日*まいにち*Everyday*---
+月曜日*げつようび*Monday*---
+火曜日*かようび*Tuesday*---
+水曜日*すいようび*Wednesday*---
+木曜日*もくようび*Thursday*---
+金曜日*きんようび*Friday*---
+土曜日*どようび*Saturday*---
+日曜日*にちようび*Sunday*---
+何曜日*なんようび*What day of the week*---
+番号*ばんごう*Number*---
+何番*なんばん*What number*---
+～から*～から*From ~*---
+～まで*～まで*Up to ~, until ~*---
+～と～*～と～*And (used to connect nouns)*---
+行きます*いきます*Go*---
+来ます*きます*Come*---
+帰ります*かえります*Go home, return*---
+学校*がっこう*School*---
+スーパー*スーパー*Supermarket*---
+駅*えき*Station*---
+飛行機*ひこうき*Airplane*---
+船*ふね*Ship*---
+電車*でんしゃ*Electric train*---
+地下鉄*ちかてつ*Subway, underground*---
+新幹線*しんかんせん*Shinkansen, the bullet train*---
+バス*バス*Bus*---
+タクシー*タクシー*Taxi*---
+自転車*じてんしゃ*Bicycle*---
+歩いて*あるいて*On foot*---
+人*ひと*Person, people*---
+友達*ともだち*Friend*---
+彼*かれ*He, boyfriend, lover*---
+彼女*かのじょ*She, girlfriend, lover*---
+家族*かぞく*Family*---
+一人で*ひとりで*Alone, by oneself*---
+先週*せんしゅう*Last week*---
+今週*こんしゅう*This week*---
+来週*らいしゅう*Next week*---
+先月*せんげつ*Last month*---
+今月*こんげつ*This month*---
+来月*らいげつ*Next month*---
+去年*きょねん*Last year*---
+今年*ことし*This year*---
+来年*らいねん*Next year*---
+～月*～がつ**---
+何月*なんがつ**---
+１日*ついたち*The first day of the month*---
+２日*ふつか*Second, two days*---
+３日*みっか*Third, three days*---
+４日*よっか*Fourth, four days*---
+５日*いつか*fifth, five days*---
+６日*むいか*Sixth, six days*---
+７日*なのか*Seventh, seven days*---
+８日*ようか*Eighth, eight days*---
+９日*ここのか*Ninth, nine days*---
+１０日*とうか*Tenth, ten days*---
+１４日*じゅうよっか*Fourteenth, fourteen days*---
+２０日*はつか*Twentieth, twenty days*---
+２４日*にじゅうよっか*Twenty fourth, twenty four days*---
+～日*～にち*Which day of the month, how many days*---
+いつ*いつ*When*---
+誕生日*たんじょうび*Birthday*---
+普通*ふつう*Local (train)*---
+急行*きゅうこう*Rapid*---
+特急*とっきゅう*Express*---
+次の*つぎの*Next*---
+どういたしまして*どういたしまして*You''re welcome/don''t mention it*---
+～番線*～ばんせん*Platform ~, ~ th platform*---
+食べます*たべます*Eat*---
+飲みます*のみます*Drink*---
+吸います*すいます*Smoke [a cigarette]*---
+見ます*みます*See, look at, watch*---
+聞きます*ききます*Hear, listen*---
+読みます*よみます*Read*---
+書きます*かきます*Write, draw, paint*---
+買います*かいます*Buy*---
+撮ります*とります*Take [a photograph]*---
+します*します*Do*---
+会います*あいます*Meet [a friend]*---
+ごはん*ごはん*A meal, cooked rice*---
+朝ごはん*あさごはん*Breakfast*---
+昼ごはん*ひるごはん*Lunch*---
+晩ごはん*ばんごはん*Supper*---
+パン*パン*Bread*---
+卵*たまご*Egg*---
+肉*にく*Meat*---
+魚*さかな*Fish*---
+野菜*やさい*Vegetable*---
+果物*くだもの*Fruit*---
+水*みず*Water*---
+お茶*おちゃ*Tea, green tea*---
+紅茶*こうちゃ*Black tea*---
+牛乳*ぎゅうにゅう*（ミルク）*Milk*---
+ジュース*ジュース*Juice*---
+ビール*ビール*Beer*---
+「お」酒*「お」さけ*Alcohol, Japanese rice wine*---
+ビデオ*ビデオ*Video tape, video deck*---
+映画*えいが*Movie*---
+手紙*てがみ*Letter*---
+レポート*レポート*Report*---
+写真*しゃしん*Photograph*---
+店*みせ*Store, shop*---
+レストラン*レストラン*Restaurant*---
+庭*にわ*Garden*---
+宿題*しゅくだい*Homework*---
+テニス*テニス*Tennis*---
+サッカー*サッカー*Soccer, football*---
+「お」花見*「お」はなみ*Cherry-blossom viewing*---
+何*なに*What*---
+いっしょに*いっしょに*Together*---
+ちょっと*ちょっと*A little while, a little bit*---
+いつも*いつも*Always, usually*---
+時々*ときどき*Sometimes*---
+それから*それから*After that, and then*---
+ええ*ええ*Yes*---
+いいですね*いいですね*That''s good*---
+じゃ*また「明日」*じゃ*また「あした」*See you [tomorrow]*---
+切ります*きります*Cut, slide*---
+送ります*おくります*Send*---
+あげます*あげます*Give*---
+もらいます*もらいます*Receive*---
+貸します*かします*Lend*---
+借ります*かります*Borrow*---
+教えます*おしえます*Teach*---
+習います*ならいます*Lear*---
+かけます*かけます*Make [a telephone call]*---
+手*て*Hand, arm*---
+はし*はし*Chopsticks*---
+スプーン*スプーン*Spoon*---
+ナイフ*ナイフ*Knife*---
+フォーク*フォーク*Fork*---
+はさみ*はさみ*Scissors*---
+ファクス*ファクス*Fax*---
+ワープロ*ワープロ*Word processor*---
+パソコン*パソコン*Personal computer*---
+パンチ*パンチ*Punch*---
+ホッチキス*ホッチキス*Stapler*---
+セロテープ*セロテープ*Scotch tape, clear adhesive tape*---
+消しゴム*けしゴム*Eraser*---
+紙*かみ*Paper*---
+花*はな*Flower, blossom*---
+シャツ*シャツ*Shirt*---
+プレゼント*プレゼント*Present, gift*---
+荷物*にもつ*Baggage, parcel*---
+お金*おかね*Money*---
+切符*きっぷ*Ticket*---
+クリスマス*クリスマス*Christmas*---
