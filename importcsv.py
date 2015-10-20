@@ -2,10 +2,12 @@
 
 import sys
 import sqlite3
+import subprocess
 
+db = "jpvocab.db"
+dbInfo = "info.db"
 csv = sys.argv[1]
-db = sys.argv[2]
-dry = sys.argv[3]
+dry = sys.argv[2]
 
 def import_csv():
 	f = open(csv)
@@ -15,6 +17,10 @@ def import_csv():
 
 	conn = sqlite3.connect(db)
 	c = conn.cursor()
+
+	connObj = sqlite3.connect(dbInfo)
+	info = connObj.cursor()
+
 	while line:
 		data = []
 		for x in line.split("*"):
@@ -26,7 +32,19 @@ def import_csv():
 		line = f.readline()
 		line = line[:-2]
 
+	totalWord = 0
+	for row in c.execute("SELECT COUNT(id) FROM vocab"):
+		totalWord = row[0]
+		print totalWord
+
 	if dry == "0":
 		conn.commit()
+		fileSize = subprocess.Popen("du -hs jpvocab.db", shell=True, stdout=subprocess.PIPE).stdout.read().split()[0]
+		print fileSize
+
+		info.execute("UPDATE info SET total=%d, size='%s'" % (totalWord, fileSize))
+
+		print subprocess.Popen("git commit -a -m 'Update'; git push", shell=True, stdout=subprocess.PIPE).stdout.read()
+
 
 import_csv()
