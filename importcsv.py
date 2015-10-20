@@ -21,16 +21,22 @@ def import_csv():
 	connObj = sqlite3.connect(dbInfo)
 	info = connObj.cursor()
 
+	lineCount = 1
 	while line:
 		data = []
 		for x in line.split("*"):
 			data.append(x)
-		#print data
+		
+		if (not data[0] or not data[1] or not data[2] or not data[3]):
+			print data[0], data[1], data[2], data[3]
+			print "line:", lineCount
+			sys.exit(0)
 		cmd = "insert into vocab values (NULL, '%s', '%s', '%s', '%s')" % (data[0], data[1], data[2], data[3])
 		print cmd
 		c.execute(cmd)
 		line = f.readline()
 		line = line[:-2]
+		lineCount = lineCount + 1
 
 	totalWord = 0
 	for row in c.execute("SELECT COUNT(id) FROM vocab"):

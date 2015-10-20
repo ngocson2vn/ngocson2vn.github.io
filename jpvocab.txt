@@ -204,8 +204,8 @@
 去年*きょねん*Last year*---
 今年*ことし*This year*---
 来年*らいねん*Next year*---
-～月*～がつ**---
-何月*なんがつ**---
+～月*～がつ*-th month of the year*---
+何月*なんがつ*What month*---
 １日*ついたち*The first day of the month*---
 ２日*ふつか*Second, two days*---
 ３日*みっか*Third, three days*---
@@ -284,7 +284,7 @@
 貸します*かします*Lend*---
 借ります*かります*Borrow*---
 教えます*おしえます*Teach*---
-習います*ならいます*Lear*---
+習います*ならいます*Learn*---
 かけます*かけます*Make [a telephone call]*---
 手*て*Hand, arm*---
 はし*はし*Chopsticks*---
