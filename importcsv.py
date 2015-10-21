@@ -24,7 +24,7 @@ def import_csv():
 	lineCount = 1
 	while line:
 		data = []
-		for x in line.split("*"):
+		for x in line.split("#"):
 			data.append(x)
 		
 		if (not data[0] or not data[1] or not data[2] or not data[3]):
