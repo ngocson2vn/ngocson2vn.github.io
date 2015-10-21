@@ -19,13 +19,13 @@
 俳優#はいゆう#Actor/actress#Sẽ thêm vào sau
 スポーツ選手#すぽーつせんしゅ#Athlete#Sẽ thêm vào sau
 乗ります#のります#Ride, get on [a train]#Sẽ thêm vào sau
-降ります#ふります#Get off [a train]#Sẽ thêm vào sau
+*降ります#ふります#Get off [a train]#Sẽ thêm vào sau
 乗り換えます#のりかえます#Change (trains...)#Sẽ thêm vào sau
 浴びます#あびます#Take [a shower]#Sẽ thêm vào sau
 入れます#いれます#Put in, insert#Sẽ thêm vào sau
-出します#だします#Take out, withdraw #Sẽ thêm vào sau
-入ります#はいります#Enter [university]#Sẽ thêm vào sau
-出ます#でます#Graduate from [university]#Sẽ thêm vào sau
+*出します#だします#Take out, withdraw #Sẽ thêm vào sau
+*入ります#はいります#Enter [university]#Sẽ thêm vào sau
+*出ます#でます#Graduate from [university]#Sẽ thêm vào sau
 やめます#-#Quit or retire from [a company], stop, give up#Sẽ thêm vào sau
 押します#おします#Push, press#Sẽ thêm vào sau
 若い#わかい#Young#Sẽ thêm vào sau
@@ -34,7 +34,7 @@
 明るい#あかるい#Bright, light#Sẽ thêm vào sau
 暗い#くらい#Dark#Sẽ thêm vào sau
 背が高い#せがたかい#Tall (referring to person)#Sẽ thêm vào sau
-頭#あたま#がいい#Clever, smart#Sẽ thêm vào sau
+頭がいい#あたまがいい#Clever, smart#Sẽ thêm vào sau
 体#からだ#Body#Sẽ thêm vào sau
 頭#あたま#Head#Sẽ thêm vào sau
 髪#かみ#Hair#Sẽ thêm vào sau
@@ -50,7 +50,7 @@
 覚えます#おぼえます#Memorize#Sẽ thêm vào sau
 忘れます#わすれます#Forget#Sẽ thêm vào sau
 なくします#-#Lose#Sẽ thêm vào sau
-出します#だします#Hand in [a report]#Sẽ thêm vào sau
+*出します*#だします#Hand in [a report]#Sẽ thêm vào sau
 払います#はらいます#Pay#Sẽ thêm vào sau
 返します#かえします#Give back, return#Sẽ thêm vào sau
 出かけます#でかけます#Go out#Sẽ thêm vào sau
@@ -60,9 +60,8 @@
 心配します#しんぱいします#Worry#Sẽ thêm vào sau
 残業します#ざんぎょうします#Work overtime#Sẽ thêm vào sau
 出張します#しゅっちょうします#Go on a business trip#Sẽ thêm vào sau
-飲みます#のみます#Take [medicine]#Sẽ thêm vào sau
+*飲みます#のみます#Take [medicine]#Sẽ thêm vào sau
 薬#くすり#Medicine#Sẽ thêm vào sau
-入ります#はいります#Take [a bath]#Sẽ thêm vào sau
 大切「な」#たいせつ「な」#Important, precious#Sẽ thêm vào sau
 大丈夫「な」#だいじょうぶ「な」#All right#Sẽ thêm vào sau
 危ない#あぶない#Dangerous#Sẽ thêm vào sau
@@ -76,7 +75,7 @@
 「お」ふろ#-#Bath#Sẽ thêm vào sau
 上着#うわぎ#Jacket, outerwear#Sẽ thêm vào sau
 下着#したぎ#Underwear#Sẽ thêm vào sau
-先生#せんせい#Medical doctor#Sẽ thêm vào sau
+*先生#せんせい#Medical doctor#Sẽ thêm vào sau
 ですから#-#Therefore, so#Sẽ thêm vào sau
 お大事に#おだいじに#Take care of yourself#Sẽ thêm vào sau
 頭が痛い#あたまがいたい#Have a headache#Sẽ thêm vào sau
@@ -145,7 +144,6 @@
 調子#ちょうし#Condition#Sẽ thêm vào sau
 ゴルフ#ごるふ#Golf#Sẽ thêm vào sau
 すもう#-#Sumo wrestling#Sẽ thêm vào sau
-お茶#おちゃ#Tea ceremony#Sẽ thêm vào sau
 日#ひ#Day, date#Sẽ thêm vào sau
 一度#いちど#Once#Sẽ thêm vào sau
 一度も#いちども#Not once, never#Sẽ thêm vào sau
