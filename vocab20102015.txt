@@ -142,7 +142,6 @@
 風呂場#ふろば#Bathroom#Sẽ thêm vào sau
 洗面所#せんめんじょ#Washroom#Sẽ thêm vào sau
 台所#だいどころ#Kitchen#Sẽ thêm vào sau
-食堂#しょくどう#Dining room#Sẽ thêm vào sau
 居間#いま#Living room#Sẽ thêm vào sau
 寝室#しんしつ#Bedroom#Sẽ thêm vào sau
 りんご#りんご#Apple#Sẽ thêm vào sau
@@ -194,7 +193,7 @@
 世界#せかい#World#Sẽ thêm vào sau
 「お」祭り#「お」まつり#Festival#Sẽ thêm vào sau
 試験#しけん#Examination#Sẽ thêm vào sau
-どちら#どちら#Which one (between two things)#Sẽ thêm vào sau
+*どちら#どちら#Which one (between two things)#Sẽ thêm vào sau
 どちらも#どちらも#Both#Sẽ thêm vào sau
 初めて#はじめて#For the first time#Sẽ thêm vào sau
 遊びます#あそびます#Play#Sẽ thêm vào sau
@@ -242,7 +241,6 @@
 交番#こうばん#Police box#Sẽ thêm vào sau
 消防署#しょうぼうしょ#Fire station#Sẽ thêm vào sau
 駐車場#ちゅうしゃじょう#Parking lot#Sẽ thêm vào sau
-大学#だいがく#University#Sẽ thêm vào sau
 高校#こうこう#Senior high school#Sẽ thêm vào sau
 中学校#ちゅうがっこう#Junior high school#Sẽ thêm vào sau
 小学校#しょうがっこう#Elementary school#Sẽ thêm vào sau
@@ -267,7 +265,7 @@
 呼びます#よびます#Call#Sẽ thêm vào sau
 話します#はなします#Speak, talk#Sẽ thêm vào sau
 見せます#みせます#Show#Sẽ thêm vào sau
-教えます#おしえます#Tell [an address]#Sẽ thêm vào sau
+*教えます#おしえます#Tell [an address]#Sẽ thêm vào sau
 始めます#はじめます#Start, begin#Sẽ thêm vào sau
 降ります#ふります#Rain#Sẽ thêm vào sau
 コピーします#コピーします#Copy#Sẽ thêm vào sau
