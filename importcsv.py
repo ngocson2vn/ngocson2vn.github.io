@@ -31,6 +31,10 @@ def import_csv():
 			print data[0], data[1], data[2], data[3]
 			print "line:", lineCount
 			sys.exit(0)
+
+		if data[1] == '-':
+			data[1] = ' '
+
 		cmd = "insert into vocab values (NULL, '%s', '%s', '%s', '%s')" % (data[0], data[1], data[2], data[3])
 		print cmd
 		c.execute(cmd)
