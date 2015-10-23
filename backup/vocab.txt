@@ -20,117 +20,117 @@
 どなた#-#Who (Polite way)#Sẽ thêm vào sau
 歳#さい#~ years old#Sẽ thêm vào sau
 何歳#なんさい#How old#Sẽ thêm vào sau
-おいくつ#おいくつ#How old (Polite way)#Sẽ thêm vào sau
-はい#はい#Yes#Sẽ thêm vào sau
-いいえ#いいえ#No#Sẽ thêm vào sau
+おいくつ#-#How old (Polite way)#Sẽ thêm vào sau
+はい#-#Yes#Sẽ thêm vào sau
+いいえ#-#No#Sẽ thêm vào sau
 失礼ですが#しつれいですが#Excuse me, but#Sẽ thêm vào sau
 お名前輪？#おなまえわ？#May I have your name?#Sẽ thêm vào sau
 初めまして#はじめまして#How do you do! (Usually used as the first phrase when introducing oneself)#Sẽ thêm vào sau
 どうぞよろしくお願いします#どうぞよろしくおねがいします#Pleased to meet you (Usually sued at the end of a self-introduction)#Sẽ thêm vào sau
-こちらは#こちらは#This is Mr./Ms. ~#Sẽ thêm vào sau
+こちらは#-#This is Mr./Ms. ~#Sẽ thêm vào sau
 から来ました#からきました#I came from ~#Sẽ thêm vào sau
-アメリカ#アメリカ#U.S.A#Sẽ thêm vào sau
-イギリス#イギリス#U.K#Sẽ thêm vào sau
-インド#インド#India#Sẽ thêm vào sau
-インドネシア#インドネシア#Indonesia#Sẽ thêm vào sau
+アメリカ#-#U.S.A#Sẽ thêm vào sau
+イギリス#-#U.K#Sẽ thêm vào sau
+インド#-#India#Sẽ thêm vào sau
+インドネシア#-#Indonesia#Sẽ thêm vào sau
 韓国#かんこく#South Korea#Sẽ thêm vào sau
-タイ#タイ#Thailand#Sẽ thêm vào sau
+タイ#-#Thailand#Sẽ thêm vào sau
 中国#ちゅうごく#China#Sẽ thêm vào sau
-ドイツ#ドイツ#Germany#Sẽ thêm vào sau
+ドイツ#-#Germany#Sẽ thêm vào sau
 日本#にほん#Japan#Sẽ thêm vào sau
-フランス#フランス#France#Sẽ thêm vào sau
-ブラゼル#ブラゼル#Brazil#Sẽ thêm vào sau
-これ#これ#This (thing here)#Sẽ thêm vào sau
-それ#それ#That (thing near you)#Sẽ thêm vào sau
-あれ#あれ#That (thing over there)#Sẽ thêm vào sau
-この#この#This ~, This ~ here#Sẽ thêm vào sau
-その#その#That ~, That ~ near you#Sẽ thêm vào sau
-あの#あの#That ~, That ~ over there#Sẽ thêm vào sau
+フランス#-#France#Sẽ thêm vào sau
+ブラゼル#-#Brazil#Sẽ thêm vào sau
+これ#-#This (thing here)#Sẽ thêm vào sau
+それ#-#That (thing near you)#Sẽ thêm vào sau
+あれ#-#That (thing over there)#Sẽ thêm vào sau
+この#-#This ~, This ~ here#Sẽ thêm vào sau
+その#-#That ~, That ~ near you#Sẽ thêm vào sau
+あの#-#That ~, That ~ over there#Sẽ thêm vào sau
 本#ほん#Book#Sẽ thêm vào sau
 辞書#じしょ#Dictionary#Sẽ thêm vào sau
 雑誌#ざっし#Magazine#Sẽ thêm vào sau
 新聞#しんぶん#Newspaper#Sẽ thêm vào sau
-ノト#ノト#Notebook#Sẽ thêm vào sau
+ノト#-#Notebook#Sẽ thêm vào sau
 手帳#てちょう#Pocket notebook#Sẽ thêm vào sau
 名刺#めいし#Business card#Sẽ thêm vào sau
-カード#カード#Card#Sẽ thêm vào sau
-テレホンカード#テレホンカード#Telephone card#Sẽ thêm vào sau
+カード#-#Card#Sẽ thêm vào sau
+テレホンカード#-#Telephone card#Sẽ thêm vào sau
 鉛筆#えんぴつ#Pencil#Sẽ thêm vào sau
-ボルペン#ボルペン#Ballpoint pen#Sẽ thêm vào sau
-シャープペンシル#シャープペンシル#Mechanical pencil, propelling pencil#Sẽ thêm vào sau
-かぎ#かぎ#Key#Sẽ thêm vào sau
+ボルペン#-#Ballpoint pen#Sẽ thêm vào sau
+シャープペンシル#-#Mechanical pencil, propelling pencil#Sẽ thêm vào sau
+かぎ#-#Key#Sẽ thêm vào sau
 時計#とけい#Watch, clock#Sẽ thêm vào sau
-かさ#かさ#Umbrealla#Sẽ thêm vào sau
-かばん#かばん#Bag, briefcase#Sẽ thêm vào sau
-「カセット」テープ#「カセット」テープ#Tape recorder#Sẽ thêm vào sau
-テレビ#テレビ#Television#Sẽ thêm vào sau
-ラジオ#ラジオ#Radio#Sẽ thêm vào sau
-カメラ#カメラ#Camera#Sẽ thêm vào sau
-コンピューター#コンピューター#Computer#Sẽ thêm vào sau
+かさ#-#Umbrealla#Sẽ thêm vào sau
+かばん#-#Bag, briefcase#Sẽ thêm vào sau
+「カセット」テープ#-#Tape recorder#Sẽ thêm vào sau
+テレビ#-#Television#Sẽ thêm vào sau
+ラジオ#-#Radio#Sẽ thêm vào sau
+カメラ#-#Camera#Sẽ thêm vào sau
+コンピューター#-#Computer#Sẽ thêm vào sau
 自動車#じどうしゃ#Automobile, car#Sẽ thêm vào sau
 机#つくえ#Desk#Sẽ thêm vào sau
-いす#いす#Chair#Sẽ thêm vào sau
-チョコレート#チョコレート#Chocolate#Sẽ thêm vào sau
-コーヒー#コーヒー#Coffee#Sẽ thêm vào sau
+いす#-#Chair#Sẽ thêm vào sau
+チョコレート#-#Chocolate#Sẽ thêm vào sau
+コーヒー#-#Coffee#Sẽ thêm vào sau
 英語#えいご#English language#Sẽ thêm vào sau
 日本語#にほんご#Japanese language#Sẽ thêm vào sau
 ～語#～ご#~ Language #Sẽ thêm vào sau
 何#なん#What#Sẽ thêm vào sau
-そう#そう#So#Sẽ thêm vào sau
+そう#-#So#Sẽ thêm vào sau
 違います#ちがいます#No, it isn''t/you are wrong#Sẽ thêm vào sau
-そうですか#そうですか#I see/Is that so?#Sẽ thêm vào sau
-あのう#あのう#Well (used to show hesitation)#Sẽ thêm vào sau
+そうですか#-#I see/Is that so?#Sẽ thêm vào sau
+あのう#-#Well (used to show hesitation)#Sẽ thêm vào sau
 ほんの気持ちです#ほんのきもちです#It''s nothing/it''s a token of my gratitude#Sẽ thêm vào sau
-どうぞ#どうぞ#Please/here you are (used when offering someone something)#Sẽ thêm vào sau
-どうも#どうも#Well, thanks#Sẽ thêm vào sau
-「どうも」ありがとう「ございます」#「どうも」ありがとう「ございます」#Thanh you [very much]#Sẽ thêm vào sau
+どうぞ#-#Please/here you are (used when offering someone something)#Sẽ thêm vào sau
+どうも#-#Well, thanks#Sẽ thêm vào sau
+「どうも」ありがとう「ございます」#-#Thanh you [very much]#Sẽ thêm vào sau
 これからお世話になります#これからおせわになります#I hope for your kind assistance hereafter#Sẽ thêm vào sau
-こちらこそよろしく#こちらこそよろしく#I''m pleased to meet you#Sẽ thêm vào sau
-ここ#ここ#Here, this place#Sẽ thêm vào sau
-そこ#そこ#There, that place near you#Sẽ thêm vào sau
-あそこ#あそこ#That place over there#Sẽ thêm vào sau
-どこ#どこ#Where, what place#Sẽ thêm vào sau
-こちら#こちら#This way, this place (polite way)#Sẽ thêm vào sau
-そちら#そちら#That way, that place near you (polite way)#Sẽ thêm vào sau
-あちら#あちら#That way, that place over there (polite way)#Sẽ thêm vào sau
-どちら#どちら#Which way, where (polite way)#Sẽ thêm vào sau
+こちらこそよろしく#-#I''m pleased to meet you#Sẽ thêm vào sau
+ここ#-#Here, this place#Sẽ thêm vào sau
+そこ#-#There, that place near you#Sẽ thêm vào sau
+あそこ#-#That place over there#Sẽ thêm vào sau
+どこ#-#Where, what place#Sẽ thêm vào sau
+こちら#-#This way, this place (polite way)#Sẽ thêm vào sau
+そちら#-#That way, that place near you (polite way)#Sẽ thêm vào sau
+あちら#-#That way, that place over there (polite way)#Sẽ thêm vào sau
+どちら#-#Which way, where (polite way)#Sẽ thêm vào sau
 教室#きょうしつ#Classroom#Sẽ thêm vào sau
 食堂#しょくどう#Dining hall, canteen#Sẽ thêm vào sau
 事務所#じむしょ#Office#Sẽ thêm vào sau
 会議室#かいぎしつ#Conference room, assembly room#Sẽ thêm vào sau
 受付#うけつけ#Reception desk#Sẽ thêm vào sau
-ロビー#ロビー#Lobby#Sẽ thêm vào sau
+ロビー#-#Lobby#Sẽ thêm vào sau
 部屋#へや#Room#Sẽ thêm vào sau
 トイレ（お手洗い）#トイレ（おてあらい）#Toilet, rest room#Sẽ thêm vào sau
 階段#かいだん#Staircase#Sẽ thêm vào sau
-エレベーター#エレベーター#Elevator, lift#Sẽ thêm vào sau
-エスカレーター#エスカレーター#Escalator#Sẽ thêm vào sau
+エレベーター#-#Elevator, lift#Sẽ thêm vào sau
+エスカレーター#-#Escalator#Sẽ thêm vào sau
 「お」国#「お」くに#Country#Sẽ thêm vào sau
 会社#かいしゃ#Company#Sẽ thêm vào sau
-うち#うち#House, home#Sẽ thêm vào sau
+うち#-#House, home#Sẽ thêm vào sau
 電話#でんわ#Telephone, telephone call#Sẽ thêm vào sau
 靴#くつ#Shoes#Sẽ thêm vào sau
-ネクタイ#ネクタイ#Necktie#Sẽ thêm vào sau
-ワイン#ワイン#Wine#Sẽ thêm vào sau
-たばこ#たばこ#Tabacco, cigarette#Sẽ thêm vào sau
+ネクタイ#-#Necktie#Sẽ thêm vào sau
+ワイン#-#Wine#Sẽ thêm vào sau
+たばこ#-#Tabacco, cigarette#Sẽ thêm vào sau
 売り場#うりば#Department, counter (in a department store)#Sẽ thêm vào sau
 地価#ちか#Basement#Sẽ thêm vào sau
 ー階#ーかい（－がい）#- th floor#Sẽ thêm vào sau
 何階#なんがい#What floor#Sẽ thêm vào sau
 ー円#－えん#- Yen#Sẽ thêm vào sau
-いくら#いくら#How much#Sẽ thêm vào sau
+いくら#-#How much#Sẽ thêm vào sau
 百#ひゃく#Hundred#Sẽ thêm vào sau
 千#せん#Thousand#Sẽ thêm vào sau
 万#まん#Ten thousand#Sẽ thêm vào sau
-すみません#すみません#Excuse me#Sẽ thêm vào sau
-じゃ#じゃ#Well, then, in that case#Sẽ thêm vào sau
+すみません#-#Excuse me#Sẽ thêm vào sau
+じゃ#-#Well, then, in that case#Sẽ thêm vào sau
 起きます#おきます#Get up, wake up#Sẽ thêm vào sau
 寝ます#ねます#Sleep, go to bed#Sẽ thêm vào sau
 働きます#はたらきます#Work#Sẽ thêm vào sau
 休みます#やすみます#Take a rest, take a holiday#Sẽ thêm vào sau
 勉強します#べんきょうします#Study#Sẽ thêm vào sau
 終わります#おわります#Finish#Sẽ thêm vào sau
-デパート#デパート#Department store#Sẽ thêm vào sau
+デパート#-#Department store#Sẽ thêm vào sau
 銀行#ぎんこう#Bank#Sẽ thêm vào sau
 郵便局#ゆうびんきょく#Post office#Sẽ thêm vào sau
 図書館#としょかん#Library#Sẽ thêm vào sau
@@ -145,11 +145,11 @@
 朝#あさ#Morning#Sẽ thêm vào sau
 昼#ひる#Daytime, noon#Sẽ thêm vào sau
 晩（夜）#ばん（よる）#Night, evening#Sẽ thêm vào sau
-おととい#おととい#The day before yesterday#Sẽ thêm vào sau
+おととい#-#The day before yesterday#Sẽ thêm vào sau
 昨日#きのう#Yesterday#Sẽ thêm vào sau
 今日#きょう#Today#Sẽ thêm vào sau
 明日#あした#Tomorrow#Sẽ thêm vào sau
-あさって#あさって#The day after tomorrow#Sẽ thêm vào sau
+あさって#-#The day after tomorrow#Sẽ thêm vào sau
 今朝#けさ#This morning#Sẽ thêm vào sau
 今晩#こんばん#This evening, tonight#Sẽ thêm vào sau
 休み#やすみ#Rest, a holiday, a day off#Sẽ thêm vào sau
@@ -167,22 +167,22 @@
 何曜日#なんようび#What day of the week#Sẽ thêm vào sau
 番号#ばんごう#Number#Sẽ thêm vào sau
 何番#なんばん#What number#Sẽ thêm vào sau
-～から#～から#From ~#Sẽ thêm vào sau
-～まで#～まで#Up to ~, until ~#Sẽ thêm vào sau
-～と～#～と～#And (used to connect nouns)#Sẽ thêm vào sau
+～から#-#From ~#Sẽ thêm vào sau
+～まで#-#Up to ~, until ~#Sẽ thêm vào sau
+～と～#-#And (used to connect nouns)#Sẽ thêm vào sau
 行きます#いきます#Go#Sẽ thêm vào sau
 来ます#きます#Come#Sẽ thêm vào sau
 帰ります#かえります#Go home, return#Sẽ thêm vào sau
 学校#がっこう#School#Sẽ thêm vào sau
-スーパー#スーパー#Supermarket#Sẽ thêm vào sau
+スーパー#-#Supermarket#Sẽ thêm vào sau
 駅#えき#Station#Sẽ thêm vào sau
 飛行機#ひこうき#Airplane#Sẽ thêm vào sau
 船#ふね#Ship#Sẽ thêm vào sau
 電車#でんしゃ#Electric train#Sẽ thêm vào sau
 地下鉄#ちかてつ#Subway, underground#Sẽ thêm vào sau
 新幹線#しんかんせん#Shinkansen, the bullet train#Sẽ thêm vào sau
-バス#バス#Bus#Sẽ thêm vào sau
-タクシー#タクシー#Taxi#Sẽ thêm vào sau
+バス#-#Bus#Sẽ thêm vào sau
+タクシー#-#Taxi#Sẽ thêm vào sau
 自転車#じてんしゃ#Bicycle#Sẽ thêm vào sau
 歩いて#あるいて#On foot#Sẽ thêm vào sau
 人#ひと#Person, people#Sẽ thêm vào sau
@@ -216,13 +216,13 @@
 ２０日#はつか#Twentieth, twenty days#Sẽ thêm vào sau
 ２４日#にじゅうよっか#Twenty fourth, twenty four days#Sẽ thêm vào sau
 ～日#～にち#Which day of the month, how many days#Sẽ thêm vào sau
-いつ#いつ#When#Sẽ thêm vào sau
+いつ#-#When#Sẽ thêm vào sau
 誕生日#たんじょうび#Birthday#Sẽ thêm vào sau
 普通#ふつう#Local (train)#Sẽ thêm vào sau
 急行#きゅうこう#Rapid#Sẽ thêm vào sau
 特急#とっきゅう#Express#Sẽ thêm vào sau
 次の#つぎの#Next#Sẽ thêm vào sau
-どういたしまして#どういたしまして#You''re welcome/don''t mention it#Sẽ thêm vào sau
+どういたしまして#-#You''re welcome/don''t mention it#Sẽ thêm vào sau
 ～番線#～ばんせん#Platform ~, ~ th platform#Sẽ thêm vào sau
 食べます#たべます#Eat#Sẽ thêm vào sau
 飲みます#のみます#Drink#Sẽ thêm vào sau
@@ -233,13 +233,13 @@
 書きます#かきます#Write, draw, paint#Sẽ thêm vào sau
 買います#かいます#Buy#Sẽ thêm vào sau
 撮ります#とります#Take [a photograph]#Sẽ thêm vào sau
-します#します#Do#Sẽ thêm vào sau
+します#-#Do#Sẽ thêm vào sau
 会います#あいます#Meet [a friend]#Sẽ thêm vào sau
-ごはん#ごはん#A meal, cooked rice#Sẽ thêm vào sau
+ごはん#-#A meal, cooked rice#Sẽ thêm vào sau
 朝ごはん#あさごはん#Breakfast#Sẽ thêm vào sau
 昼ごはん#ひるごはん#Lunch#Sẽ thêm vào sau
 晩ごはん#ばんごはん#Supper#Sẽ thêm vào sau
-パン#パン#Bread#Sẽ thêm vào sau
+パン#-#Bread#Sẽ thêm vào sau
 卵#たまご#Egg#Sẽ thêm vào sau
 肉#にく#Meat#Sẽ thêm vào sau
 魚#さかな#Fish#Sẽ thêm vào sau
@@ -248,58 +248,808 @@
 水#みず#Water#Sẽ thêm vào sau
 お茶#おちゃ#Tea, green tea#Sẽ thêm vào sau
 紅茶#こうちゃ#Black tea#Sẽ thêm vào sau
-牛乳#ぎゅうにゅう#（ミルク）#Milk#Sẽ thêm vào sau
-ジュース#ジュース#Juice#Sẽ thêm vào sau
-ビール#ビール#Beer#Sẽ thêm vào sau
+牛乳#ぎゅうにゅう#（ミルク）#Milkジュースビール#-#Beer#Sẽ thêm vào sau
 「お」酒#「お」さけ#Alcohol, Japanese rice wine#Sẽ thêm vào sau
-ビデオ#ビデオ#Video tape, video deck#Sẽ thêm vào sau
+ビデオ#-#Video tape, video deck#Sẽ thêm vào sau
 映画#えいが#Movie#Sẽ thêm vào sau
 手紙#てがみ#Letter#Sẽ thêm vào sau
-レポート#レポート#Report#Sẽ thêm vào sau
+レポート#-#Report#Sẽ thêm vào sau
 写真#しゃしん#Photograph#Sẽ thêm vào sau
 店#みせ#Store, shop#Sẽ thêm vào sau
-レストラン#レストラン#Restaurant#Sẽ thêm vào sau
+レストラン#-#Restaurant#Sẽ thêm vào sau
 庭#にわ#Garden#Sẽ thêm vào sau
 宿題#しゅくだい#Homework#Sẽ thêm vào sau
-テニス#テニス#Tennis#Sẽ thêm vào sau
-サッカー#サッカー#Soccer, football#Sẽ thêm vào sau
+テニス#-#Tennis#Sẽ thêm vào sau
+サッカー#-#Soccer, football#Sẽ thêm vào sau
 「お」花見#「お」はなみ#Cherry-blossom viewing#Sẽ thêm vào sau
 *何#なに#What#Sẽ thêm vào sau
-いっしょに#いっしょに#Together#Sẽ thêm vào sau
-ちょっと#ちょっと#A little while, a little bit#Sẽ thêm vào sau
-いつも#いつも#Always, usually#Sẽ thêm vào sau
+いっしょに#-#Together#Sẽ thêm vào sau
+ちょっと#-#A little while, a little bit#Sẽ thêm vào sau
+いつも#-#Always, usually#Sẽ thêm vào sau
 時々#ときどき#Sometimes#Sẽ thêm vào sau
-それから#それから#After that, and then#Sẽ thêm vào sau
-ええ#ええ#Yes#Sẽ thêm vào sau
-いいですね#いいですね#That''s good#Sẽ thêm vào sau
+それから#-#After that, and then#Sẽ thêm vào sau
+ええ#-#Yes#Sẽ thêm vào sau
+いいですね#-#That''s good#Sẽ thêm vào sau
 じゃ、また「明日」#じゃ、また「あした」#See you [tomorrow]#Sẽ thêm vào sau
 切ります#きります#Cut, slide#Sẽ thêm vào sau
 送ります#おくります#Send#Sẽ thêm vào sau
-あげます#あげます#Give#Sẽ thêm vào sau
-もらいます#もらいます#Receive#Sẽ thêm vào sau
+あげます#-#Give#Sẽ thêm vào sau
+もらいます#-#Receive#Sẽ thêm vào sau
 貸します#かします#Lend#Sẽ thêm vào sau
 借ります#かります#Borrow#Sẽ thêm vào sau
 教えます#おしえます#Teach#Sẽ thêm vào sau
 習います#ならいます#Learn#Sẽ thêm vào sau
-かけます#かけます#Make [a telephone call]#Sẽ thêm vào sau
+かけます#-#Make [a telephone call]#Sẽ thêm vào sau
 手#て#Hand, arm#Sẽ thêm vào sau
-はし#はし#Chopsticks#Sẽ thêm vào sau
-スプーン#スプーン#Spoon#Sẽ thêm vào sau
-ナイフ#ナイフ#Knife#Sẽ thêm vào sau
-フォーク#フォーク#Fork#Sẽ thêm vào sau
-はさみ#はさみ#Scissors#Sẽ thêm vào sau
-ファクス#ファクス#Fax#Sẽ thêm vào sau
-ワープロ#ワープロ#Word processor#Sẽ thêm vào sau
-パソコン#パソコン#Personal computer#Sẽ thêm vào sau
-パンチ#パンチ#Punch#Sẽ thêm vào sau
-ホッチキス#ホッチキス#Stapler#Sẽ thêm vào sau
-セロテープ#セロテープ#Scotch tape, clear adhesive tape#Sẽ thêm vào sau
+はし#-#Chopsticks#Sẽ thêm vào sau
+スプーン#-#Spoon#Sẽ thêm vào sau
+ナイフ#-#Knife#Sẽ thêm vào sau
+フォーク#-#Fork#Sẽ thêm vào sau
+はさみ#-#Scissors#Sẽ thêm vào sau
+ファクス#-#Fax#Sẽ thêm vào sau
+ワープロ#-#Word processor#Sẽ thêm vào sau
+パソコン#-#Personal computer#Sẽ thêm vào sau
+パンチ#-#Punch#Sẽ thêm vào sau
+ホッチキス#-#Stapler#Sẽ thêm vào sau
+セロテープ#-#Scotch tape, clear adhesive tape#Sẽ thêm vào sau
 消しゴム#けしゴム#Eraser#Sẽ thêm vào sau
 紙#かみ#Paper#Sẽ thêm vào sau
 花#はな#Flower, blossom#Sẽ thêm vào sau
-シャツ#シャツ#Shirt#Sẽ thêm vào sau
-プレゼント#プレゼント#Present, gift#Sẽ thêm vào sau
+シャツ#-#Shirt#Sẽ thêm vào sau
+プレゼント#-#Present, gift#Sẽ thêm vào sau
 荷物#にもつ#Baggage, parcel#Sẽ thêm vào sau
 お金#おかね#Money#Sẽ thêm vào sau
 切符#きっぷ#Ticket#Sẽ thêm vào sau
-クリスマス#クリスマス#Christmas#Sẽ thêm vào sau
+クリスマス#-#Christmas#Sẽ thêm vào sau
+父#ちち#(My) father#Sẽ thêm vào sau
+母#はは#(My) mother#Sẽ thêm vào sau
+お父さん#おとうさん#(Someone else''s) father#Sẽ thêm vào sau
+お母さん#おかあさん#(Someone else''s) mother#Sẽ thêm vào sau
+もう#-#Aldready#Sẽ thêm vào sau
+まだ#-#Not yet#Sẽ thêm vào sau
+これから#-#From now on, soon#Sẽ thêm vào sau
+ハンサム「な」#-#Handsome#Sẽ thêm vào sau
+きれい「な」#-#Beautiful, clean#Sẽ thêm vào sau
+静か「な」#しずか「な」#Quiet#Sẽ thêm vào sau
+にぎやか「な」#-#Lively#Sẽ thêm vào sau
+有名「な」#ゆうめい「な」#Famous#Sẽ thêm vào sau
+親切「な」#しんせつ「な」#Kind#Sẽ thêm vào sau
+元気「な」#げんき「な」#Healthy, sound, cheerful#Sẽ thêm vào sau
+暇「な」#ひま「な」#Free (time)#Sẽ thêm vào sau
+便利「な」#べんり「な」#Convenient#Sẽ thêm vào sau
+すてき「な」#-#Fine, nice, wonderful#Sẽ thêm vào sau
+大きい#おおきい#Big, large#Sẽ thêm vào sau
+小さい#ちいさい#Small, little#Sẽ thêm vào sau
+新しい#あたらしい#New#Sẽ thêm vào sau
+古い#ふるい#Old (not of age)#Sẽ thêm vào sau
+いい（よい）#-#Good#Sẽ thêm vào sau
+悪い#わるい#Bad#Sẽ thêm vào sau
+暑い（熱い）#あつい#Hot#Sẽ thêm vào sau
+寒い#さむい#Cold (referring to temperature)#Sẽ thêm vào sau
+冷たい#つめたい#Cold (referring to touch)#Sẽ thêm vào sau
+難しい#むずかしい#Difficult#Sẽ thêm vào sau
+易しい#やさしい#Easy#Sẽ thêm vào sau
+高い#たかい#Expensive, tall, high#Sẽ thêm vào sau
+安い#やすい#Cheap#Sẽ thêm vào sau
+低い#ひくい#Low#Sẽ thêm vào sau
+おもしろい#-#Interesting#Sẽ thêm vào sau
+おいしい#-#Delicious, tasty#Sẽ thêm vào sau
+忙しい#いそがしい#Busy#Sẽ thêm vào sau
+楽しい#たのしい#Enjoyable#Sẽ thêm vào sau
+白い#しろい#White#Sẽ thêm vào sau
+黒い#くろい#Black#Sẽ thêm vào sau
+赤い#あかい#Red#Sẽ thêm vào sau
+青い#あおい#Blue#Sẽ thêm vào sau
+緑#みどり#Green#Sẽ thêm vào sau
+紫#むらさき#Purple#Sẽ thêm vào sau
+黄色#きいろ#Yellow#Sẽ thêm vào sau
+茶色#ちゃいろ#Brown#Sẽ thêm vào sau
+ピンク#-#Pink#Sẽ thêm vào sau
+オレンジ#-#Orange#Sẽ thêm vào sau
+グレー#-#Gray#Sẽ thêm vào sau
+桜#さくら#Cherry (blossom)#Sẽ thêm vào sau
+山#やま#Mountain#Sẽ thêm vào sau
+町#まち#Town, city#Sẽ thêm vào sau
+食べ物#たべもの#Food#Sẽ thêm vào sau
+車#くるま#Car, Vehicle#Sẽ thêm vào sau
+所#ところ#Place#Sẽ thêm vào sau
+寮#りょう#Dormitory#Sẽ thêm vào sau
+勉強#べんきょう#Study#Sẽ thêm vào sau
+生活#せいかつ#Life#Sẽ thêm vào sau
+「お」仕事#「お」しごと#Work, business#Sẽ thêm vào sau
+どう#-#How#Sẽ thêm vào sau
+どんな~#-#What kind of ~#Sẽ thêm vào sau
+どれ#-#Which one (of three or more)#Sẽ thêm vào sau
+とても#-#Very#Sẽ thêm vào sau
+あまり#-#Not so (used with negatives)#Sẽ thêm vào sau
+甘い#あまい#Sweet#Sẽ thêm vào sau
+辛い#からい#Hot#Sẽ thêm vào sau
+苦い#にがい#Bitter#Sẽ thêm vào sau
+塩辛い#しおからい#Salty#Sẽ thêm vào sau
+酸っぱい#すっぱい#Sour#Sẽ thêm vào sau
+濃い#こい#Thick, strong#Sẽ thêm vào sau
+薄い#うすい#Thin, weak#Sẽ thêm vào sau
+わかります#-#Understand#Sẽ thêm vào sau
+あります#-#Have#Sẽ thêm vào sau
+好き「な」#すき「な」#Like#Sẽ thêm vào sau
+嫌い「な」#きらい「な」#Dislike#Sẽ thêm vào sau
+上手「な」#じょうず「な」#Good at#Sẽ thêm vào sau
+下手「な」#へた「な」#Poor at#Sẽ thêm vào sau
+料理#りょうり#Dish (cooked food), cooking#Sẽ thêm vào sau
+飲み物#のみもの#Drinks#Sẽ thêm vào sau
+スポーツ#-#Sports#Sẽ thêm vào sau
+野球#やきゅう#Baseball#Sẽ thêm vào sau
+ダンス#-#Dance#Sẽ thêm vào sau
+音楽#おんがく#Music#Sẽ thêm vào sau
+歌#うた#Song#Sẽ thêm vào sau
+クラシック#-#Classical music#Sẽ thêm vào sau
+ジャズ#-#Jazz#Sẽ thêm vào sau
+コンサート#-#Concert#Sẽ thêm vào sau
+カラオケ#-#Karaoke#Sẽ thêm vào sau
+歌舞伎#かぶき#Kabuki (traditional Japanese musical drama)#Sẽ thêm vào sau
+絵#え#Picture, drawing#Sẽ thêm vào sau
+字#じ#Letter, character#Sẽ thêm vào sau
+漢字#かんじ#Chinese characters#Sẽ thêm vào sau
+細かいお金#こまかいおかね#Small change#Sẽ thêm vào sau
+チケット#-#Ticket#Sẽ thêm vào sau
+時間#じかん#Time#Sẽ thêm vào sau
+用事#ようじ#Something to do, errand#Sẽ thêm vào sau
+約束#やくそく#Appointment, promise#Sẽ thêm vào sau
+ご主人#ごしゅじん#(Someone else''s) husband#Sẽ thêm vào sau
+夫#おっと#(My) husband#Sẽ thêm vào sau
+奥さん#おくさん#(Someone else''s) wife#Sẽ thêm vào sau
+妻#つま#(My) wife#Sẽ thêm vào sau
+子供#こども#Child#Sẽ thêm vào sau
+よく#-#Well, much#Sẽ thêm vào sau
+だいたい#-#Mostly, roughly#Sẽ thêm vào sau
+たくさん#-#Many, much#Sẽ thêm vào sau
+少し#すこし#A little, a few#Sẽ thêm vào sau
+全然#ぜんぜん#Not at all (used with negatives)#Sẽ thêm vào sau
+早く［速く］#はやく#Early, quickly, fast#Sẽ thêm vào sau
+どうして#-#Why#Sẽ thêm vào sau
+いろいろ「な」#-#Various#Sẽ thêm vào sau
+男の人#おとこのひと#Man#Sẽ thêm vào sau
+女の人#おんなのひと#Woman#Sẽ thêm vào sau
+男の子#おとこのこ#Boy#Sẽ thêm vào sau
+女の子#おんなのこ#Girl#Sẽ thêm vào sau
+犬#いぬ#Dog#Sẽ thêm vào sau
+猫#ねこ#Cat#Sẽ thêm vào sau
+木#き#Tree#Sẽ thêm vào sau
+物#もの#Thing#Sẽ thêm vào sau
+電池#でんち#Battery#Sẽ thêm vào sau
+箱#はこ#Box#Sẽ thêm vào sau
+冷蔵庫#れいぞうこ#Refrigerator#Sẽ thêm vào sau
+テープル#-#Table#Sẽ thêm vào sau
+ベッド#-#Bed#Sẽ thêm vào sau
+棚#たな#Shelf#Sẽ thêm vào sau
+ドア#-#Door#Sẽ thêm vào sau
+窓#まど#Window#Sẽ thêm vào sau
+ポスト#-#Mailbox, postbox#Sẽ thêm vào sau
+ビル#-#Building#Sẽ thêm vào sau
+公園#こうえん#Park#Sẽ thêm vào sau
+喫茶店#きっさてん#Coffee shop#Sẽ thêm vào sau
+本屋#ほんや#Bookstore#Sẽ thêm vào sau
+県#けん#Prefecture#Sẽ thêm vào sau
+上#うえ#On, above, over#Sẽ thêm vào sau
+下#した#Under, below, beneath#Sẽ thêm vào sau
+前#まえ#Front, before#Sẽ thêm vào sau
+後ろ#うしろ#Back, behind#Sẽ thêm vào sau
+右#みぎ#Right [side]#Sẽ thêm vào sau
+左#ひだり#Left [side]#Sẽ thêm vào sau
+中#なか#In, inside#Sẽ thêm vào sau
+外#そと#Outside#Sẽ thêm vào sau
+隣#となり#Next, next door#Sẽ thêm vào sau
+近く#ちかく#Near, vicinity#Sẽ thêm vào sau
+間#あいだ#Between, among#Sẽ thêm vào sau
+玄関#げんかん#Entrance hall#Sẽ thêm vào sau
+風呂場#ふろば#Bathroom#Sẽ thêm vào sau
+洗面所#せんめんじょ#Washroom#Sẽ thêm vào sau
+台所#だいどころ#Kitchen#Sẽ thêm vào sau
+居間#いま#Living room#Sẽ thêm vào sau
+寝室#しんしつ#Bedroom#Sẽ thêm vào sau
+りんご#-#Apple#Sẽ thêm vào sau
+みかん#-#Mandarin orange#Sẽ thêm vào sau
+切手#きって#Postage stamp#Sẽ thêm vào sau
+はがき#-#Post card#Sẽ thêm vào sau
+封筒#ふうとう#Envelope#Sẽ thêm vào sau
+速達#そくたつ#Special delivery#Sẽ thêm vào sau
+書留#かきとめ#Registered mail#Sẽ thêm vào sau
+航空便#こうくうびん#Airmail#Sẽ thêm vào sau
+船便#ふなびん#Sea mail#Sẽ thêm vào sau
+両親#りょうしん#Parents#Sẽ thêm vào sau
+兄弟#きょうだい#Brothers and sisters#Sẽ thêm vào sau
+兄#あに#(My) elder brother#Sẽ thêm vào sau
+お兄さん#おにいさん#(Someone else''s) elder brother#Sẽ thêm vào sau
+姉#あね#(My) elder sister#Sẽ thêm vào sau
+お姉さん#おねえさん#(Someone else''s) elder sister#Sẽ thêm vào sau
+弟#おとうと#(My) younger brother#Sẽ thêm vào sau
+弟さん#おとうとさん#(Someone else''s) younger brother#Sẽ thêm vào sau
+妹#いもうと#(My) younger sister#Sẽ thêm vào sau
+妹さん#いもうとさん#(Someone else''s) younger sister#Sẽ thêm vào sau
+外国#がいこく#Foreign country#Sẽ thêm vào sau
+どのくらい#-#How long#Sẽ thêm vào sau
+全部で#ぜんぶで#In total#Sẽ thêm vào sau
+みんな#-#All, everything#Sẽ thêm vào sau
+だけ#-#Only#Sẽ thêm vào sau
+簡単「な」#かんたん「な」#Easy, simple#Sẽ thêm vào sau
+近い#ちかい#Near#Sẽ thêm vào sau
+遠い#とおい#Far#Sẽ thêm vào sau
+遅い#おそい#Slow, late#Sẽ thêm vào sau
+多い#おおい#Many [people], much#Sẽ thêm vào sau
+少ない#すくない#Few [people], a little#Sẽ thêm vào sau
+暖かい（温かい）#あたたかい#Warm#Sẽ thêm vào sau
+涼しい#すずしい#Cool#Sẽ thêm vào sau
+重い#おもい#Heavy#Sẽ thêm vào sau
+軽い#かるい#Light#Sẽ thêm vào sau
+季節#きせつ#Season#Sẽ thêm vào sau
+春#はる#Spring#Sẽ thêm vào sau
+夏#なつ#Summer#Sẽ thêm vào sau
+秋#あき#Autumn, fall#Sẽ thêm vào sau
+冬#ふゆ#Winter#Sẽ thêm vào sau
+天気#てんき#Weather#Sẽ thêm vào sau
+雨#あめ#Rain, rainy#Sẽ thêm vào sau
+雪#ゆき#Snow, snowy#Sẽ thêm vào sau
+曇り#くもり#Cloudy#Sẽ thêm vào sau
+ホテル#-#Hotel#Sẽ thêm vào sau
+空港#くうこう#Airport#Sẽ thêm vào sau
+海#うみ#Sea, ocean#Sẽ thêm vào sau
+世界#せかい#World#Sẽ thêm vào sau
+「お」祭り#「お」まつり#Festival#Sẽ thêm vào sau
+試験#しけん#Examination#Sẽ thêm vào sau
+*どちら#-#Which one (between two things)#Sẽ thêm vào sau
+どちらも#-#Both#Sẽ thêm vào sau
+初めて#はじめて#For the first time#Sẽ thêm vào sau
+遊びます#あそびます#Play#Sẽ thêm vào sau
+泳ぎます#およぎます#Swim#Sẽ thêm vào sau
+迎えます#むかえます#Go to meet, welcome#Sẽ thêm vào sau
+疲れます#つかれます#Get tired#Sẽ thêm vào sau
+出します#だします#Send [a letter]#Sẽ thêm vào sau
+入ります#はいります#Enter [a coffee shop]#Sẽ thêm vào sau
+出ます#でます#Go out [of a coffee shop]#Sẽ thêm vào sau
+結婚します#けっこんします#Marry, get married#Sẽ thêm vào sau
+買い物します#かいものします#Do shopping#Sẽ thêm vào sau
+食事します#しょくじします#Have a meal, dine#Sẽ thêm vào sau
+散歩します#さんぽします#Take a walk [in a park]#Sẽ thêm vào sau
+大変「な」#たいへん「な」#Hard, tough, severe, awful#Sẽ thêm vào sau
+欲しい#ほしい#Want (something)#Sẽ thêm vào sau
+寂しい#さびしい#Lonely#Sẽ thêm vào sau
+広い#ひろい#Wide, spacious#Sẽ thêm vào sau
+狭い#せまい#Narrow, small (room)#Sẽ thêm vào sau
+市役所#しやくしょ#Municipal office, city hall#Sẽ thêm vào sau
+プール#-#Swimming pool#Sẽ thêm vào sau
+川#かわ#River#Sẽ thêm vào sau
+経済#けいざい#Economy#Sẽ thêm vào sau
+美術#びじゅつ#Fine arts#Sẽ thêm vào sau
+釣り#つり#Fishing#Sẽ thêm vào sau
+スキー#-#Skiing#Sẽ thêm vào sau
+会議#かいぎ#Meeting, conference#Sẽ thêm vào sau
+週末#しゅうまつ#Weekend#Sẽ thêm vào sau
+何か#なにか#Something#Sẽ thêm vào sau
+どこか#-#Somewhere, some place#Sẽ thêm vào sau
+おなかがすきました#-#I''m hungry#Sẽ thêm vào sau
+おなかがいっぱいです#-#I''m full#Sẽ thêm vào sau
+のどがかわきました#-#I''m thirsty#Sẽ thêm vào sau
+博物館#はくぶつかん#Museum#Sẽ thêm vào sau
+美術館#びじゅつかん#Art museum#Sẽ thêm vào sau
+映画館#えいがかん#Movie theater#Sẽ thêm vào sau
+動物園#どうぶつえん#Zoo#Sẽ thêm vào sau
+遊園地#ゆうえんち#Amusement park#Sẽ thêm vào sau
+お寺#おてら#Buddhist temple#Sẽ thêm vào sau
+神社#じんじゃ#Shinto shrine#Sẽ thêm vào sau
+教会#きょうかい#Christian church#Sẽ thêm vào sau
+体育館#たいいくかん#Gymnasium #Sẽ thêm vào sau
+大使館#たいしかん#Embassy#Sẽ thêm vào sau
+入国管理局#にゅうこくかんりきょく#Immigration bureau#Sẽ thêm vào sau
+警察署#けいさつしょ#Police#Sẽ thêm vào sau
+交番#こうばん#Police box#Sẽ thêm vào sau
+消防署#しょうぼうしょ#Fire station#Sẽ thêm vào sau
+駐車場#ちゅうしゃじょう#Parking lot#Sẽ thêm vào sau
+高校#こうこう#Senior high school#Sẽ thêm vào sau
+中学校#ちゅうがっこう#Junior high school#Sẽ thêm vào sau
+小学校#しょうがっこう#Elementary school#Sẽ thêm vào sau
+幼稚園#ようちえん#Kindergarten#Sẽ thêm vào sau
+肉屋#にくや#Butcher''s shop#Sẽ thêm vào sau
+パン屋#パンや#Bakery#Sẽ thêm vào sau
+魚屋#さかなや#Fishmonger''s#Sẽ thêm vào sau
+酒屋#さかや#Liquor shop#Sẽ thêm vào sau
+八百屋#やおや#Vegerable shop#Sẽ thêm vào sau
+コンビニ#-#Convenience store#Sẽ thêm vào sau
+つけます#-#Turn on#Sẽ thêm vào sau
+消します#けします#Turn off#Sẽ thêm vào sau
+開けます#あけます#Open#Sẽ thêm vào sau
+閉めます#しめます#Close, shut#Sẽ thêm vào sau
+急ぎます#いそぎます#Hurry#Sẽ thêm vào sau
+待ちます#まちます#Wait#Sẽ thêm vào sau
+止めます#とめます#Stop, park#Sẽ thêm vào sau
+曲がります#まがります#Turn [to the left]#Sẽ thêm vào sau
+持ちます#もちます#Hold#Sẽ thêm vào sau
+取ります#とります#Take, pass#Sẽ thêm vào sau
+手伝います#てつだいます#Help (with a task)#Sẽ thêm vào sau
+呼びます#よびます#Call#Sẽ thêm vào sau
+話します#はなします#Speak, talk#Sẽ thêm vào sau
+見せます#みせます#Show#Sẽ thêm vào sau
+*教えます#おしえます#Tell [an address]#Sẽ thêm vào sau
+始めます#はじめます#Start, begin#Sẽ thêm vào sau
+降ります#ふります#Rain#Sẽ thêm vào sau
+コピーします#-#Copy#Sẽ thêm vào sau
+エアコン#-#Air conditioner#Sẽ thêm vào sau
+パスポート#-#Passport#Sẽ thêm vào sau
+名前#なまえ#Name#Sẽ thêm vào sau
+住所#じゅうしょ#Address#Sẽ thêm vào sau
+地図#ちず#Map#Sẽ thêm vào sau
+塩#しお#Salt#Sẽ thêm vào sau
+砂糖#さとう#Sugar#Sẽ thêm vào sau
+公務員#こうむいん#Civil servant#Sẽ thêm vào sau
+駅員#えきいん#Station clerk#Sẽ thêm vào sau
+郵便局員#ゆうびんきょくいん#Postman#Sẽ thêm vào sau
+店員#てんいん#Shop clerk#Sẽ thêm vào sau
+調理師#ちょうりし#Cook#Sẽ thêm vào sau
+理容師#りようし#Barber#Sẽ thêm vào sau
+美容師#びようし#Beautician#Sẽ thêm vào sau
+運転手#うんてんしゅ#Driver#Sẽ thêm vào sau
+警察官#けいさつかん#Policeman#Sẽ thêm vào sau
+外交官#がいこうかん#Diplomat#Sẽ thêm vào sau
+政治家#せいじか#Politician#Sẽ thêm vào sau
+画家#がか#Painter#Sẽ thêm vào sau
+作家#さっか#Author#Sẽ thêm vào sau
+音楽家#おんがくか#Musician#Sẽ thêm vào sau
+建築家#けんちくか#Architect#Sẽ thêm vào sau
+デザイナー#-#Designer#Sẽ thêm vào sau
+シャーナリスト#-#Journalist#Sẽ thêm vào sau
+歌手#かしゅ#Singer#Sẽ thêm vào sau
+俳優#はいゆう#Actor/actress#Sẽ thêm vào sau
+スポーツ選手#すぽーつせんしゅ#Athlete#Sẽ thêm vào sau
+乗ります#のります#Ride, get on [a train]#Sẽ thêm vào sau
+*降ります#ふります#Get off [a train]#Sẽ thêm vào sau
+乗り換えます#のりかえます#Change (trains...)#Sẽ thêm vào sau
+浴びます#あびます#Take [a shower]#Sẽ thêm vào sau
+入れます#いれます#Put in, insert#Sẽ thêm vào sau
+*出します#だします#Take out, withdraw #Sẽ thêm vào sau
+*入ります#はいります#Enter [university]#Sẽ thêm vào sau
+*出ます#でます#Graduate from [university]#Sẽ thêm vào sau
+やめます#-#Quit or retire from [a company], stop, give up#Sẽ thêm vào sau
+押します#おします#Push, press#Sẽ thêm vào sau
+若い#わかい#Young#Sẽ thêm vào sau
+長い#ながい#Long#Sẽ thêm vào sau
+短い#みじかい#Short#Sẽ thêm vào sau
+明るい#あかるい#Bright, light#Sẽ thêm vào sau
+暗い#くらい#Dark#Sẽ thêm vào sau
+背が高い#せがたかい#Tall (referring to person)#Sẽ thêm vào sau
+頭がいい#あたまがいい#Clever, smart#Sẽ thêm vào sau
+体#からだ#Body#Sẽ thêm vào sau
+頭#あたま#Head#Sẽ thêm vào sau
+髪#かみ#Hair#Sẽ thêm vào sau
+顔#かお#Face#Sẽ thêm vào sau
+目#め#Eye#Sẽ thêm vào sau
+耳#みみ#Ear#Sẽ thêm vào sau
+口#くち#Mouth#Sẽ thêm vào sau
+歯#は#Tooth#Sẽ thêm vào sau
+おなか#-#Stomach#Sẽ thêm vào sau
+足#あし#Leg, foot#Sẽ thêm vào sau
+お預け入れ#おあずけいれ#Deposit#Sẽ thêm vào sau
+お引き出し#おひきだし#Drawing out#Sẽ thêm vào sau
+覚えます#おぼえます#Memorize#Sẽ thêm vào sau
+忘れます#わすれます#Forget#Sẽ thêm vào sau
+なくします#-#Lose#Sẽ thêm vào sau
+*出します*#だします#Hand in [a report]#Sẽ thêm vào sau
+払います#はらいます#Pay#Sẽ thêm vào sau
+返します#かえします#Give back, return#Sẽ thêm vào sau
+出かけます#でかけます#Go out#Sẽ thêm vào sau
+脱ぎます#ぬぎます#Take off (clothes, shoes...)#Sẽ thêm vào sau
+持って行きます#もっていきます#Take (something)#Sẽ thêm vào sau
+持って来ます#もってきます#Bring (something)#Sẽ thêm vào sau
+心配します#しんぱいします#Worry#Sẽ thêm vào sau
+残業します#ざんぎょうします#Work overtime#Sẽ thêm vào sau
+出張します#しゅっちょうします#Go on a business trip#Sẽ thêm vào sau
+*飲みます#のみます#Take [medicine]#Sẽ thêm vào sau
+薬#くすり#Medicine#Sẽ thêm vào sau
+大切「な」#たいせつ「な」#Important, precious#Sẽ thêm vào sau
+大丈夫「な」#だいじょうぶ「な」#All right#Sẽ thêm vào sau
+危ない#あぶない#Dangerous#Sẽ thêm vào sau
+問題#もんだい#Question, problem, trouble#Sẽ thêm vào sau
+答え#こたえ#Answer#Sẽ thêm vào sau
+禁煙#きんえん#No smoking#Sẽ thêm vào sau
+健康保険証#けんこうほけんしょう#Health insurance card#Sẽ thêm vào sau
+かぜ#-#Cold, flu#Sẽ thêm vào sau
+熱#ねつ#Fever#Sẽ thêm vào sau
+病気#びょうき#Illness, disease#Sẽ thêm vào sau
+「お」ふろ#-#Bath#Sẽ thêm vào sau
+上着#うわぎ#Jacket, outerwear#Sẽ thêm vào sau
+下着#したぎ#Underwear#Sẽ thêm vào sau
+*先生#せんせい#Medical doctor#Sẽ thêm vào sau
+ですから#-#Therefore, so#Sẽ thêm vào sau
+お大事に#おだいじに#Take care of yourself#Sẽ thêm vào sau
+頭が痛い#あたまがいたい#Have a headache#Sẽ thêm vào sau
+おなかが痛い#おなかがいたい#Have a stomach-ache#Sẽ thêm vào sau
+歯が痛い#はがいたい#Have a toothache#Sẽ thêm vào sau
+熱がある#ねつがある#Have a fever#Sẽ thêm vào sau
+せきが出る#せきがでる#Have a cough#Sẽ thêm vào sau
+鼻水が出る#はなみずが出る#Have a runny nose#Sẽ thêm vào sau
+血が出る#ちがでる#Bleed#Sẽ thêm vào sau
+吐き気がする#はきけがする#Feel nauseous#Sẽ thêm vào sau
+寒気がする#さむけがする#Feel a chill#Sẽ thêm vào sau
+めまいがする#-#Feel dizzy#Sẽ thêm vào sau
+かゆい#-#Itchy#Sẽ thêm vào sau
+できます#-#Be able to, can#Sẽ thêm vào sau
+洗います#あらいます#Wash#Sẽ thêm vào sau
+弾きます#ひきます#Play (stringed instrument or piano)#Sẽ thêm vào sau
+歌います#うたいます#Sing#Sẽ thêm vào sau
+集めます#あつめます#Collect, gather#Sẽ thêm vào sau
+捨てます#すてます#Throw away#Sẽ thêm vào sau
+換えます#かえます#Exchange, change#Sẽ thêm vào sau
+運転します#うんてんします#Drive#Sẽ thêm vào sau
+予約します#よやくします#Reserve, book#Sẽ thêm vào sau
+見学します#けんがくします#Visit some place for study#Sẽ thêm vào sau
+ピアノ#-#Piano#Sẽ thêm vào sau
+メートル#-#Meter#Sẽ thêm vào sau
+国際#こくさい#International#Sẽ thêm vào sau
+現金#げんきん#Cash#Sẽ thêm vào sau
+趣味#しゅみ#Hobby#Sẽ thêm vào sau
+日記#にっき#Diary#Sẽ thêm vào sau
+「お」祈り#「お」いのり#Prayer#Sẽ thêm vào sau
+課長#かちょう#Section chief#Sẽ thêm vào sau
+部長#ぶちょう#Department chief#Sẽ thêm vào sau
+社長#しゃちょう#President of a company#Sẽ thêm vào sau
+動物#どうぶつ#Animal#Sẽ thêm vào sau
+馬#うま#Horse#Sẽ thêm vào sau
+ぜひ#-#By all means#Sẽ thêm vào sau
+飛ぶ#とぶ#Fly#Sẽ thêm vào sau
+跳ぶ#とぶ#Jump#Sẽ thêm vào sau
+登る#のぼる#Climb#Sẽ thêm vào sau
+走る#はしる#Run#Sẽ thêm vào sau
+泳ぐ#およぐ#Swim#Sẽ thêm vào sau
+もぐる#-#Dive#Sẽ thêm vào sau
+飛び込む#とびこむ#Dive into#Sẽ thêm vào sau
+逆立ちする#さかだちする#Stand upside down#Sẽ thêm vào sau
+はう#-#Crawl#Sẽ thêm vào sau
+ける#-#Kick#Sẽ thêm vào sau
+持ち上げる#もちあげる#Lift#Sẽ thêm vào sau
+投げる#なげる#Throw#Sẽ thêm vào sau
+たたく#-#Pat#Sẽ thêm vào sau
+引く#ひく#Pull#Sẽ thêm vào sau
+押す#おす#Push#Sẽ thêm vào sau
+曲げる#まげる#Bend#Sẽ thêm vào sau
+伸ばす#のばす#Extend#Sẽ thêm vào sau
+転ぶ#ころぶ#Fall down#Sẽ thêm vào sau
+登ります#のぼります#Climb [a mountain]#Sẽ thêm vào sau
+泊まります#とまります#Stay [at a hotel]#Sẽ thêm vào sau
+掃除します#そうじします#Clean [a room]#Sẽ thêm vào sau
+洗濯します#せんたくします#Wash [clothes]#Sẽ thêm vào sau
+練習します#れんしゅうします#Practice#Sẽ thêm vào sau
+なります#-#Become#Sẽ thêm vào sau
+眠い#ねむい#Sleepy#Sẽ thêm vào sau
+強い#しい#Strong#Sẽ thêm vào sau
+弱い#よわい#Weak#Sẽ thêm vào sau
+調子がいい#ちょうしがいい#Be in good condition#Sẽ thêm vào sau
+調子が悪い#ちょうしがわるい#Be in bad condition#Sẽ thêm vào sau
+調子#ちょうし#Condition#Sẽ thêm vào sau
+ゴルフ#-#Golf#Sẽ thêm vào sau
+すもう#-#Sumo wrestling#Sẽ thêm vào sau
+日#ひ#Day, date#Sẽ thêm vào sau
+一度#いちど#Once#Sẽ thêm vào sau
+一度も#いちども#Not once, never#Sẽ thêm vào sau
+だんだん#-#Gradually#Sẽ thêm vào sau
+もうすぐ#-#Soon#Sẽ thêm vào sau
+実は#じつは#Actually, to tell the truth#Sẽ thêm vào sau
+何回も#なんかいも#Many times#Sẽ thêm vào sau
+しかし#-#But, however#Sẽ thêm vào sau
+無理「な」#むり「な」#Excessive, impossible#Sẽ thêm vào sau
+体にいい#からだにいい#Good for one''s health#Sẽ thêm vào sau
+要ります#いります#Need, require [a visa]#Sẽ thêm vào sau
+調べます#しらべます#Check, investigate#Sẽ thêm vào sau
+直します#なおします#Repair, correct#Sẽ thêm vào sau
+修理します#しゅうりします#Repair#Sẽ thêm vào sau
+電話します#でんわします#Phone#Sẽ thêm vào sau
+サラリーマン#-#Salaried worker, office worker#Sẽ thêm vào sau
+ことば#-#Word#Sẽ thêm vào sau
+物価#ぶっか#Commodity prices#Sẽ thêm vào sau
+着物#きもの#Kimono (traditional Japanese attire)#Sẽ thêm vào sau
+初め#はじめ#The beginning#Sẽ thêm vào sau
+終わり#おわり#The end#Sẽ thêm vào sau
+この間#このかん#The other day#Sẽ thêm vào sau
+みんなで#-#All together#Sẽ thêm vào sau
+思います#おもいます#Think#Sẽ thêm vào sau
+言います#いいます#Say#Sẽ thêm vào sau
+足ります#たります#Be enough, be sufficient#Sẽ thêm vào sau
+勝ちます#かちます#Win#Sẽ thêm vào sau
+負けます#まけます#Lose, be beaten#Sẽ thêm vào sau
+役に立ちます#やくにたちます#Be useful#Sẽ thêm vào sau
+むだ「な」#-#Wasteful#Sẽ thêm vào sau
+不便「な」#ふべん「な」#Inconvenient#Sẽ thêm vào sau
+同じ#おなじ#The same#Sẽ thêm vào sau
+すごい#-#Awful, great#Sẽ thêm vào sau
+首相#しゅしょう#Prime minister#Sẽ thêm vào sau
+大統領#だいとうりょう#President#Sẽ thêm vào sau
+政治#せいじ#Politics#Sẽ thêm vào sau
+ニュース#-#News#Sẽ thêm vào sau
+スピーチ#-#Speech#Sẽ thêm vào sau
+試合#しあい#Game, match#Sẽ thêm vào sau
+アルバイト#-#Part-time job#Sẽ thêm vào sau
+意見#いけん#Opinion#Sẽ thêm vào sau
+「お」話#はなし#Talk, speech, story#Sẽ thêm vào sau
+ユーモア#-#Humour#Sẽ thêm vào sau
+交通#こうつう#Transportation, traffic#Sẽ thêm vào sau
+ラッシュ#-#Rush hour#Sẽ thêm vào sau
+最近#さいきん#Recently, these days#Sẽ thêm vào sau
+たぶん#-#Probably, perhaps, maybe#Sẽ thêm vào sau
+きっと#-#Surely#Sẽ thêm vào sau
+ほんとうに#-#Really#Sẽ thêm vào sau
+そんなに#-#So, so much, like that#Sẽ thêm vào sau
+について#-#About, concerning#Sẽ thêm vào sau
+しかたがありません#-#There is no other choice#Sẽ thêm vào sau
+しばらくですね#-#Long time no see#Sẽ thêm vào sau
+もちろん#-#Of course#Sẽ thêm vào sau
+次期#じき#Next term (period)#Kế tiếp (giai đoạn, thời gian)
+就任「する」#しゅうにん#Inauguration#Sự nhậm chức
+自由党#じゆうとう#Liberal Party#Đảng tự do
+党首#とうしゅ#Party leader#Thủ lĩnh đảng
+会談#かいだん#Conference#Sự hội đàm
+政府#せいふ#Government#Chính phủ
+発表#はっぴょう#Announcement#Thông báo, Công bố
+大筋#おおすじ#Outline#Đề cương, nguyên tắc chung
+合意#ごうい#Agreement#Hiệp định, sự tán thành, sự thoả thuận
+達す#たっす#Reach#Đạt được
+環#かん#Ring#Vòng
+太平洋#たいへいよう#Pacific ocean#Thái Bình Dương
+連携#れんけい#Cooperation#Hợp tác
+締結#ていけつ#Conclusion#Sự ký kết (hiệp ước...)
+目指す#めざす#Aim#Mục đích, mục tiêu, ý định
+確認「する」#かくにん「する」#Confirmation#Sự xác nhận
+率いる#ひきいる#Lead#Lãnh đạo
+行われた#おこなわれた#It was conducted#Đã được tiến hành
+総選挙#そうせんきょ#Election#Cuộc bầu cử
+大勝#たいしょう#Great victory#Đại thắng
+政権#せいけん#Regime#Chế độ, chính thể
+進める#すすめる#Advance#Thúc đẩy, xúc tiến, đẩy nhanh
+交渉#こうしょう#Negotiation#Đàm phán
+に対して#にたいして#Regarding#Về việc, đối với
+斎場#さいじょう#Funeral hall#Nơi tổ chức tang lễ
+全容#ぜんよう#Full story#Hán Việt: Toàn Dung
+明らか「な」#あきらか「な」#Clear#Rõ ràng, hiển nhiên, sáng sủa
+限り#かぎり#(n) limit; (adv) as much as possible, as far as possible#Giới hạn, hạn chế, hạn
+賛成#さんせい#Agree#Sự tán thành
+賛否#さんぴ#Pros and cons#Sự tán thành và chống đối
+明言#めいげん#Proclamation#Sự tuyên bố, lời tuyên bố, bản tuyên ngôn
+避ける#さける#Avoid#Tránh, trốn tránh, lảng tránh
+支持#しじ#Support#Sự giúp đỡ
+明確「な」#めいかく「な」#Clear#Rõ ràng và chính xác
+格好#かっこう#Appearance#Tình trạng, vẻ bề ngoài, hình thức
+両国#りょうこく#Both countries#Cả hai nước
+成長#せいちょう#Growth#Sự trưởng thành, sự tăng trưởng
+雇用#こよう#Employment#Sự thuê mướn, sự tuyển dụng
+創出#そうしゅつ#Generation#Sự tạo ra, sự phát sinh ra
+必要#ひつよう#Need, want, necessity#Điều tất yếu
+認識#にんしき#Recognition, acknowledgment#Sự nhận thức
+一致#いっち#Coincidence, agreement, union, match#Sự nhất trí; sự giống nhau; sự thống nhất
+着ます#きます#Put on [shirt]#Sẽ thêm vào sau
+はきます#-#Put on [shoes, trousers]#Sẽ thêm vào sau
+かぶります#-#Put on [hat]#Sẽ thêm vào sau
+かけます#-#Put on [glasses]#Sẽ thêm vào sau
+生まれます#うまれます#Be born#Sẽ thêm vào sau
+コート#-#Coat#Sẽ thêm vào sau
+スーツ#-#Suit#Sẽ thêm vào sau
+セーター#-#Sweater#Sẽ thêm vào sau
+帽子#ぼうし#Hat, cap#Sẽ thêm vào sau
+眼鏡#めがね#Glasses#Sẽ thêm vào sau
+よく#-#Often#Sẽ thêm vào sau
+家賃#やちん#House rent#Sẽ thêm vào sau
+和室#わしつ#Japanese-style room#Sẽ thêm vào sau
+アパート#-#Apartment #Sẽ thêm vào sau
+聞きます#ききます#Ask [teacher]#Sẽ thêm vào sau
+回します#まわします#Turn#Sẽ thêm vào sau
+引きます#ひきます#Pull#Sẽ thêm vào sau
+変えます#かえます#Change#Sẽ thêm vào sau
+触ります#さわります#Touch [door]#Sẽ thêm vào sau
+出ます#でます#[Change] come out#Sẽ thêm vào sau
+動きます#うごきます#[A watch] move, work#Sẽ thêm vào sau
+歩きます#あるきます#Walk [along a road]#Sẽ thêm vào sau
+渡ります#わたります#Cross [bridge]#Sẽ thêm vào sau
+引っ越しします#ひっこしします#Move (house)#Sẽ thêm vào sau
+電気や#でんきや#Electrician#Sẽ thêm vào sau
+サイズ#-#Size#Sẽ thêm vào sau
+音#おと#Sound#Sẽ thêm vào sau
+機械#きかい#Machine#Sẽ thêm vào sau
+故障#こしょう#Breakdown#Sẽ thêm vào sau
+道#みち#Road, way#Sẽ thêm vào sau
+交差点#こうさてん#Crossroad#Sẽ thêm vào sau
+信号#しんごう#Traffic light#Sẽ thêm vào sau
+角#かど#Corner#Sẽ thêm vào sau
+橋#はし#Bridge#Sẽ thêm vào sau
+「お」正月#しょうがつ#New Year's Day#Sẽ thêm vào sau
+建物#たてもの#Building#Sẽ thêm vào sau
+歩道#ほどう#Side walk, pavement#Sẽ thêm vào sau
+車道#しゃどう#Road#Sẽ thêm vào sau
+高速道路#こうそくどうろ#Expressway, motorway#Sẽ thêm vào sau
+通り#とおり#Street#Sẽ thêm vào sau
+横断歩道#おうだんほどう#Pedestrian crossing#Sẽ thêm vào sau
+歩道橋#ほどうきょう#Pedestrian bridge#Sẽ thêm vào sau
+坂#さか#Slope#Sẽ thêm vào sau
+踏切#ふみきり#Railraod crossing#Sẽ thêm vào sau
+止まれ#とまれ#Stop#Sẽ thêm vào sau
+進入禁止#しんにゅうきんし#No entry#Sẽ thêm vào sau
+一方通行#いっぽうつうこう#One way#Sẽ thêm vào sau
+駐車禁止#ちゅうしゃきんし#No parking#Sẽ thêm vào sau
+右折禁止#うせつきんし#No turning right#Sẽ thêm vào sau
+くれます#-#Give (me)#Sẽ thêm vào sau
+連れて行きます#つれていきます#Take (someone)#Sẽ thêm vào sau
+連れて来ます#つれてきます#Bring (someone)#Sẽ thêm vào sau
+送ります#おくります#Escort [someone], go with#Sẽ thêm vào sau
+紹介します#しょうかいします#Introduce#Sẽ thêm vào sau
+案内します#あんないします#Show around, show the way#Sẽ thêm vào sau
+説明します#せつめいします#Explain#Sẽ thêm vào sau
+いれます#-#Make [coffee]#Sẽ thêm vào sau
+おじいさん#-#Grandfather#Sẽ thêm vào sau
+おじいちゃん#-#Old man#Sẽ thêm vào sau
+おばあさん#-#Grandmother#Sẽ thêm vào sau
+おばあちゃん#-#Old woman#Sẽ thêm vào sau
+準備#じゅんび#Preperation#Sẽ thêm vào sau
+意味#いみ#Meaning#Sẽ thêm vào sau
+「お」菓子#「お」かし#Sweets, snacks#Sẽ thêm vào sau
+全部#ぜんぶ#All#Sẽ thêm vào sau
+自分で#じぶんで#By oneself#Sẽ thêm vào sau
+考えます#かんがえます#Think, consider#Sẽ thêm vào sau
+着きます#つきます#Arrive [at the station]#Sẽ thêm vào sau
+留学します#りゅうがくします#Study abroad#Sẽ thêm vào sau
+取ります#とります#Grow old#Sẽ thêm vào sau
+田舎#いなか#Countryside, hometown#Sẽ thêm vào sau
+グレープ#-#Group#Sẽ thêm vào sau
+チャンス#-#Chance#Sẽ thêm vào sau
+億#おく#Hundred million#Sẽ thêm vào sau
+頑張ります#がんばります#Do one's best#Sẽ thêm vào sau
+赤ちゃん#あかちゃん#Baby#Sẽ thêm vào sau
+青年#せいねん#Youth#Sẽ thêm vào sau
+就職します#しゅうしょくします#Get a job#Sẽ thêm vào sau
+離婚します#りこんします#Divorce#Sẽ thêm vào sau
+再婚します#さいこんします#Marry again#Sẽ thêm vào sau
+中年#ちゅうねん#Middle age#Sẽ thêm vào sau
+老人#ろうじん#Old age#Sẽ thêm vào sau
+死にます#しにます#Die#Sẽ thêm vào sau
+探します#さがします#Look for, search#Sẽ thêm vào sau
+遅れます#おくれます#Be late [for an appointment]#Sẽ thêm vào sau
+間に合います#まにあいます#Be in time [for an appointment]#Sẽ thêm vào sau
+参加します#さんかします#Attend [a party]#Sẽ thêm vào sau
+申し込みます#もうしこみます#Apply for, enter for#Sẽ thêm vào sau
+都合がいい#つごうがいい#Convenient (concerning time)#Sẽ thêm vào sau
+都合が悪い#つごうがわるい#Inconvenient (concerning time)#Sẽ thêm vào sau
+気分がいい#きぶんがいい#Feel well#Sẽ thêm vào sau
+気分が悪い#きぶんがわるい#Feel ill#Sẽ thêm vào sau
+新聞社#しんぶんしゃ#Newspaper publishing company#Sẽ thêm vào sau
+柔道#じゅうどう#Judo#Sẽ thêm vào sau
+場所#ばしょ#Place#Sẽ thêm vào sau
+今度#こんど#Next time#Sẽ thêm vào sau
+直接#ちょくせつ#Directly#Sẽ thêm vào sau
+いつでも#-#Any time#Sẽ thêm vào sau
+どこでも#-#Anywhere#Sẽ thêm vào sau
+だれでも#-#Anybody#Sẽ thêm vào sau
+なんでも#-#Anything#Sẽ thêm vào sau
+飼います#かいます#Keep (a pet), raise (an animal)#Sẽ thêm vào sau
+建てます#たてます#Build#Sẽ thêm vào sau
+走ります#はしります#Run, drive [along road]#Sẽ thêm vào sau
+取ります#とります#Take [a holiday]#Sẽ thêm vào sau
+見えます#みえます#[A mountain] can be seen#Sẽ thêm vào sau
+聞こえます#きこえます#[A sound] can be heard#Sẽ thêm vào sau
+できます#-#[An airport] be made, be completed#Sẽ thêm vào sau
+開きます#ひらきます#Set up [a class], open, hold#Sẽ thêm vào sau
+ペット#-#Pet#Sẽ thêm vào sau
+鳥#とり#Bird#Sẽ thêm vào sau
+声#こえ#Voice#Sẽ thêm vào sau
+波#なみ#Wave#Sẽ thêm vào sau
+花火#はなび#Fireworks#Sẽ thêm vào sau
+景色#けしき#Scenery, view#Sẽ thêm vào sau
+昼間#ひるま#Daytime#Sẽ thêm vào sau
+昔#むかし#Old days, ancient times#Sẽ thêm vào sau
+道具#どうぐ#Tool, instrument, equipment#Sẽ thêm vào sau
+自動販売機#じどうはんばいき#Vending machine#Sẽ thêm vào sau
+通信販売#つうしんはんばい#Mail order, mail-order sales#Sẽ thêm vào sau
+ほかの#-#Other#Sẽ thêm vào sau
+売れます#うれます#[Bread] sell, be sold#Sẽ thêm vào sau
+踊ります#おどります#Dance#Sẽ thêm vào sau
+かみます#-#Chew, bite#Sẽ thêm vào sau
+選びます#えらびます#Choose#Sẽ thêm vào sau
+違います#ちがいます#Be different#Sẽ thêm vào sau
+通います#かよいます#Go to and from [university]#Sẽ thêm vào sau
+メモします#-#Take a memo#Sẽ thêm vào sau
+まじめ「な」#-#Serious#Sẽ thêm vào sau
+熱心「な」#ねっしん「な」#Earnest#Sẽ thêm vào sau
+優しい#やさしい#Gentle, kind#Sẽ thêm vào sau
+偉い#えらい#Great, admirable#Sẽ thêm vào sau
+ちょうどいい#-#Proper, just right#Sẽ thêm vào sau
+習慣#しゅうかん#Custom#Sẽ thêm vào sau
+経験#けいけん#Experience#Sẽ thêm vào sau
+力#ちから#Power#Sẽ thêm vào sau
+人気#にんき#Popularity#Sẽ thêm vào sau
+形#かたち#Form, shape#Sẽ thêm vào sau
+色#いろ#Colour #Sẽ thêm vào sau
+味#あじ#Taste#Sẽ thêm vào sau
+ガム#-#Chewing gum#Sẽ thêm vào sau
+品物#しなもの#Goods#Sẽ thêm vào sau
+値段#ねだん#Price#Sẽ thêm vào sau
+給料#きゅうりょう#Salary#Sẽ thêm vào sau
+ボーナス#-#Bonus#Sẽ thêm vào sau
+番組#ばんぐみ#Program#Sẽ thêm vào sau
+ドラマ#-#Drama#Sẽ thêm vào sau
+小説#しょうせつ#Novel#Sẽ thêm vào sau
+開きます#ひらきます#[A door] open#Sẽ thêm vào sau
+閉まります#しまります#[A door] close, shut#Sẽ thêm vào sau
+つきます#-#[A light] come on#Sẽ thêm vào sau
+消えます#きえます#[A light] go off, disappear#Sẽ thêm vào sau
+込みます#こみます#[A road] get crowded#Sẽ thêm vào sau
+すきます#-#[A road] get empty#Sẽ thêm vào sau
+壊れます#こわれます#[A chair] break#Sẽ thêm vào sau
+割れます#われます#[A glass] break, smash#Sẽ thêm vào sau
+折れます#おれます#[A tree] break, snap#Sẽ thêm vào sau
+破れます#やぶれます#[The paper] tear#Sẽ thêm vào sau
+汚れます#よごれます#[The clothes] get dirty#Sẽ thêm vào sau
+付きます#つきます#[A pocket] be attached#Sẽ thêm vào sau
+外れます#はずれます#[A botton] be undone#Sẽ thêm vào sau
+止まります#とまります#[An elevator] stop#Sẽ thêm vào sau
+まちがえます#-#Make a mistake#Sẽ thêm vào sau
+落とします#おとします#Drop, lose#Sẽ thêm vào sau
+掛かります#かかります#Be locked#Sẽ thêm vào sau
+「お」皿#「お」さら#Plate, dish#Sẽ thêm vào sau
+「お」ちゃわん#-#Rice bowl#Sẽ thêm vào sau
+コップ#-#Glass (vessel)#Sẽ thêm vào sau
+はります#-#Put up, post, paste#Sẽ thêm vào sau
+掛けます#かけます#Hang#Sẽ thêm vào sau
+飾ります#かざります#Display, decorate#Sẽ thêm vào sau
+並べます#ならべます#Arrange, line up#Sẽ thêm vào sau
+植えます#うえます#Plant#Sẽ thêm vào sau
+戻します#もどします#Return, put something back#Sẽ thêm vào sau
+まとめます#-#Put something together, sum up#Sẽ thêm vào sau
+しまいます#-#Put things in order, tidy up#Sẽ thêm vào sau
+決めます#きめます#Decide#Sẽ thêm vào sau
+知らせます#しらせます#Inform#Sẽ thêm vào sau
+相談します#そうだんします#Consult, discuss#Sẽ thêm vào sau
+予習します#よしゅうします#Prepare one's lesson#Sẽ thêm vào sau
+復習します#ふくしゅうします#Review one's lesson#Sẽ thêm vào sau
+そのままにします#-#Leave things as they are#Sẽ thêm vào sau
+お子さん#おこさん#（Someone else's） child#Sẽ thêm vào sau
+授業#じゅぎょう#Class#Sẽ thêm vào sau
+講義#こうぎ#Lecture#Sẽ thêm vào sau
+予定#よてい#Plan, schedule#Sẽ thêm vào sau
+知らせ#しらせ#Notice#Sẽ thêm vào sau
+案内書#あんないしょ#Guide book#Sẽ thêm vào sau
+カレンダー#-#Calendar#Sẽ thêm vào sau
+ポスター#-#Poster#Sẽ thêm vào sau
+人形#にんぎょう#Doll#Sẽ thêm vào sau
+花瓶#かびん#Vase#Sẽ thêm vào sau
+鏡#かがみ#Mirror#Sẽ thêm vào sau
+引き出し#ひきだし#Drawer#Sẽ thêm vào sau
+玄関#げんかん#Front door, entrance hall#Sẽ thêm vào sau
+廊下#ろうか#Corridor, hallway#Sẽ thêm vào sau
+壁#かべ#Wall#Sẽ thêm vào sau
+始まります#はじまります#[A ceremony] begin, start#Sẽ thêm vào sau
+見つけます#みつけます#Find#Sẽ thêm vào sau
+受けます#うけます#Take [an examination]#Sẽ thêm vào sau
+駆動装置#くどうそうち#Hard disk drive (HDD)#Ổ đĩa cứng (của máy tính)
+大手#おおて#Leading, major companies#Doanh nghiệp lớn, doanh nghiệp hàng đầu, công ty dẫn đầu
+半導体#はんどうたい#Semiconductor#Chất bán dẫn
+億#おく#Hundred million#Trăm triệu
+買収#ばいしゅう#Acquisition#Mua lại
+工場#こうじょう#Factory#Nhà máy
+記憶#きおく#Memory#Kí ức, trí nhớ, bộ nhớ
+媒体#ばいたい#Media#Môi trường, phương tiện
+共同#きょうどう#Conjunction#sự liên hiệp, sự liên đới
+生産#せいさん#Production#Sự sản xuất
+合弁#ごうべん#Joint venture#Liên doanh
+事業#じぎょう#Business#Công tác, nhiệm vụ phải làm
+継続#けいぞく#Continuation#Sự tiếp tục, sự liên tục
+期#き#Period#Kì, thời gian
+完了する#かんりょうする#Complete#Xong xuôi, kết thúc, hoàn thành
+見通し#みとおし#Outlook, forecast#Viễn cảnh, triển vọng, sự suy đoán, suy luận, đoán
+代表#だいひょう#Representative#Đại biểu, sự đại diện
+選手#せんしゅ#Player#Người chơi, thành viên trong một đội, tuyển thủ
+広聴#こうちょう#Public hearing#Điều trần công khai
+広報課#こうほうか#Public Relations Division#Phòng PR
+イングランド#-#England#Nước Anh
+開催#かいさい#Holding *a meeting*#Sự tổ chức, tổ chức
+出場#しゅつじょう#Participation#Ra mắt, trình diễn, tham dự
+大活躍#だいかつやく#Big success#Thành công lớn
+水族館#すいぞくかん#Aquarium#Thủy cung
+さめ#-#Shark#Cá mập
+サクランボ#-#Cherry#Quả cherry
+動作#どうさ#Behavior#Hành vi, cư xử
+表皮税#ひょうひぜい#Consumption tax#Thuế tiêu dùng
+酔っ払い#よっぱらい#Drunkard#Người say rượu, người nghiện rượu
+ナンバープレト#-#Number plate#Biển số
+ブレーキをかけます。#-#to put on the brake#Hãm phanh
