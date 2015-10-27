@@ -1,28 +1,35 @@
-原発#げんぱつ#Nuclear power plant#Nhà máy điện nguyên tử
-技術#ぎじゅつ#Technology#Công nghệ
-導入#どうにゅう#Introduction#Giới thiệu (về công nghệ,...)
-先進国#せんしんこく#Developed country#Nước đã phát triển
-公式#こうしき#Official#Chính thức
-訪問中#ほうもん#Visit#Sự thăm hỏi, sự đến thăm
-国家#こっか#Nation#Quốc gia
-主席#しゅせき#Chief#Thủ lĩnh, lãnh tụ, người đứng đầu, trưởng
-国家主席#こっかしゅせき#Head of state#Người đứng đầu nhà nước, nguyên thủ quốc gia
-首脳会談#しゅのうかいだん#Summit meeting#Cuộc họp bàn của các vị đứng đầu quốc gia, hội nghị cấp cao
-自主#じしゅ#Independence#Sự độc lập tự chủ
-原子炉#げんしろ#Reactor#Lò phản ứng
-原子力#げんしりょく#Nuclear power#Điện hạt nhân
-発電所#はつでんしょ#Power plant#Nhà máy điện
-計画#けいかく#Plan#Kế hoạch
-合意する#ごういする#Agree#Thuận lòng
-実現#じつげん#Realization#Sự thấy rõ, sự hiểu rõ, sự nhận thức rõ
-中心#ちゅうしん#Center, middle, midpoint#Trung tâm, vd: trung tâm của vấn đề
-東部#とうぶ#Eastern part#Phía đông
-採用#さいよう#Adoption#Sự chấp nhận và thực hiện (lời đề nghị...)
-両首脳#りょうしゅのう#Both leaders#Cả hai nhà lãnh đạo
-総額#そうがく#Total amount (money)#Số tiền tổng cộng, tổng kim ngạch
-投資#とうし#Investment#Đầu tư
-経済案件#けいざいあんけん#Economic project#Dự án kinh tế
-南西部#なんせいぶ#Southwest#Khu vực tây nam
-新設#しんせつ#New construction#Sự thành lập mới, sự thiết lập mới, tổ chức mới, thành lập mới, thiết lập mới
-比率#ひりつ#Ratio, proportion, proportional relation, percentage#Tỉ suất
-超える#こえる#Cross over, pass over#Vượt quá, quá (hạn định, giới hạn)
+周辺(しゅうへん)#*adj* peripheral, of the circumference#Vùng xung quanh *Hán Việt: CHU BIÊN*
+花を咲かせる(はなをさかせる)#Bloom#Nở hoa
+四季(しき)#Four Seasons#Bốn mùa
+見頃(みごろ)#Best time to see#Thời điểm tốt nhất để xem
+標高(ひょうこう)#Altitude *height above sea level*#Độ cao so với mặt biển
+下旬(げじゅん)#Last third of month#Mười ngày cuối tháng *HẠ TUẦN*
+上旬(じょうじゅん)#First ten days of month#Mười ngày đầu tháng *THƯỢNG TUẦN*
+開花(かいか)#Blooming#Sự nở hoa
+ほぼ同じ頃(ほぼおなじころ)#About the same time#Trong cùng thời gian
+複数(ふくすう)#Multiple#Nhiều, nhiều mối, phức tạp
+米欧(べいおう)#The United States and Europe#Hoa Kỳ và Châu Âu
+国防(こくぼう)#National defense#Quốc phòng
+当局者(とうきょくしゃ)#Authority *person*#Nhà cầm quyền, nhà chức trách
+海軍(かいぐん)#Navy#Hải quân
+駆逐艦(くちくかん)#Destroyer#Tàu khu trục
+南シナ海(みなみしなかい)#South China Sea#Biển đông
+諸島(しょとう)#Archipelago *a group of many islands in a large body of water*#Quần đảo
+同日(どうじつ)#Same day#Cùng ngày
+人工島(じんこうとう)#Artificial island#Đảo nhân tạo
+巡視活動(じゅんしかつどう)#Patrol activities#Các hoạt động tuần tra
+開始する(かいしする)#Start, begin#Khởi đầu, bắt đầu
+報(ほう)#Broadcast#Truyền đi rộng rãi *tin tức...*
+領海(りょうかい)#Territorial waters, coastal waters, waters along a country''s coastline#Vùng lãnh hải
+主張する(しゅちょうする)#Claim, assert, allege#Chủ trương, nhận, khai là, cho là, tự cho là
+行動する(こうどうする)#Act#Hành động
+情勢(じょうせい)#Situation#Trạng thái, tình trạng, tình hình
+緊迫化する(きんぱくかする)#Tense#Căng thẳng
+可能性(かのうせい)#Possibility#Tính khả năng
+通信(つうしん)#Communication#Truyền thông, thông tin
+声明(せいめい)#Declaration, statement, proclamation, something stated#Sự tuyên bố, lời tuyên bố
+緊張(きんちょう)#Tension#Sự căng thẳng
+活動(かつどう)#Activity#Hoạt động
+に対して(にたいして)#Regarding#Về việc, đối với, trái ngược với, tương phản với
+懸念(けねん)#Worry, concern#Sự lo lắng
+共同声明(きょうどうせいめい)#Joint statement#Tuyên bố chung

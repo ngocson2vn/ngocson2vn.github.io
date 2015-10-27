@@ -1055,3 +1055,31 @@
 たいてい#-#Almost#Hầu hết
 転勤#てんきん#Relocation#Chuyển chỗ (làm việc, định cư)
 おかず#-#Side dish#Thức ăn kèm
+原発#げんぱつ#Nuclear power plant#Nhà máy điện nguyên tử
+技術#ぎじゅつ#Technology#Công nghệ
+導入#どうにゅう#Introduction#Giới thiệu (về công nghệ,...)
+先進国#せんしんこく#Developed country#Nước đã phát triển
+公式#こうしき#Official#Chính thức
+訪問中#ほうもん#Visit#Sự thăm hỏi, sự đến thăm
+国家#こっか#Nation#Quốc gia
+主席#しゅせき#Chief#Thủ lĩnh, lãnh tụ, người đứng đầu, trưởng
+国家主席#こっかしゅせき#Head of state#Người đứng đầu nhà nước, nguyên thủ quốc gia
+首脳会談#しゅのうかいだん#Summit meeting#Cuộc họp bàn của các vị đứng đầu quốc gia, hội nghị cấp cao
+自主#じしゅ#Independence#Sự độc lập tự chủ
+原子炉#げんしろ#Reactor#Lò phản ứng
+原子力#げんしりょく#Nuclear power#Điện hạt nhân
+発電所#はつでんしょ#Power plant#Nhà máy điện
+計画#けいかく#Plan#Kế hoạch
+合意する#ごういする#Agree#Thuận lòng
+実現#じつげん#Realization#Sự thấy rõ, sự hiểu rõ, sự nhận thức rõ
+中心#ちゅうしん#Center, middle, midpoint#Trung tâm, vd: trung tâm của vấn đề
+東部#とうぶ#Eastern part#Phía đông
+採用#さいよう#Adoption#Sự chấp nhận và thực hiện (lời đề nghị...)
+両首脳#りょうしゅのう#Both leaders#Cả hai nhà lãnh đạo
+総額#そうがく#Total amount (money)#Số tiền tổng cộng, tổng kim ngạch
+投資#とうし#Investment#Đầu tư
+経済案件#けいざいあんけん#Economic project#Dự án kinh tế
+南西部#なんせいぶ#Southwest#Khu vực tây nam
+新設#しんせつ#New construction#Sự thành lập mới, sự thiết lập mới, tổ chức mới, thành lập mới, thiết lập mới
+比率#ひりつ#Ratio, proportion, proportional relation, percentage#Tỉ suất
+超える#こえる#Cross over, pass over#Vượt quá, quá (hạn định, giới hạn)
