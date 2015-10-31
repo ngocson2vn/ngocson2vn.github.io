@@ -47,3 +47,38 @@
 参加する(さんかする)#Participate, take part, join in#Tham gia
 述べる(のべる)#Describe, say, state, express, mention#Nói, phát biểu
 正式(せいしき)#Formal, official#Chính thức
+作戦(さくせん)#Tactics, methods for achieving a goal, strategy, maneuvers, manoeuvres, military operations, naval operations#Chiến lược, kế hoạch, tác chiến
+実施する(じっしする)#Carry out, enact, enforce, put into practice#Sự thực hiện, sự thực thi, thực hiện
+方針(ほうしん)#Policy#Phương châm, chính sách
+伝える(つたえる)#Convey, transmit#Truyền, truyền đạt, truyền lại
+外交筋(がいこうすじ)#Diplomatic source#Nguồn tin ngoại giao
+明らかにする(あきらかにする)#Clarify, disclose, make public, reveal, manifest#Mở ra, vạch trần ra, để lộ ra
+継続的な(けいぞくてきな)#Continuous, uninterrupted, unbroken#Không ngừng
+行う(おこなう)#Perform, do, conduct oneself, behave, carry out#Tổ chức, thực hiện, tiến hành, làm
+強行する(きょうこうする)#Force, bring about through the use of power#Cưỡng chế, ép buộc, thúc ép, kiên quyết tiến hành, quyết tâm
+一方的な(いっぽうてきな)#One sided, unfair, partial, giving only one opinion on an issue#Một bên, đơn phương
+現状(げんじょう)#Status quo, current situation, existing state#Hiện trạng, tình trạng hiện tại, tình trạng, tình hình
+変更(へんこう)#Change, modification, alteration#Sự biến đổi, sự cải biến, sự thay đổi
+試み(こころみ)#Trial, try, attempt#Việc thử
+認める(みとめる)#Concede, admit#Thừa nhận, chứng nhận, công nhận, nhận
+航行(こうこう)#Cruise, traveling on a ship#Lái tàu, đi tàu
+政治的な(せいじてきな)#Political, politic, of or relating to the state or its government#
+意思(いし)#Intention, purpose, goal, aim#Mục đích, ý định, chủ định, chủ tâm, ý nhất định, tính quả quyết, kết quả, có ý định
+示す(しめす)#Point out, indicate, denote, show, evince, exhibit#Biểu hiện ra, chỉ ra, cho thấy
+狙い(ねらい)#Aim, purpose, intent, goal#Mục đích
+長官(ちょうかん)#Chief, head, leader, secretary of government#Thủ lĩnh, lãnh tụ, người đứng đầu, trưởng, ông sếp, ông chủ, nhất là, đặc biệt là, đứng đầu, trưởng, trọng yếu, chủ yếu, chính, thủ phủ
+上院(じょういん)#Senate, parliament, legislature, council of citizens with lawmaking and deliberative functions *esp. the U.S. Senate*#Thượng viện
+軍事(ぐんじ)#Military affairs#Quân sự
+委員会(いいんかい)#Committee, group of persons appointed or elected to act upon some matter of business#Ban, ủy ban
+公聴会(こうちょうかい)#Public hearing#Hội nghị trưng cầu ý kiến công khai, buổi trưng cầu ý kiến
+国際法(こくさいほう)#International law, body of rules and principles that govern the relations among nations#Luật quốc tế
+許す(ゆるす)#Permit, allow, approve#Cho phép
+ところはどこでも#-#Wherever#Bất cứ nơi nào
+我々(われわれ)#We, us, you and me, in place of I in certain formal usages#Chúng tôi, chúng ta
+いつでも#-#Anytime, at any time, whenever#Bất cứ khi nào
+売却(ばいきゃく)#Sale, disposal by sale#Sự bán đi
+巡る(めぐる)#Go around#Đi quanh, dạo quanh, xoay quanh
+知らせる(しらせる)#inform, notify, advise, announce#Thông báo, cho biết, thông tin
+置き時計
+
+
