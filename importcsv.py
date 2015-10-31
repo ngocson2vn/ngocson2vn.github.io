@@ -36,7 +36,7 @@ def import_csv():
 			data[1] = ' '
 
 		cmd = "insert into vocab values (NULL, '%s', '%s', '%s', '%s')" % (data[0], data[1], data[2], data[3])
-		print cmd
+		print "%d: %s" % (lineCount, cmd)
 		c.execute(cmd)
 		line = f.readline()
 		line = line[:-2]

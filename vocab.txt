@@ -773,7 +773,7 @@
 たぶん#-#Probably, perhaps, maybe#Sẽ thêm vào sau
 きっと#-#Surely#Sẽ thêm vào sau
 ほんとうに#-#Really#Sẽ thêm vào sau
-そんなに#-#So, so much, like that#Sẽ thêm vào sau
+そんなに#-#Not so much (used with negatives)#Sẽ thêm vào sau
 について#-#About, concerning#Sẽ thêm vào sau
 しかたがありません#-#There is no other choice#Sẽ thêm vào sau
 しばらくですね#-#Long time no see#Sẽ thêm vào sau
@@ -801,7 +801,7 @@
 政権#せいけん#Regime#Chế độ, chính thể
 進める#すすめる#Advance#Thúc đẩy, xúc tiến, đẩy nhanh
 交渉#こうしょう#Negotiation#Đàm phán
-に対して#にたいして#Regarding#Về việc, đối với
+に対して#にたいして#Regarding#Về việc, đối với, trái ngược với, tương phản với
 斎場#さいじょう#Funeral hall#Nơi tổ chức tang lễ
 全容#ぜんよう#Full story#Hán Việt: Toàn Dung
 明らか「な」#あきらか「な」#Clear#Rõ ràng, hiển nhiên, sáng sủa

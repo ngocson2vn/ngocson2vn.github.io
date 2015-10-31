@@ -1,84 +1,82 @@
-周辺(しゅうへん)#*adj* peripheral, of the circumference#Vùng xung quanh *Hán Việt: CHU BIÊN*
-花を咲かせる(はなをさかせる)#Bloom#Nở hoa
-四季(しき)#Four Seasons#Bốn mùa
-見頃(みごろ)#Best time to see#Thời điểm tốt nhất để xem
-標高(ひょうこう)#Altitude *height above sea level*#Độ cao so với mặt biển
-下旬(げじゅん)#Last third of month#Mười ngày cuối tháng *HẠ TUẦN*
-上旬(じょうじゅん)#First ten days of month#Mười ngày đầu tháng *THƯỢNG TUẦN*
-開花(かいか)#Blooming#Sự nở hoa
-ほぼ同じ頃(ほぼおなじころ)#About the same time#Trong cùng thời gian
-複数(ふくすう)#Multiple#Nhiều, nhiều mối, phức tạp
-米欧(べいおう)#The United States and Europe#Hoa Kỳ và Châu Âu
-国防(こくぼう)#National defense#Quốc phòng
-当局者(とうきょくしゃ)#Authority *person*#Nhà cầm quyền, nhà chức trách
-海軍(かいぐん)#Navy#Hải quân
-駆逐艦(くちくかん)#Destroyer#Tàu khu trục
-南シナ海(みなみしなかい)#South China Sea#Biển đông
-諸島(しょとう)#Archipelago *a group of many islands in a large body of water*#Quần đảo
-同日(どうじつ)#Same day#Cùng ngày
-人工島(じんこうとう)#Artificial island#Đảo nhân tạo
-巡視活動(じゅんしかつどう)#Patrol activities#Các hoạt động tuần tra
-開始する(かいしする)#Start, begin#Khởi đầu, bắt đầu
-報(ほう)#Broadcast#Truyền đi rộng rãi *tin tức...*
-領海(りょうかい)#Territorial waters, coastal waters, waters along a country''s coastline#Vùng lãnh hải
-主張する(しゅちょうする)#Claim, assert, allege#Chủ trương, nhận, khai là, cho là, tự cho là
-行動する(こうどうする)#Act#Hành động
-情勢(じょうせい)#Situation#Trạng thái, tình trạng, tình hình
-緊迫化する(きんぱくかする)#Tense#Căng thẳng
-可能性(かのうせい)#Possibility#Tính khả năng
-通信(つうしん)#Communication#Truyền thông, thông tin
-声明(せいめい)#Declaration, statement, proclamation, something stated#Sự tuyên bố, lời tuyên bố
-共同声明(きょうどうせいめい)#Joint statement#Tuyên bố chung
-念頭(ねんとう)#Mind#Sự chủ tâm, ý nghĩ, ý định
-緊張(きんちょう)#Tension#Sự căng thẳng
-高める(たかめる)#Elevate, raise, lift#Làm cao lên, nâng cao
-活動(かつどう)#Activity#Hoạt động
-に対して(にたいして)#Regarding#Về việc, đối với, trái ngược với, tương phản với
-懸念(けねん)#Worry, concern#Sự lo lắng
-表明(ひょうめい)#Declaration, manifestation, demonstration, announcement#Sự tuyên bố, lời tuyên bố, sự biểu lộ, sự biểu thị
-海洋(かいよう)#Ocean, one of the large bodies of water covering the Earth *i.e. Atlantic, Pacific, Indian, Arctic, and Antarctic Oceans*#Đại dương
-分野(ぶんや)#Field, area#Lĩnh vực, khu vực
-保障(ほしょう)#Security, guarantee#An ninh, đảm bảo
-協力(きょうりょく)#Cooperation#Sự hợp tác, hợp tác, sự hiệp lực, hiệp lực
-強化(きょうか)#Strengthening, intensification, reinforcement, act of making more intense, act of strengthening#Sự củng cố, sự mạnh lên, sự tăng cường, sự đẩy mạnh, củng cố, tăng cường, đẩy mạnh
-打ち出す(うちだす)#Begin, start, set forth, work out#Bắt đầu, mở đầu, khởi đầu, bắt đầu làm, thi hành, tiến hành *một công việc*
-記者(きしゃ)#Reporter, journalist, one who gathers information and writes news articles#Kí giả, phóng viên
-開かれている(ひらかれている)#It is opened#Được mở cửa
-参加する(さんかする)#Participate, take part, join in#Tham gia
-述べる(のべる)#Describe, say, state, express, mention#Nói, phát biểu
-正式(せいしき)#Formal, official#Chính thức
-作戦(さくせん)#Tactics, methods for achieving a goal, strategy, maneuvers, manoeuvres, military operations, naval operations#Chiến lược, kế hoạch, tác chiến
-実施する(じっしする)#Carry out, enact, enforce, put into practice#Sự thực hiện, sự thực thi, thực hiện
-方針(ほうしん)#Policy#Phương châm, chính sách
-伝える(つたえる)#Convey, transmit#Truyền, truyền đạt, truyền lại
-外交筋(がいこうすじ)#Diplomatic source#Nguồn tin ngoại giao
-明らかにする(あきらかにする)#Clarify, disclose, make public, reveal, manifest#Mở ra, vạch trần ra, để lộ ra
-継続的な(けいぞくてきな)#Continuous, uninterrupted, unbroken#Không ngừng
-行う(おこなう)#Perform, do, conduct oneself, behave, carry out#Tổ chức, thực hiện, tiến hành, làm
-強行する(きょうこうする)#Force, bring about through the use of power#Cưỡng chế, ép buộc, thúc ép, kiên quyết tiến hành, quyết tâm
-一方的な(いっぽうてきな)#One sided, unfair, partial, giving only one opinion on an issue#Một bên, đơn phương
-現状(げんじょう)#Status quo, current situation, existing state#Hiện trạng, tình trạng hiện tại, tình trạng, tình hình
-変更(へんこう)#Change, modification, alteration#Sự biến đổi, sự cải biến, sự thay đổi
-試み(こころみ)#Trial, try, attempt#Việc thử
-認める(みとめる)#Concede, admit#Thừa nhận, chứng nhận, công nhận, nhận
-航行(こうこう)#Cruise, traveling on a ship#Lái tàu, đi tàu
-政治的な(せいじてきな)#Political, politic, of or relating to the state or its government#
-意思(いし)#Intention, purpose, goal, aim#Mục đích, ý định, chủ định, chủ tâm, ý nhất định, tính quả quyết, kết quả, có ý định
-示す(しめす)#Point out, indicate, denote, show, evince, exhibit#Biểu hiện ra, chỉ ra, cho thấy
-狙い(ねらい)#Aim, purpose, intent, goal#Mục đích
-長官(ちょうかん)#Chief, head, leader, secretary of government#Thủ lĩnh, lãnh tụ, người đứng đầu, trưởng, ông sếp, ông chủ, nhất là, đặc biệt là, đứng đầu, trưởng, trọng yếu, chủ yếu, chính, thủ phủ
-上院(じょういん)#Senate, parliament, legislature, council of citizens with lawmaking and deliberative functions *esp. the U.S. Senate*#Thượng viện
-軍事(ぐんじ)#Military affairs#Quân sự
-委員会(いいんかい)#Committee, group of persons appointed or elected to act upon some matter of business#Ban, ủy ban
-公聴会(こうちょうかい)#Public hearing#Hội nghị trưng cầu ý kiến công khai, buổi trưng cầu ý kiến
-国際法(こくさいほう)#International law, body of rules and principles that govern the relations among nations#Luật quốc tế
-許す(ゆるす)#Permit, allow, approve#Cho phép
+周辺#しゅうへん#(adj) peripheral, of the circumference#Vùng xung quanh (Hán Việt: CHU BIÊN)
+花を咲かせる#はなをさかせる#Bloom#Nở hoa
+四季#しき#Four Seasons#Bốn mùa
+見頃#みごろ#Best time to see#Thời điểm tốt nhất để xem
+標高#ひょうこう#Altitude (height above sea level)#Độ cao so với mặt biển
+下旬#げじゅん#Last third of month#Mười ngày cuối tháng (HẠ TUẦN)
+上旬#じょうじゅん#First ten days of month#Mười ngày đầu tháng (THƯỢNG TUẦN)
+開花#かいか#Blooming#Sự nở hoa
+ほぼ同じ頃#ほぼおなじころ#About the same time#Trong cùng thời gian
+複数#ふくすう#Multiple#Nhiều, nhiều mối, phức tạp
+米欧#べいおう#The United States and Europe#Hoa Kỳ và Châu Âu
+国防#こくぼう#National defense#Quốc phòng
+当局者#とうきょくしゃ#Authority (person)#Nhà cầm quyền, nhà chức trách
+海軍#かいぐん#Navy#Hải quân
+駆逐艦#くちくかん#Destroyer#Tàu khu trục
+南シナ海#みなみしなかい#South China Sea#Biển đông
+諸島#しょとう#Archipelago (a group of many islands in a large body of water)#Quần đảo
+同日#どうじつ#Same day#Cùng ngày
+人工島#じんこうとう#Artificial island#Đảo nhân tạo
+巡視活動#じゅんしかつどう#Patrol activities#Các hoạt động tuần tra
+開始する#かいしする#Start, begin#Khởi đầu, bắt đầu
+報#ほう#Broadcast#Truyền đi rộng rãi (tin tức...)
+領海#りょうかい#Territorial waters, coastal waters, waters along a country''s coastline#Vùng lãnh hải
+主張する#しゅちょうする#Claim, assert, allege#Chủ trương, nhận, khai là, cho là, tự cho là
+行動する#こうどうする#Act#Hành động
+情勢#じょうせい#Situation#Trạng thái, tình trạng, tình hình
+緊迫化する#きんぱくかする#Tense#Căng thẳng
+可能性#かのうせい#Possibility#Tính khả năng
+通信#つうしん#Communication#Truyền thông, thông tin
+声明#せいめい#Declaration, statement, proclamation, something stated#Sự tuyên bố, lời tuyên bố
+共同声明#きょうどうせいめい#Joint statement#Tuyên bố chung
+念頭#ねんとう#Mind#Sự chủ tâm, ý nghĩ, ý định
+緊張#きんちょう#Tension#Sự căng thẳng
+高める#たかめる#Elevate, raise, lift#Làm cao lên, nâng cao
+活動#かつどう#Activity#Hoạt động
+懸念#けねん#Worry, concern#Sự lo lắng
+表明#ひょうめい#Declaration, manifestation, demonstration, announcement#Sự tuyên bố, lời tuyên bố, sự biểu lộ, sự biểu thị
+海洋#かいよう#Ocean, one of the large bodies of water covering the Earth (i.e. Atlantic, Pacific, Indian, Arctic, and Antarctic Oceans)#Đại dương
+分野#ぶんや#Field, area#Lĩnh vực, khu vực
+保障#ほしょう#Security, guarantee#An ninh, đảm bảo
+協力#きょうりょく#Cooperation#Sự hợp tác, hợp tác, sự hiệp lực, hiệp lực
+強化#きょうか#Strengthening, intensification, reinforcement, act of making more intense, act of strengthening#Sự củng cố, sự mạnh lên, sự tăng cường, sự đẩy mạnh, củng cố, tăng cường, đẩy mạnh
+打ち出す#うちだす#Begin, start, set forth, work out#Bắt đầu, mở đầu, khởi đầu, bắt đầu làm, thi hành, tiến hành (một công việc)
+記者#きしゃ#Reporter, journalist, one who gathers information and writes news articles#Kí giả, phóng viên
+開かれている#ひらかれている#It is opened#Được mở cửa
+参加する#さんかする#Participate, take part, join in#Tham gia
+述べる#のべる#Describe, say, state, express, mention#Nói, phát biểu
+正式#せいしき#Formal, official#Chính thức
+作戦#さくせん#Tactics, methods for achieving a goal, strategy, maneuvers, manoeuvres, military operations, naval operations#Chiến lược, kế hoạch, tác chiến
+実施する#じっしする#Carry out, enact, enforce, put into practice#Sự thực hiện, sự thực thi, thực hiện
+方針#ほうしん#Policy#Phương châm, chính sách
+伝える#つたえる#Convey, transmit#Truyền, truyền đạt, truyền lại
+外交筋#がいこうすじ#Diplomatic source#Nguồn tin ngoại giao
+明らかにする#あきらかにする#Clarify, disclose, make public, reveal, manifest#Mở ra, vạch trần ra, để lộ ra
+継続的な#けいぞくてきな#Continuous, uninterrupted, unbroken#Không ngừng
+行う#おこなう#Perform, do, conduct oneself, behave, carry out#Tổ chức, thực hiện, tiến hành, làm
+強行する#きょうこうする#Force, bring about through the use of power#Cưỡng chế, ép buộc, thúc ép, kiên quyết tiến hành, quyết tâm
+一方的な#いっぽうてきな#One sided, unfair, partial, giving only one opinion on an issue#Một bên, đơn phương
+現状#げんじょう#Status quo, current situation, existing state#Hiện trạng, tình trạng hiện tại, tình trạng, tình hình
+変更#へんこう#Change, modification, alteration#Sự biến đổi, sự cải biến, sự thay đổi
+試み#こころみ#Trial, try, attempt#Việc thử
+認める#みとめる#Concede, admit#Thừa nhận, chứng nhận, công nhận, nhận
+航行#こうこう#Cruise, traveling on a ship#Lái tàu, đi tàu
+政治的な#せいじてきな#Political, politic, of or relating to the state or its government#Chính trị
+意思#いし#Intention, purpose, goal, aim#Mục đích, ý định, chủ định, chủ tâm, ý nhất định, tính quả quyết, kết quả, có ý định
+示す#しめす#Point out, indicate, denote, show, evince, exhibit#Biểu hiện ra, chỉ ra, cho thấy
+狙い#ねらい#Aim, purpose, intent, goal#Mục đích
+長官#ちょうかん#Chief, head, leader, secretary of government#Thủ lĩnh, lãnh tụ, người đứng đầu, trưởng, ông sếp, ông chủ, nhất là, đặc biệt là, đứng đầu, trưởng, trọng yếu, chủ yếu, chính, thủ phủ
+上院#じょういん#Senate, parliament, legislature, council of citizens with lawmaking and deliberative functions (esp. the U.S. Senate)#Thượng viện
+軍事#ぐんじ#Military affairs#Quân sự
+委員会#いいんかい#Committee, group of persons appointed or elected to act upon some matter of business#Ban, ủy ban
+公聴会#こうちょうかい#Public hearing#Hội nghị trưng cầu ý kiến công khai, buổi trưng cầu ý kiến
+国際法#こくさいほう#International law, body of rules and principles that govern the relations among nations#Luật quốc tế
+許す#ゆるす#Permit, allow, approve#Cho phép
 ところはどこでも#-#Wherever#Bất cứ nơi nào
-我々(われわれ)#We, us, you and me, in place of I in certain formal usages#Chúng tôi, chúng ta
-いつでも#-#Anytime, at any time, whenever#Bất cứ khi nào
-売却(ばいきゃく)#Sale, disposal by sale#Sự bán đi
-巡る(めぐる)#Go around#Đi quanh, dạo quanh, xoay quanh
-知らせる(しらせる)#inform, notify, advise, announce#Thông báo, cho biết, thông tin
-置き時計
+我々#われわれ#We, us, you and me, in place of I in certain formal usages#Chúng tôi, chúng ta
+売却#ばいきゃく#Sale, disposal by sale#Sự bán đi
+巡る#めぐる#Go around#Đi quanh, dạo quanh, xoay quanh
+知らせる#しらせる#inform, notify, advise, announce#Thông báo, cho biết, thông tin
+たくさんあっても#-#Even a lot#Thậm chí rất nhiều
 
 
