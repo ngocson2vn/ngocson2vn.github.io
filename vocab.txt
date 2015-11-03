@@ -1305,3 +1305,4 @@
 押し入れ#おしいれ#Closet (at wall)#Tủ tường kiểu Nhật
 積む#つむ#Pile up, stack, accumulate, place one thing on top of another in a heap#Chất; xếp
 慣れる#なれる#Grow accustomed, get used to#Quen với; trở nên quen với
+しばらく#-#For a while, short time later, for some time#Trong một thời gian
