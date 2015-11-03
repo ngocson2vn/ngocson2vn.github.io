@@ -1306,3 +1306,16 @@
 積む#つむ#Pile up, stack, accumulate, place one thing on top of another in a heap#Chất; xếp
 慣れる#なれる#Grow accustomed, get used to#Quen với; trở nên quen với
 しばらく#-#For a while, short time later, for some time#Trong một thời gian
+世紀#せいき#Century, era, period of one hundred years#Thế kỷ
+予想#よそう#Expectation, anticipation, divination, foretelling, prognostication#Sự báo trước, linh cảm, sự dự báo, sự tiên đoán
+報知#ほうち#Information, news, intelligence, knowledge#Thông tin, thông báo
+紹介する#しょうかいする#Introduce, acquaint one person with another, present for the first time#Giới thiệu
+葉巻#はまき#Cigar, large cylindrical roll of dried tobacco (for smoking)#Xì gà
+列車#れっしゃ#Train, railroad car#Xe lửa, tàu hoả
+温度#おんど#Temperature, degree of hotness or coldness, abnormally high body temperature, fever#Nhiệt độ
+調節#ちょうせつ#Regulation, adjustment, control#Sự điều tiết
+進む#すすむ#Make progress, proceed, advance, improve, move forward#Tiến lên, tiến triển, tiến bộ
+手術#しゅじゅつ#Surgical operation#Mổ, sự phẫu thuật
+治る#なおる#be cured, heal, get mended, get well, become well#Trị, chữa khỏi, chuyển biến tốt (bệnh)
+針#はり#needle, slender pointed tools (usually of metal, often with a hole a one end) used with thread (or string) pointer, hand, fish hook#Kim, đinh ghim
+ほかに#-#(adv) in addition, besides, also, on top of that, in addition to#Ngoài ra, hơn nữa
