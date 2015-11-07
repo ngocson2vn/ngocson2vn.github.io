@@ -1326,3 +1326,18 @@
 捕まえる#つかまえる#Catch, seize, arrest, apprehend#Bắt, nắm bắt, chộp
 距離#きょり#Distance, range, extent#Khoảng cách, cự ly, cự li
 付く#つく#Adjoin, be attached, adhere, be recorded, accompany, study with, increase, be added#Dính
+挨拶する#あいさつする#Greet, welcome#Chào, chào hỏi
+下げる#さげる#Demote, lower in rank or position, depreciate, abase, lower, reduce, grant, draw#Hạ xuống, hạ bớt, giảm đi, giảm
+握手する#あくしゅする#Shake hands, press hands with, clasp another''s hand (as in greeting)#Bắt tay
+触る#さわる#Touch, feel#Sờ, mó, chạm
+人差し指#ひとさしゆび#Index finger, forefinger, first finger after the thumb#Ngón tay trỏ
+指す#さす#Point at, mean, indicate, name, designate#Chỉ ra
+上げる#あげる#Raise, elevate, send up, fly, increase, promote, advance, praise, finish, present, give#Nâng lên, đưa lên, giơ lên
+立てる#たてる#Raise, erect, establish, make stand#Dựng đứng
+振る#ふる#Wave, shake, swing, waggle, move back and forth, move from side to side (of the tail)#Vẫy, lắc, đung đưa
+手のひら#-#Palm#Gan bàn tay, lòng bàn tay
+向ける#むける#Turn towards#Chĩa về phía, hướng về phía
+相手#あいて#Companion, partner, company, opponent, rival#Đối phương, người đối diện
+じっと#-#Fixedly, firmly, patiently, quietly#Chăm chú, đăm đăm, câm lặng, lặng lẽ, im phăng phắc, không động đậy, yên lặng
+笑う#わらう#Laugh, smile#Cười, mỉm cười
+隠す#かくす#hide, conceal, place out of sight, cover up#Bao bọc, che, che giấu, che đậy, giấu, giấu giếm
