@@ -1,6 +1,6 @@
 挨拶する#あいさつする#Greet, welcome#Chào, chào hỏi
 下げる#さげる#Demote, lower in rank or position, depreciate, abase, lower, reduce, grant, draw#Hạ xuống, hạ bớt, giảm đi, giảm
-握手する#あくしゅする#Shake hands, press hands with, clasp another's hand (as in greeting)#Bắt tay
+握手する#あくしゅする#Shake hands, press hands with, clasp another''s hand (as in greeting)#Bắt tay
 触る#さわる#Touch, feel#Sờ, mó, chạm
 人差し指#ひとさしゆび#Index finger, forefinger, first finger after the thumb#Ngón tay trỏ
 指す#さす#Point at, mean, indicate, name, designate#Chỉ ra
