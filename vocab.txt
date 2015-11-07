@@ -805,7 +805,7 @@
 斎場#さいじょう#Funeral hall#Nơi tổ chức tang lễ
 全容#ぜんよう#Full story#Hán Việt: Toàn Dung
 明らか「な」#あきらか「な」#Clear#Rõ ràng, hiển nhiên, sáng sủa
-限り#かぎり#(n) limit; (adv) as much as possible, as far as possible#Giới hạn, hạn chế, hạn
+限り#かぎり#(n) limit, (adv) as much as possible, as far as possible#Giới hạn, hạn chế, hạn
 賛成#さんせい#Agree#Sự tán thành
 賛否#さんぴ#Pros and cons#Sự tán thành và chống đối
 明言#めいげん#Proclamation#Sự tuyên bố, lời tuyên bố, bản tuyên ngôn
@@ -819,7 +819,7 @@
 創出#そうしゅつ#Generation#Sự tạo ra, sự phát sinh ra
 必要#ひつよう#Need, want, necessity#Điều tất yếu
 認識#にんしき#Recognition, acknowledgment#Sự nhận thức
-一致#いっち#Coincidence, agreement, union, match#Sự nhất trí; sự giống nhau; sự thống nhất
+一致#いっち#Coincidence, agreement, union, match#Sự nhất trí, sự giống nhau, sự thống nhất
 着ます#きます#Put on [shirt]#Sẽ thêm vào sau
 はきます#-#Put on [shoes, trousers]#Sẽ thêm vào sau
 かぶります#-#Put on [hat]#Sẽ thêm vào sau
@@ -1288,23 +1288,23 @@
 科学者#かがくしゃ#Scientist#Sẽ thêm vào sau
 漫画#まんが#Cartoon#Sẽ thêm vào sau
 世界中#せかいじゅう#All over the world#Sẽ thêm vào sau
-掛ける#かける#Hang; ex: to hang a picture#Treo, mắc
+掛ける#かける#Hang, ex: to hang a picture#Treo, mắc
 置き時計#おきどけい#Table clock#Đồng hồ để bàn
 そのほか#-#Other#Khác
-決まる#きまる#be decided; be settled; be fixed#Quyết định
+決まる#きまる#be decided, be settled, be fixed#Quyết định
 鳴る#なる#Ring#Rung, reo, kêu keng keng (chuông)
 ねじ#-#Screw, metal fastener with a spiral grooved shaft#Đinh ốc
-巻く#まく#Roll, coil; wind#Quấn, vặn
+巻く#まく#Roll, coil, wind#Quấn, vặn
 少しずつ#-#Little by little#Dần dần
-集める#あつめる#Assemble, garner, gather, collect#Sưu tầm; chụm lại một chỗ; tập trung lại một chỗ; triệu tập; chăm chú; thu thập; thu hút
+集める#あつめる#Assemble, garner, gather, collect#Sưu tầm, chụm lại một chỗ, tập trung lại một chỗ, triệu tập, chăm chú, thu thập, thu hút
 骨董屋#こっとうや#Antique shop#Cửa hàng đồ cổ
 修理する#しゅうりする#Fix, repair, mend#Sửa chửa
 壊れた#こわれた#Broken#Hư hỏng
 *もう#-#Another, additional#Một cái khác nữa
 離れ#はなれ#Outbuilding, building outside of main building#Nhà phụ, nhà ngoài
 押し入れ#おしいれ#Closet (at wall)#Tủ tường kiểu Nhật
-積む#つむ#Pile up, stack, accumulate, place one thing on top of another in a heap#Chất; xếp
-慣れる#なれる#Grow accustomed, get used to#Quen với; trở nên quen với
+積む#つむ#Pile up, stack, accumulate, place one thing on top of another in a heap#Chất, xếp
+慣れる#なれる#Grow accustomed, get used to#Quen với, trở nên quen với
 しばらく#-#For a while, short time later, for some time#Trong một thời gian
 世紀#せいき#Century, era, period of one hundred years#Thế kỷ
 予想#よそう#Expectation, anticipation, divination, foretelling, prognostication#Sự báo trước, linh cảm, sự dự báo, sự tiên đoán
@@ -1319,3 +1319,10 @@
 治る#なおる#be cured, heal, get mended, get well, become well#Trị, chữa khỏi, chuyển biến tốt (bệnh)
 針#はり#needle, slender pointed tools (usually of metal, often with a hole a one end) used with thread (or string) pointer, hand, fish hook#Kim, đinh ghim
 ほかに#-#(adv) in addition, besides, also, on top of that, in addition to#Ngoài ra, hơn nữa
+増やす#ふやす#Increase, add to, raise, enlarge, enhance#Làm tăng lên, làm hơn
+捨てる#すてる#Throw away#Vứt bỏ
+無駄#むだ#Uselessness#Sự vô ích, sự không có hiệu quả
+位置#いち#Place, location, position#Vị trí
+捕まえる#つかまえる#Catch, seize, arrest, apprehend#Bắt, nắm bắt, chộp
+距離#きょり#Distance, range, extent#Khoảng cách, cự ly, cự li
+付く#つく#Adjoin, be attached, adhere, be recorded, accompany, study with, increase, be added#Dính
