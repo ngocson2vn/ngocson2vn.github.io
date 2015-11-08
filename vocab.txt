@@ -1255,7 +1255,7 @@
 操作#そうさ#Operation#Sẽ thêm vào sau
 方法#ほうほう#Method#Sẽ thêm vào sau
 健康#けんこう#Health#Sẽ thêm vào sau
-やっと#-#Finally#Sẽ thêm vào sau
+やっと#-#Finally#Cuối cùng thì
 かなり#-#Fairly#Sẽ thêm vào sau
 必ず#かならず#Without fail, by any means#Sẽ thêm vào sau
 絶対に#ぜったいに#Absolutely #used with negatives##Sẽ thêm vào sau
@@ -1284,7 +1284,7 @@
 石油#せきゆ#Oil#Sẽ thêm vào sau
 原料#げんりょう#Raw material#Sẽ thêm vào sau
 デート#-#Date#Sẽ thêm vào sau
-泥棒#どろぼう#Thief, robber#Sẽ thêm vào sau
+泥棒#どろぼう#Thief, robber#Kẻ trộm, kẻ cắp
 科学者#かがくしゃ#Scientist#Sẽ thêm vào sau
 漫画#まんが#Cartoon#Sẽ thêm vào sau
 世界中#せかいじゅう#All over the world#Sẽ thêm vào sau
