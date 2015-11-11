@@ -1354,3 +1354,16 @@
 ゴールインする#-#Reach, arrive#Tới đích, vào gôn
 アナウンス#-#Announcement#Sự thông báo trên loa, sự thông báo trên đài
 孫#まご#Grandchild, child of one''s son or daughter, grandson, son of one''s son or daughter, granddaughter, daughter of one''s son or daughter#Cháu
+街角#まちかど#Street corner, intersection between two streets#Góc đường
+年取った#としとった#Aged, old#Đã có tuổi, già 
+野良猫#のらねこ#Stray cat, alley cat, street cat, cat that has no owner#Mèo lạc, mèo hoang
+びしょ濡れ#びしょぬれ#Soak, state of being permeated with water#Sự ướt sũng, sự ướt như chuột lột
+驚く#おどろく#be surprised#Ngạc nhiên
+こんな#-#such, like#Như thế này (mức độ, số lượng, trạng thái, tính chất...)
+けれども#-#(conj) but, (adv) however#Nhưng, tuy nhiên
+戴く#いただく#Receive#Được hưởng, tiếp đón
+暖炉#だんろ#fireplace, section of a chimney which opens into a room in which a fire can be lit, hearth, stove#Lò sưởi
+分ける#わける#Divide, separate#Chia, phân chia
+仲良く#なかよく#Friendly, in a friendly manner#Quan hệ tốt
+怒る#おこる#Anger, get angry, make angry#Giận dữ, nổi giận, phát điên lên, cáu, tức giận
+まさか#-#Never#Không bao giờ

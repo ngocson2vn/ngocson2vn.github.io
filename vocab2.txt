@@ -1,13 +1,7 @@
-街角#まちかど#Street corner, intersection between two streets#Góc đường
-年取った#としとった#Aged, old#Đã có tuổi, già 
-野良猫#のらねこ#Stray cat, alley cat, street cat, cat that has no owner#Mèo lạc, mèo hoang
-びしょ濡れ#びしょぬれ#Soak, state of being permeated with water#Sự ướt sũng, sự ướt như chuột lột
-驚く#おどろく#be surprised#Ngạc nhiên
-こんな#-#such, like#Như thế này (mức độ, số lượng, trạng thái, tính chất...)
-けれども#-#(conj) but, (adv) however#Nhưng, tuy nhiên
-戴く#いただく#Receive#Được hưởng, tiếp đón
-暖炉#だんろ#fireplace, section of a chimney which opens into a room in which a fire can be lit, hearth, stove#Lò sưởi
-分ける#わける#Divide, separate#Chia, phân chia
-仲良く#なかよく#Friendly, in a friendly manner#Quan hệ tốt
-怒る#おこる#Anger, get angry, make angry#Giận dữ, nổi giận, phát điên lên, cáu, tức giận
-まさか#-#Never#Không bao giờ
+アンケート#-#Questionary, questionnaire, document containing a list of questions to be answered; work sheet, sheet of paper on which one does work#Bản điều tra xã hội học; bản trưng cầu ý kiến; bảng câu hỏi về một vấn đề; phiếu điều tra
+以上#いじょう#More, additional amount#Hơn; nhiều hơn; cao hơn; trên
+寝言#ねごと#Talking in sleep; nonsense, making no sense, absurdity#Ngủ mê; lời nói mê
+式#しき#Ceremony, rite, ritual#Hình thức; kiểu; lễ; nghi thức
+司会#しかい#Chairmanship, position of chairman#Chủ trì; dẫn chương trình; MC
+チャック#-#Zipper, device used for fastening (pants, jackets, etc.)#Khóa kéo; khóa quần; phéc-mơ-tuya; dây kéo
+思い出す#おもいだす#recall, recollect, remember#
