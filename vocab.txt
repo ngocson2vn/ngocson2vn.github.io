@@ -1244,7 +1244,7 @@
 島#しま#Island#Sẽ thêm vào sau
 村#むら#Village#Sẽ thêm vào sau
 港#みなと#Port, harbor#Sẽ thêm vào sau
-近所#きんじょ#Neighborhood, vicinity#Sẽ thêm vào sau
+近所#きんじょ#Neighborhood, group of houses which make up a distinct region#Vùng phụ cận, nhà hàng xóm, hàng xóm, láng giềng
 屋上#おくじょう#Rooftop#Sẽ thêm vào sau
 海外#かいがい#Overseas#Sẽ thêm vào sau
 山登り#やまのぼり#Mountain climbing#Sẽ thêm vào sau
