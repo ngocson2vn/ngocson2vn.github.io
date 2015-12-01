@@ -1367,3 +1367,27 @@
 仲良く#なかよく#Friendly, in a friendly manner#Quan hệ tốt
 怒る#おこる#Anger, get angry, make angry#Giận dữ, nổi giận, phát điên lên, cáu, tức giận
 まさか#-#Never#Không bao giờ
+アンケート#-#Questionary, questionnaire, document containing a list of questions to be answered, work sheet, sheet of paper on which one does work#Bản điều tra xã hội học, bản trưng cầu ý kiến, bảng câu hỏi về một vấn đề, phiếu điều tra
+以上#いじょう#More, additional amount#Hơn, nhiều hơn, cao hơn, trên
+寝言#ねごと#Talking in sleep, nonsense, making no sense, absurdity#Ngủ mê, lời nói mê
+司会#しかい#Chairmanship, position of chairman#Chủ trì, dẫn chương trình, MC
+チャック#-#Zipper, device used for fastening (pants, jackets, etc.)#Khóa kéo, khóa quần, phéc-mơ-tuya, dây kéo
+思い出す#おもいだす#recall, recollect, remember#Nhớ, nhớ về, nhớ ra, nghĩ về, liên tưởng tới, liên tưởng đến
+奨学金#しょうがくきん#Scholarship#Học bổng
+税金#ぜいきん#Tax#Thuế
+電子レンジ#でんしれんじ#Microwave#Lò vi sóng
+国務省#こくむしょう#State Department, Department of State, United States federal government office that determines and implements foreign policies#Bộ Ngoại giao
+報道#ほうどう#Information, report, knowledge#Sự báo cho biết, sự thông báo
+会見#かいけん#Interview, audience, meeting at which information is gathered by a reporter#Cuộc phỏng vấn
+による#-#by way of, by means of, due to, because of, according to#Nhờ có, do có, vì, bởi vì, theo, y theo
+ロシア軍機#ろしあぐんき#Russian military aircraft#Máy bay quân sự Nga
+撃墜#げきつい#Shooting down#Bắn rơi
+我々自身#われわれじしん#ourselves, our own persons, to our own persons, by our own persons, us, by us#Chính chúng tôi
+情報#じょうほう#information, intelligence, knowledge, data#Thông tin, tin tức, tình báo
+基づく#もとづく#base on#Dựa vào, căn cứ vào, do
+領空#りょうくう#airspace, region of atmosphere situated above a country and coming under its jurisdiction#Không phận, vùng trời
+侵犯#しんぱん#violation#sự vi phạm
+証拠#しょうこ#evidence#Bằng chứng
+有志連合#ゆうしれんごう#Coalition of the willing (the clause coalition of the willing generally refers to a group of allied countries in a military intervention, especially the United States and its allies)#Các nước đồng minh
+指摘#してき#pointing out, identification, indicating#Sự chỉ ra, sự chỉ trích
+詳細#しょうさい#detail#chi tiết, tường tận
