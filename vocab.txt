@@ -588,7 +588,6 @@
 運転手#うんてんしゅ#Driver#Sẽ thêm vào sau
 警察官#けいさつかん#Policeman#Sẽ thêm vào sau
 外交官#がいこうかん#Diplomat#Sẽ thêm vào sau
-政治家#せいじか#Politician#Sẽ thêm vào sau
 画家#がか#Painter#Sẽ thêm vào sau
 作家#さっか#Author#Sẽ thêm vào sau
 音楽家#おんがくか#Musician#Sẽ thêm vào sau
