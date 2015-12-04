@@ -41,6 +41,7 @@ def import_csv():
 			c.execute(cmd)
 		except:
 			cmd = "update vocab set vn='%s' where kanji='%s'" % (data[3], data[0])
+			c.execute(cmd)
 		line = f.readline()
 		line = line[:-2]
 		lineCount = lineCount + 1
