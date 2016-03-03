@@ -97,6 +97,8 @@ def import_vocab_n2():
 
 		if data[1] == '-':
 			data[1] = ' '
+		if data[3] == '-':
+			data[3] = ' '
 
 		cmd = "insert into vocab_n2 values (%d, '%s', '%s', '%s', '%s')" % (idx, data[0], data[1], data[2], data[3])
 		print "%d: %s" % (lineCount, cmd)
