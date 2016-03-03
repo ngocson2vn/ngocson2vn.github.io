@@ -13,6 +13,7 @@ dbInfo = "info.db"
 csv = sys.argv[1]
 table = sys.argv[2]
 dry = sys.argv[3]
+startIdx = 516
 
 def import_csv():
 	f = open(csv)
@@ -79,7 +80,7 @@ def import_vocab_n2():
 	info = connObj.cursor()
 
 	lineCount = 1
-	idx = 511
+	idx = startIdx
 	while line:
 		data = []
 		for x in line.split("#"):
@@ -111,7 +112,7 @@ def import_vocab_n2():
 		fileSize = subprocess.Popen("du -hs jpvocab.db", shell=True, stdout=subprocess.PIPE).stdout.read().split()[0]
 		print fileSize
 
-		info.execute("UPDATE info SET total_n2=%d, size='%s'" % (totalWord, fileSize))
+		info.execute("UPDATE info SET total_n2=%d, size='%s', min_n2=%d, max_n2=%d" % (totalWord, fileSize, startIdx, (idx - 1)))
 		connObj.commit()
 
 		print subprocess.Popen("git commit -a -m 'Update'; git push", shell=True, stdout=subprocess.PIPE).stdout.read()
