@@ -4,10 +4,15 @@ import sys
 import sqlite3
 import subprocess
 
+if len(sys.argv) < 4:
+	print "python %s <data file> <table> <dry mode>" % sys.argv[0]
+	sys.exit(0)
+
 db = "jpvocab.db"
 dbInfo = "info.db"
 csv = sys.argv[1]
-dry = sys.argv[2]
+table = sys.argv[2]
+dry = sys.argv[3]
 
 def import_csv():
 	f = open(csv)
@@ -110,6 +115,8 @@ def import_vocab_n2():
 		connObj.commit()
 
 		print subprocess.Popen("git commit -a -m 'Update'; git push", shell=True, stdout=subprocess.PIPE).stdout.read()
-#import_csv()
 
-import_vocab_n2()
+if table == "vocab":
+	import_csv()
+else:
+	import_vocab_n2()
