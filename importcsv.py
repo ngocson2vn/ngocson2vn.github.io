@@ -13,7 +13,7 @@ dbInfo = "info.db"
 csv = sys.argv[1]
 table = sys.argv[2]
 dry = sys.argv[3]
-startIdx = 516
+startIdx = 0
 
 def import_csv():
 	f = open(csv)
@@ -69,6 +69,10 @@ def import_csv():
 
 def import_vocab_n2():
 	f = open(csv)
+
+	line = f.readline()
+	line = line[:-2]
+	startIdx = int(line)
 
 	line = f.readline()
 	line = line[:-2]
