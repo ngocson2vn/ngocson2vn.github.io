@@ -1,0 +1,31 @@
+581
+食料#しょくりょう#food, provisions#-
+粒#つぶ#grain#-
+くず#くず#waste, junk#-
+栽培#さいばい#culture#-
+収穫#しゅうかく#harvest#-
+産地#さんち#source#-
+土地#とち#ground#-
+倉庫#そうこ#warehouse#-
+所有#しょゆう#possession#-
+収集#しゅうしゅう#gathering; collection#-
+滞在#たいざい#stay#-
+便#べん#convenience#-
+*便#びん#mail; flight#-
+設備#せつび#equipment, facilities#-
+設計#せっけい#plan, design#-
+制作#せいさく#manufacture, production#-
+製造#せいぞう#manufacture, production#-
+建築#けんちく#construction, building#-
+人工#じんこう#artificial#-
+圧力#あつりょく#pressure#-
+刺激#しげき#stimulus; provocation#-
+摩擦#まさつ#friction#-
+立場#たちば#position, viewpoint#-
+役割#やくわり#role#-
+分担#ぶんたん#share#-
+担当#たんとう#charge#-
+交代#こうたい#change, shift#-
+代理#だいり#representation, substitution#-
+審判#しんぱん#referee; judgment#-
+監督#かんとく#manager, director; supervisor#-
