@@ -41,19 +41,19 @@ def import_csv():
 		if data[1] == '-':
 			data[1] = ' '
 
-		cmd = "insert into vocab values (NULL, '%s', '%s', '%s', '%s')" % (data[0], data[1], data[2], data[3])
+		cmd = "insert into leveln2 values (NULL, '%s', '%s', '%s', '%s')" % (data[0], data[1], data[2], data[3])
 		print "%d: %s" % (lineCount, cmd)
 		try:
 			c.execute(cmd)
 		except:
-			cmd = "update vocab set vn='%s' where kanji='%s'" % (data[3], data[0])
+			cmd = "update leveln2 set vn='%s' where kanji='%s'" % (data[3], data[0])
 			c.execute(cmd)
 		line = f.readline()
 		line = line[:-2]
 		lineCount = lineCount + 1
 
 	totalWord = 0
-	for row in c.execute("SELECT COUNT(id) FROM vocab"):
+	for row in c.execute("SELECT COUNT(id) FROM leveln2"):
 		totalWord = row[0]
 		print totalWord
 
@@ -62,7 +62,7 @@ def import_csv():
 		fileSize = subprocess.Popen("du -hs jpvocab.db", shell=True, stdout=subprocess.PIPE).stdout.read().split()[0]
 		print fileSize
 
-		info.execute("UPDATE info SET total=%d, size='%s'" % (totalWord, fileSize))
+		info.execute("UPDATE info SET leveln2=%d, size='%s'" % (totalWord, fileSize))
 		connObj.commit()
 
 		print subprocess.Popen("git commit -a -m 'Update'; git push", shell=True, stdout=subprocess.PIPE).stdout.read()
@@ -123,7 +123,7 @@ def import_vocab_n2():
 
 		print subprocess.Popen("git commit -a -m 'Update'; git push", shell=True, stdout=subprocess.PIPE).stdout.read()
 
-if table == "vocab":
+if table == "leveln2":
 	import_csv()
 else:
 	import_vocab_n2()
