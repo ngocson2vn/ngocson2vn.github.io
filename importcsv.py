@@ -33,20 +33,20 @@ def import_csv():
 		for x in line.split("#"):
 			data.append(x)
 		
-		if (not data[0] or not data[1] or not data[2] or not data[3]):
-			print data[0], data[1], data[2], data[3]
+		if (not data[0] or not data[1] or not data[2]):
+			print data[0], data[1], data[2]
 			print "line:", lineCount
 			sys.exit(0)
 
 		if data[1] == '-':
 			data[1] = ' '
 
-		cmd = "insert into leveln2 values (NULL, '%s', '%s', '%s', '%s')" % (data[0], data[1], data[2], data[3])
+		cmd = "insert into leveln2 values (NULL, '%s', '%s', '%s')" % (data[0], data[1], data[2])
 		print "%d: %s" % (lineCount, cmd)
 		try:
 			c.execute(cmd)
 		except:
-			cmd = "update leveln2 set vn='%s' where kanji='%s'" % (data[3], data[0])
+			cmd = "update leveln2 set vn='%s' where kanji='%s'" % (data[2], data[0])
 			c.execute(cmd)
 		line = f.readline()
 		line = line[:-2]
