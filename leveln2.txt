@@ -1,41 +1,41 @@
-単純#たんじゅん#NO#Đơn giản
-改善#かいぜん#NO#Cải thiện
-支配#しはい#NO#Chi phối
-回路#かいろ#NO#Mạch điện
-組み替える#くみかえる#NO#Cải tổ
-腕#うで#NO#Cánh tay
-膝#ひざ#NO#Đầu gối
-矯正#きょうせい#NO#Chỉnh cho tốt
-指導#しどう#NO#Chỉ đạo, hướng dẫn
-指摘#してき#NO#Chỉ trích, chỉ ra
-繰り返す#くりかえす#NO#Lặp lại
-糸口#いとぐち#NO#Đầu mối
-習得#しゅうとく#NO#Thu được, lĩnh hội
-工夫#こうふ#NO#Công phu
-固定#こてい#NO#Cố định
-仕組み#しくみ#NO#Cơ cấu, cơ chế
-感覚#かんかく#NO#Cảm giác
-直接#ちょくせつ#NO#Trực tiếp
-刺激#しげき#NO#Kích thích
-結ぶ#むすぶ#NO#Kết nối
-趣味#しゅみ#NO#Sở thích
-こうして#こうして#NO#Cứ như vậy
-課する#かする#NO#Áp đặt
-精一杯#せいいっぱい#NO#Với tất cả sức mạnh
-目が肥えている#めがこえている#NO#Tinh mắt
-水準#すいじゅん#NO#Cấp độ
-傷#きず#NO#Vết thương, vết xước
-見た目#みため#NO#Bề ngoài
-こだわる#こだわる#NO#Câu nệ
-衣料#いりょう#NO#Quần áo
-盛んな#さかんな#NO#Thịnh hành
-似ている#にている#NO#Giống nhau
-節約#せつやく#NO#Tiết kiệm
-不ぞろい#ふぞろい#NO#Không đồng đều
-ぬくもり#ぬくもり#NO#Ấm áp
-規格#きかく#NO#Quy cách
-粗悪な#そあくな#NO#Kém chất lượng
-損なう#そこなう#NO#Làm hại
-くみ取る#くみとる#NO#Hiểu ra, biết được
-追いつく#おいつく#NO#Đuổi kịp
-現在#げんざい#NO#Hiện tại
+単純#たんじゅん#Đơn giản
+改善#かいぜん#Cải thiện
+支配#しはい#Chi phối
+回路#かいろ#Mạch điện
+組み替える#くみかえる#Cải tổ
+腕#うで#Cánh tay
+膝#ひざ#Đầu gối
+矯正#きょうせい#Chỉnh cho tốt
+指導#しどう#Chỉ đạo, hướng dẫn
+指摘#してき#Chỉ trích, chỉ ra
+繰り返す#くりかえす#Lặp lại
+糸口#いとぐち#Đầu mối
+習得#しゅうとく#Thu được, lĩnh hội
+工夫#こうふ#Công phu
+固定#こてい#Cố định
+仕組み#しくみ#Cơ cấu, cơ chế
+感覚#かんかく#Cảm giác
+直接#ちょくせつ#Trực tiếp
+刺激#しげき#Kích thích
+結ぶ#むすぶ#Kết nối
+趣味#しゅみ#Sở thích
+こうして#こうして#Cứ như vậy
+課する#かする#Áp đặt
+精一杯#せいいっぱい#Với tất cả sức mạnh
+目が肥えている#めがこえている#Tinh mắt
+水準#すいじゅん#Cấp độ
+傷#きず#Vết thương, vết xước
+見た目#みため#Bề ngoài
+こだわる#こだわる#Câu nệ
+衣料#いりょう#Quần áo
+盛んな#さかんな#Thịnh hành
+似ている#にている#Giống nhau
+節約#せつやく#Tiết kiệm
+不ぞろい#ふぞろい#Không đồng đều
+ぬくもり#ぬくもり#Ấm áp
+規格#きかく#Quy cách
+粗悪な#そあくな#Kém chất lượng
+損なう#そこなう#Làm hại
+くみ取る#くみとる#Hiểu ra, biết được
+追いつく#おいつく#Đuổi kịp
+現在#げんざい#Hiện tại

@@ -41,7 +41,7 @@ def import_csv():
 		if data[1] == '-':
 			data[1] = ' '
 
-		cmd = "insert into leveln2 values (NULL, '%s', '%s', '%s')" % (data[0], data[1], data[2])
+		cmd = "insert into leveln2 values (NULL, '%s', '%s', '%s', '%s')" % (data[0], data[1], "NO", data[2])
 		print "%d: %s" % (lineCount, cmd)
 		try:
 			c.execute(cmd)
