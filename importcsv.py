@@ -62,7 +62,7 @@ def import_csv():
 		fileSize = subprocess.Popen("du -hs jpvocab.db", shell=True, stdout=subprocess.PIPE).stdout.read().split()[0]
 		print fileSize
 
-		info.execute("UPDATE info SET leveln2=%d, size='%s'" % (totalWord, fileSize))
+		info.execute("UPDATE info SET leveln2=%d, min_n2=1, max_n2=%d, size='%s'" % (totalWord, totalWord, fileSize))
 		connObj.commit()
 
 		print subprocess.Popen("git commit -a -m 'Update'; git push", shell=True, stdout=subprocess.PIPE).stdout.read()
