@@ -70,4 +70,22 @@
 実施する#じっしする#Thực thi
 繋ぐ#つなぐ#Buộc, kết nối
 隠す#かくす#Che giấu
-理系#りけい#LÍ HỆ, khoa học tự nhiên
+理系#りけい#[LÍ HỆ], khoa học tự nhiên
+文系#ぶんけい#Khoa học xã hội
+従う#したがう#Vâng lời, phục tùng
+偶々#たまたま#Thỉnh thoảng
+前向きな#まえむきな#Tích cực
+抑える#おさえる#Kìm nén, kiềm chế
+A。ところが、B。#A。ところが、B。#A nhưng B
+視点#してん#Quan điểm
+稀#まれ#Hiếm có
+幅#はば#Chiều rộng
+狭める#せばめる#Thu hẹp lại
+偶然#ぐうぜん#Ngẫu nhiên
+単なる#たんなる#Đơn thuần (adj)
+得手#えて#Điểm mạnh
+不得手#ふえて#Điểm yếu
+遡る#さかのぼる#Đi ngược dòng, trở lại
+一々#いちいち#Mọi thứ, từng cái một
+自分なりに#じぶんなりに#Theo cách của riêng mình
+納得#なっとく#[NẠP ĐẮC], đồng ý
