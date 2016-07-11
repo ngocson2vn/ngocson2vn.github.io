@@ -76,7 +76,7 @@
 偶々#たまたま#Thỉnh thoảng
 前向きな#まえむきな#Tích cực
 抑える#おさえる#Kìm nén, kiềm chế
-A。ところが、B。#A。ところが、B。#A nhưng B
+ところが#A。ところが、B。#A nhưng B
 視点#してん#Quan điểm
 稀#まれ#Hiếm có
 幅#はば#Chiều rộng
@@ -88,4 +88,24 @@ A。ところが、B。#A。ところが、B。#A nhưng B
 遡る#さかのぼる#Đi ngược dòng, trở lại
 一々#いちいち#Mọi thứ, từng cái một
 自分なりに#じぶんなりに#Theo cách của riêng mình
-納得#なっとく#[NẠP ĐẮC], đồng ý
+納得#なっとく#[NẠP ĐẮC], đồng ý, hiểu
+元来#がんらい#Từ trước đến nay, vốn dĩ
+備わる#そなわる#Có trang bị
+正当化#せいとうか#Bào chữa, biện hội
+政党#せいとう#Đảng chính trị
+丸で#まるで#Hoàn toàn
+鋭い#するどい#Sắc, nhọn
+お互い#おたがい#Lẫn nhau, với nhau
+口を利かない#くちを利かない#Không nói
+確かに#たしかに#Chắc chắn, rõ ràng, nhất định
+避ける#さける#Tránh, trốn tránh
+断つ#たつ#Cắt đứt, chấm dứt (quan hệ)
+思いがけない#おもいがけない#Ngoài dự tính, chẳng ngờ
+一瞬#いっしゅん#Khoảnh khắc
+柔らかい#やわらかい#Mềm mại, dịu dàng
+とろける#とろける#Tan chảy
+作曲家#さっきょくか#Nhạc sĩ
+案外#あんがい#Không ngờ
+迫る#せまる#Đến gần, thúc giục
+不思議#ふしぎ#Kì lạ
+肌#はだ#Da
