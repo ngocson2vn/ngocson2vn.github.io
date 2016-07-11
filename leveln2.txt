@@ -91,12 +91,12 @@
 納得#なっとく#[NẠP ĐẮC], đồng ý, hiểu
 元来#がんらい#Từ trước đến nay, vốn dĩ
 備わる#そなわる#Có trang bị
-正当化#せいとうか#Bào chữa, biện hội
+正当化#せいとうか#Bào chữa, biện hộ
 政党#せいとう#Đảng chính trị
 丸で#まるで#Hoàn toàn
 鋭い#するどい#Sắc, nhọn
 お互い#おたがい#Lẫn nhau, với nhau
-口を利かない#くちを利かない#Không nói
+口を利かない#くちをきかない#Không nói
 確かに#たしかに#Chắc chắn, rõ ràng, nhất định
 避ける#さける#Tránh, trốn tránh
 断つ#たつ#Cắt đứt, chấm dứt (quan hệ)
@@ -109,5 +109,6 @@
 迫る#せまる#Đến gần, thúc giục
 不思議#ふしぎ#Kì lạ
 肌#はだ#Da
-取り入れる#取り入れる#Áp dụng, đưa vào
+取り入れる#とりいれる#Áp dụng, đưa vào
 姿勢#しせい#Tư thế, thái độ
+検討#けんとう#Thảo luận, bàn bạc
