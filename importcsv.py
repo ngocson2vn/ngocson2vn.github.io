@@ -33,7 +33,7 @@ def import_csv():
 		for x in line.split("#"):
 			data.append(x)
 		
-		if (not data[0] or not data[1] or not data[2]):
+		if (not data[0] or not data[2]):
 			print data[0], data[1], data[2]
 			print "line:", lineCount
 			sys.exit(0)
