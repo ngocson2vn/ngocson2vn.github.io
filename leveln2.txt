@@ -124,7 +124,7 @@
 あくまでも#あくまでも#Ngoan cố
 志願者#しがんしゃ#Thí sinh
 抱える#かかえる#Ôm, cầm trong tay
-講義#こうぎ#Bài giảng, giờ học
+講義#こうぎ#[GIẢNG NGHĨA], bài giảng, giờ học
 目をつぶる#めをつぶる#Lờ đi, làm ra vẻ không biêt
 担保#たんぽ#Đảm bảo
 格差#かくさ#Sự khác biệt, khoảng cách
@@ -136,3 +136,15 @@
 特徴#とくちょう#Đặc trưng
 当てはまる#あてはまる#Có thể áp dụng vào, hợp với
 怖い#こわい#Sợ hãi
+児童#じどう#Trẻ em
+続柄#つづきがら#Mối quan hệ (bố, mẹ, con)
+求職#きゅうしょく#[CẦU CHỨC], tìm việc làm
+直近#ちょっきん#Gần đây nhất
+在籍#ざいせき#[TẠI TỊCH], đăng ký
+以前#いぜん#Trước đây
+手段#しゅだん#[THỦ ĐOẠN], phương pháp
+頼る#たよる#Nhờ cậy, phụ thuộc, dựa vào
+批判#批判#[PHÊ PHÁN], phê phán
+向かう#むかう#Đối mặt
+面と向かって#めんとむかって#Mặt đối mặt
+なくてはならない#なくてはならない#Không thể thiếu được
