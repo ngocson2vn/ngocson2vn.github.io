@@ -46,7 +46,7 @@ def import_csv():
 		try:
 			c.execute(cmd)
 		except:
-			cmd = "update leveln2 set vn='%s' where kanji='%s'" % (data[2], data[0])
+			cmd = "update leveln2 set hiragana='%s', vn='%s' where kanji='%s'" % (data[1], data[2], data[0])
 			c.execute(cmd)
 		line = f.readline()
 		line = line[:-2]
