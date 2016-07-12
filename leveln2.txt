@@ -140,7 +140,7 @@
 続柄#つづきがら#Mối quan hệ (bố, mẹ, con)
 求職#きゅうしょく#[CẦU CHỨC], tìm việc làm
 直近#ちょっきん#Gần đây nhất
-在籍#ざいせき#[TẠI TỊCH], đăng ký
+在籍#ざいせき#[TẠI TỊCH], được kết nạp (trường học, công ty)
 以前#いぜん#Trước đây
 手段#しゅだん#[THỦ ĐOẠN], phương pháp
 頼る#たよる#Nhờ cậy, phụ thuộc, dựa vào
