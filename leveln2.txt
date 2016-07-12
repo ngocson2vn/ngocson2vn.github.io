@@ -144,7 +144,7 @@
 以前#いぜん#Trước đây
 手段#しゅだん#[THỦ ĐOẠN], phương pháp
 頼る#たよる#Nhờ cậy, phụ thuộc, dựa vào
-批判#批判#[PHÊ PHÁN], phê phán
+批判#批判#PHÊ PHÁN
 向かう#むかう#Đối mặt
 面と向かって#めんとむかって#Mặt đối mặt
 なくてはならない#なくてはならない#Không thể thiếu được
@@ -183,3 +183,22 @@
 むしろ#むしろ#Trái lại, ngược lại
 聞くところによると##Nghe nói là
 誇り#ほこり#Niềm tự hào
+雑誌#ざっし#Tạp trí
+通勤#つうきん#Đi làm hàng ngày
+堂々#どうどう#Uy nghi
+旅館#りょかん#[LỮ QUÁN], nhà trọ cho khách du lịch
+女将#おかみ#[NỮ TƯƠNG], bà chủ nhà trọ
+地元#じもと#[ĐỊA NGUYÊN], địa phương
+浴衣#ゆかた#[DỤC Y], kimono mùa hè
+身振り#みぶり#Điệu bộ, cử chỉ
+手振り#てぶり#Điệu bộ tay
+交える#まじえる#Trộn vào nhau
+しかも##Hơn nữa
+緊急#きんきゅう#KHẨN CẤP
+話しかける##Bắt chuyện
+けれど##Nhưng, tuy nhiên
+それこそ##Đúng vậy (liên từ)
+異文化#いぶんか#DỊ VĂN HÓA (khác biệt)
+せっかく##Với rất nhiều khó nhọc (adv)
+さっそく##Ngay lập tức (adv)
+すっかり##Hoàn toàn, toàn bộ (adv)
