@@ -76,7 +76,7 @@
 偶々#たまたま#Thỉnh thoảng
 前向きな#まえむきな#Tích cực
 抑える#おさえる#Kìm nén, kiềm chế
-ところが#A。ところが、B。#A nhưng B
+ところが#ところが#A. Nhưng, B.
 視点#してん#Quan điểm
 稀#まれ#Hiếm có
 幅#はば#Chiều rộng
@@ -202,3 +202,12 @@
 せっかく#せっかく#Với rất nhiều khó nhọc (adv)
 さっそく#さっそく#Ngay lập tức (adv)
 すっかり#すっかり#Hoàn toàn, toàn bộ (adv)
+正方形#せいほうけい#[CHÁNH PHƯƠNG HÌNH], hình vuông
+横書き#よこがき#[HOÀNH THƯ], viết ngang
+縦書き#たてがき#[TÚNG THƯ], viết dọc
+政府#せいふ#CHÍNH PHỦ
+方式#ほうしき#PHƯƠNG THỨC
+一昨年#おととし#Năm kia (2 năm trước)
+出版社#しゅっぱんしゃ#Nhà xuất bản
+取り上げる#取り上げる#Đưa lên, đề cập đến
+破壊#はかい#PHÁ HOẠI

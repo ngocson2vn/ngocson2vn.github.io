@@ -30,6 +30,7 @@ def import_csv():
 	lineCount = 1
 	while line:
 		data = []
+		
 		for x in line.split("#"):
 			data.append(x)
 		
