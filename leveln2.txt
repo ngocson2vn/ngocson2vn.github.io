@@ -181,7 +181,7 @@
 写る#うつる#Chụp ảnh
 思わず#おもわず#Bất chợt (không cố ý)
 むしろ#むしろ#Trái lại, ngược lại
-聞くところによると##Nghe nói là
+聞くところによると#きくところによると#Nghe nói là
 誇り#ほこり#Niềm tự hào
 雑誌#ざっし#Tạp trí
 通勤#つうきん#Đi làm hàng ngày
@@ -193,12 +193,12 @@
 身振り#みぶり#Điệu bộ, cử chỉ
 手振り#てぶり#Điệu bộ tay
 交える#まじえる#Trộn vào với nhau, đan vào nhau
-しかも##Hơn nữa
+しかも#しかも#Hơn nữa
 緊急#きんきゅう#KHẨN CẤP
-話しかける##Bắt chuyện
-けれど##Nhưng, tuy nhiên
-それこそ##Đúng vậy (liên từ)
+話しかける#はなしかける#Bắt chuyện
+けれど#けれど#Nhưng, tuy nhiên
+それこそ#それこそ#Đúng vậy (liên từ)
 異文化#いぶんか#DỊ VĂN HÓA (khác biệt)
-せっかく##Với rất nhiều khó nhọc (adv)
-さっそく##Ngay lập tức (adv)
-すっかり##Hoàn toàn, toàn bộ (adv)
+せっかく#せっかく#Với rất nhiều khó nhọc (adv)
+さっそく#さっそく#Ngay lập tức (adv)
+すっかり#すっかり#Hoàn toàn, toàn bộ (adv)
