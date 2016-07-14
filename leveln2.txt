@@ -211,3 +211,30 @@
 出版社#しゅっぱんしゃ#Nhà xuất bản
 取り上げる#とりあげる#Đưa lên, đề cập đến, bàn đến (một vấn đề)
 破壊#はかい#PHÁ HOẠI
+逸らす#そらす#Trốn tránh
+とらえる##Nắm, bắt, hiểu thấu
+弊社#へいしゃ#Công ty của chúng tôi (cách nói khiêm nhường)
+購入#こうにゅう#Việc mua
+恐怖#きょうふ#Sự sợ hãi
+察知#さっち#Cảm thấy (nguy hiểm, ...)
+妨げる#さまたげる#Gây trở ngại, ảnh hưởng
+除く#のぞく#Loại bỏ
+何気ない#なにげない#Tình cờ, không có chủ định
+深度#しんど#Độ sâu
+あらゆる##Mọi (あらゆる出来事: mọi việc)
+～同じように#おなじように#Giống như là
+～に応じた#におうじた#Tùy theo, dựa vào, phù hợp với
+～ところ#ところ#Trong lúc (読みところ: trong lúc đọc)
+～とれる#とれる#Có thể ~ (～が学びとれる: có thể học)
+何からでも#なんからでも#Từ bất kì điều gì
+つくづく##Tỉ mỉ, sâu sắc
+読み手#よみ手#Người đọc
+誕生#たんじょう#Sự ra đời
+普遍的#ふへんてき#Phổ quát
+芸術#げいじゅつ#Nghệ thuật
+理屈#りくつ#Logic
+補い#おぎない#Bổ sung
+これまで##Cho đến bây giờ
+それぞれ##Mỗi, từng
+～に対応した#にたいおうした#Tương ứng với (mỗi thứ gì đó)
+呼び名#よびな#Tên gọi
