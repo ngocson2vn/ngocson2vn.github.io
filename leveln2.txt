@@ -221,7 +221,7 @@
 除く#のぞく#Loại bỏ
 何気ない#なにげない#Tình cờ, không có chủ định
 深度#しんど#Độ sâu
-あらゆる##Mọi (あらゆる出来事: mọi việc)
+あらゆる##Mọi (thứ, việc)#例: あらゆる出来事: mọi việc
 ～同じように#おなじように#Giống như là
 ～に応じた#におうじた#Tùy theo, dựa vào, phù hợp với
 ～ところ#ところ#Trong lúc (読みところ: trong lúc đọc)
