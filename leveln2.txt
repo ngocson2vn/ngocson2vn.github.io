@@ -217,7 +217,7 @@
 購入#こうにゅう#Việc mua
 恐怖#きょうふ#Sự sợ hãi
 察知#さっち#Cảm thấy (nguy hiểm, ...)
-妨げる#さまたげる#Gây trở ngại, ảnh hưởng
+妨げる#さまたげる#Gây trở ngại, ảnh hưởng\n進歩を妨げる
 除く#のぞく#Loại bỏ
 何気ない#なにげない#Tình cờ, không có chủ định
 深度#しんど#Độ sâu
