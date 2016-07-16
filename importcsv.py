@@ -45,7 +45,7 @@ def import_csv():
 		if len(data) == 3:
 			data.append("")
 
-		cmd = "insert into leveln2 values (NULL, '%s', '%s', '%s', '%s', '%s')" % (data[0], data[1], "NO", data[2], data[3])
+		cmd = "insert into leveln2 values (NULL, '%s', '%s', '%s', '%s', '%s', 0)" % (data[0], data[1], "NO", data[2], data[3])
 		print "%d: %s" % (lineCount, cmd)
 		try:
 			c.execute(cmd)
