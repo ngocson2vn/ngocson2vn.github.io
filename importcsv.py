@@ -10,7 +10,7 @@ import subprocess
 
 db = "jpvocab.db"
 dbInfo = "info.db"
-csv = "leveln2_new.txt"
+csv = "leveln2.txt"
 table = "leveln2"
 dry = "0"
 startIdx = 0
