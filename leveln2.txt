@@ -227,7 +227,7 @@
 ～ところ#ところ#Trong lúc#読みところ: trong lúc đọc
 ～とれる#とれる#Có thể#～が学びとれる: có thể học
 何からでも#なんからでも#Từ bất kì điều gì
-つくづく##Tỉ mỉ, sâu sắc
+つくづく##Tỉ mỉ, sâu sắc　(suy nghĩ, ...)#つくづく考える
 読み手#よみて#Người đọc
 誕生#たんじょう#Sự ra đời
 普遍的#ふへんてき#Phổ quát
@@ -266,3 +266,22 @@
 どうしても##Nhất định, dù thế nào cũng
 包む#つつむ#Bao bọc
 役目#やくめ#Trách nhiệm
+休憩#きゅうけい#Nghỉ ngơi
+引き受ける#ひきうける#Đảm nhận
+境界#きょうかい#[CẢNH GIỚI], biên giới
+ぼやく##Càu nhàu
+敏感#びんかん#[MẪN CẢM], nhạy cảm
+それでいて##Nhưng
+施設#しせつ#Cơ sở, cơ quan
+もしくは##Hoặc là
+部員#ぶいん#Thành viên (của club, org)
+それほど##Đến mức độ đó#それほど暑くない
+それだけ##Chừng ấy (mức độ nhiều)#それだけの大人数
+好奇心#こうきしん#[HẢO KÌ TÂM], hiếu kỳ, tò mò
+気負い#きおい#Sự thiết tha
+きっかけ##Lý do, động cơ
+職業#しょくぎょう#[CHỨC NGHIỆP], nghề nghiệp
+定める#さだめる#Xác định
+おのずと##Đương nhiên, tự động (adv)
+きわめて##Cực kỳ, rất, vô cùng#選択の幅はきわめて小さかった。
+起業#きぎょう#KHỞI NGHIỆP
