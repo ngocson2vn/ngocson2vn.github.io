@@ -11,9 +11,14 @@ import subprocess
 db = "jpvocab.db"
 dbInfo = "info.db"
 csv = "leveln2.txt"
+csv_moon = "moon.txt"
 table = "leveln2"
 dry = "0"
 startIdx = 0
+
+mode = "none"
+if len(sys.argv) > 1:
+	mode = sys.argv[1]
 
 def import_csv():
 	f = open(csv)
@@ -127,7 +132,62 @@ def import_vocab_n2():
 
 		print subprocess.Popen("git commit -a -m 'Update'; git push", shell=True, stdout=subprocess.PIPE).stdout.read()
 
-import_csv()
+
+def import_moon():
+	f = open(csv_moon)
+
+	line = f.readline()
+	line = line[:-2]
+
+	conn = sqlite3.connect(db)
+	c = conn.cursor()
+
+	connObj = sqlite3.connect(dbInfo)
+	info = connObj.cursor()
+
+	lineCount = 1
+	while line:
+		data = []
+		
+		for x in line.split("#"):
+			data.append(x)
+		
+		if (not data[0]):
+			print data[0]
+			print "line:", lineCount
+			sys.exit(0)
+
+		cmd = "insert into moon values (NULL, '%s')" % (data[0])
+		print "%d: %s" % (lineCount, cmd)
+		
+		try:
+			c.execute(cmd)
+		except:
+			print "Error: %s" % cmd
+
+		line = f.readline()
+		line = line[:-2]
+		lineCount = lineCount + 1
+
+	totalWord = 0
+	for row in c.execute("SELECT COUNT(id) FROM moon"):
+		totalWord = row[0]
+		print totalWord
+
+	conn.commit()
+	fileSize = subprocess.Popen("du -hs jpvocab.db", shell=True, stdout=subprocess.PIPE).stdout.read().split()[0]
+	print fileSize
+
+	info.execute("UPDATE info SET size='%s'" % (fileSize))
+	connObj.commit()
+
+	print subprocess.Popen("git commit -a -m 'Update'; git push", shell=True, stdout=subprocess.PIPE).stdout.read()
+
+
+if mode == "moon":
+	import_moon()
+else:
+	import_csv()
 #if table == "leveln2":
 #	import_csv()
 #else:
