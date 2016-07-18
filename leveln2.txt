@@ -240,7 +240,7 @@
 呼び名#よびな#Tên gọi
 模型#もけい#Mô hình#模型車: mô hình ô tô
 以上のように#いじょうのように#Như trên
-眺める#ながめる#Nhìn, ngắm#窓の外の風景をながめている。
+眺める#ながめる#Nhìn, ngắm#窓の外の風景をながめているのです。
 うっとりする##Bị quyến rũ
 養成#ようせい#Đào tạo, nuôi dưỡng
 雨天#うてん#[VŨ THIÊN], trời mưa
@@ -281,7 +281,13 @@
 気負い#きおい#Sự thiết tha
 きっかけ##Lý do, động cơ
 職業#しょくぎょう#[CHỨC NGHIỆP], nghề nghiệp
-定める#さだめる#Xác định
+定める#さだめる#Xác định#目標を定める: xác định mục tiêu
 おのずと##Đương nhiên, tự động (adv)
 きわめて##Cực kỳ, rất, vô cùng#選択の幅はきわめて小さかった。
 起業#きぎょう#KHỞI NGHIỆP
+執筆者#しっぴつしゃ#[CHẤP BÚT GIẢ], Tác giả, người cầm bút
+編集#へんしゅう#Biên tập
+揃える#そろえる#Sắp xếp một cách có trật tự
+食卓#しょくたく#Bàn ăn
+賑わす#にぎわす#Làm sinh động
+固い#かたい#Cứng
