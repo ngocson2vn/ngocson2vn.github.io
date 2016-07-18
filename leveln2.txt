@@ -54,7 +54,7 @@
 充電#じゅうでん#Sạc điện
 初期#しょき#Giai đoạn đầu tiên
 速度#そくど#Vận tốc
-構造#こうぞう#Cấu tạo
+構造#こうぞう#CẤU TẠO#文章の構造
 訪れる#おとずれる#Đến thăm
 二酸化炭素#にさんかたんそ#Khí CO2
 騒音#そうおん#Tiếng ồn
@@ -78,7 +78,7 @@
 抑える#おさえる#Kìm nén, kiềm chế
 ところが#ところが#A. Nhưng, B.
 視点#してん#Quan điểm
-稀#まれ#Hiếm có
+稀#まれ#Hiếm có#稀な出来事: sự kiện hiếm có
 幅#はば#Chiều rộng
 狭める#せばめる#Thu hẹp lại
 偶然#ぐうぜん#Ngẫu nhiên
@@ -90,7 +90,7 @@
 自分なりに#じぶんなりに#Theo cách của riêng mình
 納得#なっとく#[NẠP ĐẮC], đồng ý, hiểu
 元来#がんらい#Từ trước đến nay, vốn dĩ
-備わる#そなわる#Có trang bị
+備わる#そなわる#Có trang bị#船にはレーダーが備わっている
 正当化#せいとうか#Bào chữa, biện hộ
 政党#せいとう#Đảng chính trị
 丸で#まるで#Hoàn toàn
@@ -227,7 +227,7 @@
 ～ところ#ところ#Trong lúc#読みところ: trong lúc đọc
 ～とれる#とれる#Có thể#～が学びとれる: có thể học
 何からでも#なんからでも#Từ bất kì điều gì
-つくづく##Tỉ mỉ, sâu sắc　(suy nghĩ, ...)#つくづく考える
+つくづく##Tỉ mỉ, sâu sắc (suy nghĩ, ...)#つくづく考える
 読み手#よみて#Người đọc
 誕生#たんじょう#Sự ra đời
 普遍的#ふへんてき#Phổ quát
@@ -291,3 +291,10 @@
 食卓#しょくたく#Bàn ăn
 賑わす#にぎわす#Làm sinh động
 固い#かたい#Cứng
+創造#そうぞう#Sáng tạo
+優秀#ゆうしゅう#ƯU TÚ
+しばしば##Thường, hay (often)
+開花#かいか#Lớn mạnh, phát triển mạnh#才能の開花
+恵まれる#めぐまれる#Được ban cho
+全体像#ぜんたいぞう#Bức tranh tổng thể
+詳細#しょうさい#Một cách chi tiết, tường tận#詳細な説明
