@@ -1,0 +1,10 @@
+inherently//The int assembly language instruction is inherently slow because it performs several
+consistency and security checks.
+
+fictitious//ramdisk (a fictitious block device kept in RAM)
+
+elaborate//However, polling applied to I/O operations is usually more elaborate, because the driver must also remember to check for possible time-outs.
+
+drastically/To provide a drastically simple solution to synchronization problems, some traditional Unix kernels are nonpreemptive: when a process executes in Kernel Mode, it cannot be arbitrarily suspended and substituted with another process.
+
+relinquish/Of course, a process in Kernel Mode can voluntarily relinquish the CPU, but in this case, it must ensure that all data structures are left in a consistent state.
