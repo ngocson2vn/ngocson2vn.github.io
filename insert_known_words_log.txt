@@ -1,0 +1,1365 @@
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 16.
+挙げる	あげる	to raise, to fly
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 21.
+預ける	あずける	to give into custody, to entrust, to deposit
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 22.
+汗	あせ	sweat, perspiration
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 30.
+扱う	あつかう	to handle, to deal with, to treat
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 38.
+余る	あまる	to remain, to be left over, to be in excess, to be too many
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 42.
+改めて	あらためて	another time, again, over again, anew, formally
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 51.
+合わせる	あわせる	to join together, to be opposite, to face, to unite
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 66.
+行き	ゆき	going
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 67.
+息	いき	breath, tone
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 83.
+椅子	いす	chair
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 84.
+以前	いぜん	ago, since, before, previous
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 88.
+至る	いたる	to come, to arrive
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 89.
+位置	いち	place, situation, position, location
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 91.
+一応	いちおう	once, tentatively, in outline, for the time being
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 98.
+一種	いっしゅ	a species, a kind, a variety
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 110.
+依頼	いらい	(1) request, commission, dispatch, (2) dependence, trust
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 116.
+いわゆる	いわゆる	the so-called, so to speak
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 125.
+飢える	うえる	to starve
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 127.
+伺う	うかがう	(hon) to visit, to ask, to inquire
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 134.
+失う	うしなう	to lose, to part with
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 137.
+疑う	うたがう	to doubt, to distrust, to be suspicious of, to suspect
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 142.
+うっかり	うっかり	carelessly, thoughtlessly, inadvertently
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 145.
+訴える	うったえる	to sue (a person), to resort to, to appeal to
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 146.
+写る	うつる	to be photographed, to be projected
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 152.
+埋める	うめる	to bury, to fill up, to fill (a seat, a vacant position)
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 155.
+占う	うらなう	to forecast, to predict
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 164.
+永遠	えいえん	eternity, perpetuity, immortality, permanence
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 167.
+栄養	えいよう	nutrition, nourishment
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 174.
+得る	うる	to get, to gain, to win
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 177.
+援助	えんじょ	assistance, aid, support
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 179.
+演奏	えんそう	musical performance
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 180.
+遠足	えんそく	trip, hike, picnic
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 183.
+追う	おう	to chase, to run after
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 184.
+応援	おうえん	aid, assistance, help, reinforcement
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 189.
+オーケストラ	オーケストラ	orchestra
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 203.
+惜しい	おしい	regrettable, disappointing, precious
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 208.
+おそらく	おそらく	perhaps
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 210.
+お互い	おたがい	mutual, reciprocal, each other
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 211.
+穏やか	おだやか	calm, gentle, quiet
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 226.
+思わず	おもわず	unintentional, spontaneous
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 228.
+及ぼす	およぼす	to exert, to cause, to exercise
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 229.
+下す	おろす	to lower, to let go down
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 231.
+温室	おんしつ	greenhouse
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 250.
+解説	かいせつ	explanation, commentary
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 253.
+解放	かいほう	release, liberation, emancipation
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 255.
+抱える	かかえる	to hold or carry under or in the arms
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 258.
+描く	かく	to draw, to paint, to sketch, to depict, to describe
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 259.
+嗅ぐ	かぐ	to sniff, to smell
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 262.
+額	がく	forehead, brow
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 263.
+架空	かくう	aerial, overhead, fiction, fanciful
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 266.
+隠す	かくす	to hide, to conceal
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 271.
+確率	かくりつ	probability
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 278.
+火災	かさい	conflagration, fire
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 281.
+賢い	かしこい	wise, clever, smart
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 287.
+肩	かた	shoulder
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 288.
+固い	かたい	stubborn, firm (not viscous or easily moved)
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 289.
+堅い	かたい	hard (esp. wood), steadfast, honorable, stuffy writing
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 290.
+硬い	かたい	solid, hard (esp. metal, stone), unpolished writing
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 291.
+方々	かたがた	persons, this and that, here and there, everywhere
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 292.
+塊	かたまり	lump, mass, clod, cluster
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 293.
+固まる	かたまる	to harden, to solidify, to become firm, to become certain
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 294.
+語る	かたる	to talk, to tell, to recite
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 299.
+楽器	がっき	musical instrument
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 301.
+格好	かっこう	shape, form, posture, suitability
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 302.
+活字	かつじ	printing type
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 304.
+活躍	かつやく	activity
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 305.
+過程	かてい	process
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 306.
+課程	かてい	course, curriculum
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 310.
+我慢	がまん	patience, endurance, perseverance
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 311.
+上	かみ	(1) first volume, (2) superior quality, (3) governmental
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 312.
+神様	かみさま	god
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 316.
+空っぽ	からっぽ	empty, vacant, hollow
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 319.
+革	かわ	leather
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 322.
+感覚	かんかく	sense, sensation
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 323.
+観客	かんきゃく	audience, spectator(s)
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 329.
+感謝	かんしゃ	thanks, gratitude
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 330.
+患者	かんじゃ	a patient
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 335.
+完全	かんぜん	perfection, completeness
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 349.
+機嫌	きげん	humour, temper, mood
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 353.
+傷	きず	wound, injury, hurt, cut
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 354.
+基礎	きそ	foundation, basis
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 355.
+帰宅	きたく	returning home
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 363.
+奇妙	きみょう	strange, queer, curious
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 368.
+休暇	きゅうか	holiday, day off, furlough
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 370.
+急激	きゅうげき	sudden, precipitous, radical
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 372.
+休息	きゅうそく	rest, relief, relaxation
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 375.
+器用	きよう	skillful, handy
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 379.
+共通	きょうつう	commonness, community
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 384.
+巨大	きょだい	huge, gigantic, enormous
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 389.
+金	きん	(1) gold, (2) gold general (shogi) (abbr)
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 395.
+金銭	きんせん	money, cash
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 398.
+筋肉	きんにく	muscle, sinew
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 400.
+九	く	nine
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 401.
+区域	くいき	limits, boundary, domain, zone, sphere, territory
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 402.
+食う	くう	(male) (vulg) to eat
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 403.
+偶然	ぐうぜん	(by) chance, unexpectedly, suddenly
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 409.
+苦痛	くつう	pain, agony
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 410.
+工夫	くふう	labourer, worker
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 412.
+汲む	くむ	(1) to draw (water), to dip, to scoop, to pump
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 413.
+悔しい	くやしい	regrettable, mortifying, vexing
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 417.
+繰り返す	くりかえす	to repeat, to do something over again
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 422.
+詳しい	くわしい	knowing very well, detailed, full, accurate
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 424.
+訓練	くんれん	practice, training
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 431.
+掲示	けいじ	notice, bulletin
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 432.
+継続	けいぞく	continuation
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 434.
+欠陥	けっかん	defect, fault, deficiency
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 440.
+気配	けはい	indication, market trend, worry
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 446.
+見解	けんかい	opinion, point of view
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 447.
+限界	げんかい	limit, bound
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 448.
+原稿	げんこう	manuscript, copy
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 450.
+現在	げんざい	present, up to now, nowadays, modern times, current
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 453.
+現状	げんじょう	present condition, existing state, status quo
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 454.
+建設	けんせつ	construction, establishment
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 459.
+原理	げんり	principle, theory, fundamental truth
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 460.
+後	ご	afterwards, since then, in the future
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 463.
+濃い	こい	thick (as of color, liquid), dense, strong
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 467.
+幸運	こううん	good luck, fortune
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 471.
+交換	こうかん	exchange, interchange, reciprocity
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 474.
+航空	こうくう	aviation, flying
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 475.
+光景	こうけい	scene, spectacle
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 477.
+攻撃	こうげき	attack, strike, offensive, criticism, censure
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 482.
+公正	こうせい	justice, fairness, impartiality
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 487.
+幸福	こうふく	happiness, blessedness
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 489.
+項目	こうもく	item
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 495.
+超える	こえる	to exceed, to cross over, to cross
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 498.
+誤解	ごかい	misunderstanding
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 500.
+呼吸	こきゅう	breath, respiration
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 501.
+故郷	こきょう	home town, birthplace, old village, historic village
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 507.
+心当たり	こころあたり	having some knowledge of, happening to know
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 512.
+国境	こっきょう	national or state border
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 520.
+娯楽	ごらく	pleasure, amusement
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 521.
+殺す	ころす	to kill
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 530.
+最中	さいちゅう	in the middle of
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 536.
+避ける	さける	(1) to avoid (physical contact ), (2) to ward off, to avert
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 537.
+刺す	さす	to pierce, to stab, to prick, to thrust
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 540.
+誘う	さそう	(1) to invite, to ask, (2) to tempt, to lure, to induce
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 546.
+覚ます	さます	to awaken
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 553.
+更に	さらに	furthermore, again, after all, more and more, moreover
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 554.
+去る	さる	to leave, to go away
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 559.
+散歩	さんぽ	walk, stroll
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 566.
+刺激	しげき	stimulus, impetus, incentive
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 567.
+事件	じけん	event, affair, incident
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 572.
+姿勢	しせい	attitude, posture
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 577.
+従う	したがう	to abide (by the rules), to obey, to follow, to accompany
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 578.
+親しい	したしい	intimate, close (e.g. friend)
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 581.
+失業	しつぎょう	unemployment
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 591.
+指導	しどう	leadership, guidance, coaching
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 593.
+児童	じどう	children, juvenile
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 595.
+支配	しはい	rule, control, direction
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 598.
+絞る	しぼる	to press, to wring, to squeeze
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 607.
+下	しも	under, below, beneath
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 613.
+宗教	しゅうきょう	religion
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 620.
+住宅	じゅうたく	resident, housing
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 629.
+終了	しゅうりょう	end, close, termination
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 636.
+出身	しゅっしん	graduate from, come from
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 641.
+主婦	しゅふ	housewife, mistress
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 646.
+上	じょう	(1) first volume, (2) superior quality, (3) governmental
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 654.
+症状	しょうじょう	symptoms, condition
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 656.
+招待	しょうたい	invitation
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 659.
+承知	しょうち	consent, acceptance, assent, admitting
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 660.
+焦点	しょうてん	focus, point
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 661.
+承認	しょうにん	recognition, acknowledgement, approval, consent, agreement
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 663.
+商売	しょうばい	trade, business, commerce, transaction, occupation
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 665.
+勝負	しょうぶ	victory or defeat, match, contest, game, bout
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 672.
+職業	しょくぎょう	occupation, business
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 681.
+尻	しり	buttocks, bottom
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 683.
+私立	しりつ	private (establishment)
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 687.
+真剣	しんけん	seriousness, earnestness
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 693.
+新鮮	しんせん	fresh
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 699.
+信用	しんよう	confidence, dependence, credit, faith
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 702.
+水準	すいじゅん	(1) water level, (2) level, standard
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 703.
+水筒	すいとう	canteen, flask, water bottle
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 705.
+数	すう	number, figure
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 707.
+姿	すがた	figure, shape, appearance
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 712.
+既に	すでに	already, too late
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 713.
+棄てる	すてる	
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 714.
+素直	すなお	obedient, meek, docile, unaffected
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 718.
+澄む	すむ	to clear (e.g. weather), to become transparent
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 719.
+鋭い	するどい	pointed, sharp
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 726.
+請求	せいきゅう	claim, demand, application, request
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 728.
+清潔	せいけつ	clean
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 732.
+精神	せいしん	mind, soul, heart, spirit, intention
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 734.
+成績	せいせき	results, record
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 742.
+政府	せいふ	government, administration
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 746.
+正方形	せいほうけい	square
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 749.
+咳	せき	cough
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 750.
+石油	せきゆ	oil, petroleum, kerosene
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 754.
+絶対	ぜったい	absolute, unconditional, absoluteness
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 755.
+設備	せつび	equipment, device, facilities, installation
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 756.
+節約	せつやく	economising, saving
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 766.
+宣伝	せんでん	propaganda, publicity
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 768.
+雑巾	ぞうきん	house-cloth, dust cloth
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 772.
+相当	そうとう	suitable, fair, tolerable, proper
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 773.
+属する	ぞくする	to belong to, to come under, to be affiliated with, to be subject to
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 774.
+速度	そくど	speed, velocity, rate
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 777.
+注ぐ	そそぐ	to pour (into), to irrigate, to pay, to fill, to feed (e.g. a fire)
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 783.
+揃う	そろう	to become complete, to be equal, to be all present, to gather
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 784.
+揃える	そろえる	to put things in order, to arrange, to make uniform, to get something ready
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 787.
+尊敬	そんけい	respect, esteem, reverence, honour
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 801.
+大工	だいく	carpenter
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 802.
+退屈	たいくつ	tedium, boredom
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 810.
+体操	たいそう	gymnastics, physical exercises, calisthenics
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 811.
+大抵	たいてい	usually, generally
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 813.
+大半	たいはん	majority, mostly, generally
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 816.
+逮捕	たいほ	arrest, apprehension, capture
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 830.
+叩く	たたく	to strike, to clap, to dust, to beat
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 835.
+種	たね	(1) seed, (2) material, (3) cause, source
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 841.
+偶々	たまたま	casually, unexpectedly, accidentally, by chance
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 843.
+駄目	だめ	useless, no good, hopeless
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 844.
+試し	ためし	trial, test
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 846.
+溜める	ためる	to amass, to accumulate
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 847.
+頼る	たよる	to rely on, to have recourse to, to depend on
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 852.
+段階	だんかい	gradation, grade, stage
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 853.
+単純	たんじゅん	simplicity
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 855.
+誕生	たんじょう	birth
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 858.
+単なる	たんなる	mere, simple, sheer
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 865.
+地球	ちきゅう	the earth
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 867.
+知識	ちしき	knowledge, information
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 876.
+着々	ちゃくちゃく	steadily
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 890.
+彫刻	ちょうこく	carving, engraving, sculpture
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 893.
+調整	ちょうせい	regulation, adjustment, tuning
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 897.
+直接	ちょくせつ	direct, immediate, personal, firsthand
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 900.
+通勤	つうきん	commuting to work
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 902.
+通じる	つうじる	to run to, to lead to, to communicate, to understand
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 906.
+掴む	つかむ	to seize, to catch, to grasp
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 913.
+次ぐ	つぐ	to rank next to, to come after
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 914.
+注ぐ	つぐ	to pour (into), to irrigate, to pay
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 922.
+常に	つねに	always, constantly
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 923.
+潰す	つぶす	to smash, to waste
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 924.
+潰れる	つぶれる	to be smashed, to go bankrupt
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 925.
+詰まる	つまる	to be blocked, to be packed
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 937.
+定員	ていいん	fixed number of regular personnel, capacity (of boat, etc.)
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 942.
+抵抗	ていこう	electrical resistance, resistance, opposition
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 950.
+適切	てきせつ	pertinent, appropriate, adequate, relevance
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 956.
+鉄道	てつどう	railroad
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 960.
+伝記	でんき	biography, life story
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 964.
+度	ど	counter for occurrences
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 968.
+当時	とうじ	at that time, in those days
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 972.
+登場	とうじょう	entry (on stage)
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 975.
+十	とお	10, ten
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 980.
+解く	とく	to unfasten
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 982.
+特殊	とくしゅ	special, unique
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 985.
+特徴	とくちょう	feature, characteristic
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 986.
+特定	とくてい	specific, special, particular
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 989.
+解ける	とける	to come untied, to come apart
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 993.
+土地	とち	plot of land, lot, soil
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 994.
+突然	とつぜん	abruptly, suddenly, unexpectedly, all at once
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 995.
+届く	とどく	to reach
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 996.
+整う	ととのう	to be prepared, to be in order, to be put in order, to be arranged
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 997.
+留まる	とどまる	(1) to be fixed, (2) to abide, to stay (in the one place)
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 998.
+留まる	とまる	(1) to be fixed, (2) to abide, to stay (in the one place)
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1002.
+採る	とる	(1) to adopt (measure, proposal), (2) to pick (fruit)
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1011.
+眺める	ながめる	to view, to gaze at
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1016.
+納得	なっとく	consent, assent, understanding
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1018.
+七	なな	seven
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1020.
+何	なん	what
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1022.
+生	なま	(1) draft (beer), (2) raw, unprocessed
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1023.
+悩む	なやむ	to be worried, to be troubled
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1025.
+似合う	にあう	to suit, to match, to become, to be like
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1026.
+匂い	におい	odour, scent, smell, stench
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1028.
+握る	にぎる	to grasp, to seize, to mould sushi
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1037.
+日本	にほん	Japan
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1042.
+抜く	ぬく	to extract, to omit, to surpass, to draw out, to unplug
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1060.
+農村	のうそん	agricultural community, farm village, rural
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1067.
+除く	のぞく	to remove, to exclude, to except
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1069.
+望む	のぞむ	to desire, to wish for, to see, to command (a view of)
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1070.
+後	のち	afterwards, since then, in the future
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1079.
+梅雨	ばいう	rainy season, rain during the rainy season
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1080.
+配達	はいたつ	delivery, distribution
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1082.
+吐き気	はきけ	nausea, sickness in the stomach
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1089.
+肌	はだ	skin
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1090.
+裸	はだか	naked, nude
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1096.
+発想	はっそう	expression (music), conceptualization
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1099.
+派手	はで	showy, loud, gay, flashy, gaudy
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1101.
+放す	はなす	to separate, to set free
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1103.
+離れる	はなれる	to be separated from, to leave, to go away, to be a long way off
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1106.
+省く	はぶく	to omit, to eliminate, to curtail, to economize
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1107.
+腹	はら	abdomen, belly, stomach
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1112.
+犯罪	はんざい	crime
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1113.
+反省	はんせい	reflection, reconsideration, introspection, meditation, contemplation
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1118.
+比較	ひかく	comparison
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1119.
+比較的	ひかくてき	comparatively, relatively
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1120.
+膝	ひざ	knee, lap
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1123.
+額	ひたい	forehead, brow
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1126.
+一通り	ひととおり	ordinary, usual, in general, briefly
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1127.
+独り言	ひとりごと	a soliloquy, a monologue, speaking to oneself
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1130.
+批判	ひはん	criticism, judgement, comment
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1131.
+秘密	ひみつ	secret, secrecy
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1132.
+微妙	びみょう	delicate, subtle
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1133.
+紐	ひも	(1) string, cord, (2) pimp
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1137.
+評価	ひょうか	valuation, estimation, assessment, evaluation
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1142.
+品	ひん	thing, article, goods, dignity, article (goods), counter for meal courses
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1144.
+不	ぶ	un, non, negative prefix
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1150.
+武器	ぶき	weapon, arms, ordinance
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1151.
+付近	ふきん	neighbourhood, vicinity, environs
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1153.
+含む	ふくむ	to hold in the mouth, to bear in mind
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1155.
+膨らむ	ふくらむ	to expand, to swell (out), to get big, to become inflated
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1159.
+不思議	ふしぎ	mystery, curiosity
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1174.
+分	ぶん	dividing, part, segment
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1179.
+別荘	べっそう	holiday house, villa
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1180.
+別に	べつに	(not) particularly, nothing
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1183.
+減る	へる	to decrease (in size or number), to diminish, to abate
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1187.
+編集	へんしゅう	editing, compilation, editorial (e.g. committee)
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1195.
+放る	ほうる	to let go
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1196.
+他	ほか	other (esp. places and things)
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1199.
+誇り	ほこり	pride
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1205.
+微笑む	ほほえむ	to smile
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1208.
+本当	ほんとう	truth, reality
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1215.
+真面目	まじめ	diligent, serious, honest
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1226.
+真似	まね	mimicry, imitation, behavior, pretense
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1232.
+円	まる	circle, money
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1243.
+見出し	みだし	heading, caption, subtitle, index
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1244.
+満ちる	みちる	to be full, to rise (tide), to mature, to expire
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1247.
+未満	みまん	less than, insufficient
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1254.
+無	む	nothing, naught, nil, zero
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1257.
+矛盾	むじゅん	contradiction, inconsistency
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1259.
+結ぶ	むすぶ	to tie, to bind, to link
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1261.
+夢中	むちゅう	daze, (in a) trance, ecstasy, delirium, engrossment
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1268.
+巡る	めぐる	to go around
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1285.
+物語	ものがたり	tale, story, legend
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1287.
+紅葉	もみじ	(1) (Japanese) maple
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1288.
+盛る	もる	(1) to serve (food, etc.), (2) to fill up, (3) to prescribe
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1290.
+役人	やくにん	government official
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1291.
+役目	やくめ	duty, business
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1293.
+家賃	やちん	rent
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1294.
+破る	やぶる	to tear, to violate, to defeat, to smash, to destroy
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1295.
+破れる	やぶれる	to get torn, to wear out
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1296.
+唯一	ゆいいつ	only, sole, unique
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1298.
+優秀	ゆうしゅう	superiority, excellence
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1301.
+愉快	ゆかい	pleasant, happy
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1302.
+浴衣	ゆかた	bathrobe, informal summer kimono, yukata
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1303.
+譲る	ゆずる	to turn over, to assign, to hand over
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1304.
+豊か	ゆたか	abundant, wealthy, plentiful, rich
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1305.
+緩い	ゆるい	loose, lenient, slow
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1306.
+許す	ゆるす	to permit, to allow, to approve
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1314.
+要領	ようりょう	point, gist, essentials, outline
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1315.
+予期	よき	expectation, assume will happen, forecast
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1316.
+余計	よけい	too much, unnecessary, abundance, surplus, excess, superfluity
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1318.
+寄せる	よせる	to collect, to gather, to add, to put aside
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1320.
+夜中	よなか	midnight, dead of night
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1326.
+余裕	よゆう	surplus, composure, margin, room, time, allowance, scope, rope
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1329.
+四	よん	four
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1330.
+来	らい, for (10 days), next (year)
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1332.
+乱暴	らんぼう	rude, violent, rough, lawless, unreasonable, reckless
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1337.
+立派	りっぱ	splendid, fine, handsome, elegant, imposing, prominent, legal, legitimate
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1339.
+流行	りゅうこう	fashionable, fad, in vogue, prevailing
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1344.
+冷静	れいせい	calm, composure, coolness, serenity
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1349.
+連続	れんぞく	serial, consecutive, continuity, continuing
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1351.
+労働	ろうどう	manual labor, toil, work
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1356.
+脇	わき	side
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1360.
+間	あいだ	a space
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1362.
+空く	あく	to open, to become empty
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1367.
+謝る	あやまる	to apologize
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1370.
+案内	あんない・する	to guide
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1379.
+一生懸命	いっしょうけんめい	with utmost effort
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1381.
+田舎	いなか	countryside
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1384.
+打つ	うつ	to hit
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1387.
+移る	うつる	to move house or transfer
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1388.
+腕	うで	arm
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1391.
+運転	うんてん・する	to drive
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1393.
+運動	うんどう・する	to exercise
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1396.
+贈り物	おくりもの	gift
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1402.
+音	おと	sound, note
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1406.
+表	おもて	the front
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1411.
+海岸	かいがん	coast
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1443.
+汽車	きしゃ	steam train
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1445.
+季節	きせつ	season
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1465.
+君	くん	suffix for familiar young male
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1467.
+計画	けいかく・する	to plan
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1468.
+経験	けいけん・する	to experience
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1478.
+郊外	こうがい	outskirts
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1479.
+講義	こうぎ	lecture
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1483.
+工場	こうじょう	factory
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1489.
+故障	こしょう・する	to break-down
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1495.
+怖い	こわい	frightening
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1510.
+仕方	しかた	method
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1525.
+出席	しゅっせき・する	to attend
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1526.
+出発	しゅっぱつ・する	to depart
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1527.
+準備	じゅんび・する	to prepare
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1531.
+承知	しょうち・する	to consent
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1533.
+食事	しょくじ・する	to have a meal
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1548.
+生産	せいさん・する	to produce
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1553.
+世話	せわ・する	to look after
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1556.
+相談	そうだん・する	to discuss
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1563.
+大分	だいぶ	greatly
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1567.
+尋ねる	たずねる	to ask
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1580.
+捕まえる	つかまえる	to seize
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1582.
+都合	つごう	circumstances, convenience
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1586.
+包む	つつむ	to wrap
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1590.
+適当	てきとう	suitability
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1597.
+都	と	metropolitan
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1604.
+途中	とちゅう	on the way
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1613.
+投げる	なげる	to throw or cast away
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1616.
+逃げる	にげる	to escape
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1618.
+入院	にゅういん・する	to hospitalise
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1619.
+入学	にゅうがく・する	to enter school or university
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1630.
+倍	ばい	double
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1640.
+日	ひ	day, sun
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1643.
+光る	ひかる	to shine, to glitter
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1645.
+引き出す	ひきだす	to withdraw
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1661.
+踏む	ふむ	to step on
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1668.
+放送	ほうそう・する	to broadcast
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1669.
+法律	ほうりつ	law
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1684.
+息子	むすこ	(humble) son
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1695.
+止める	やめる	to stop
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1703.
+汚れる	よごれる	to get dirty
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1710.
+旅館	りょかん	Japanese hotel
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1711.
+留守	るす	absence
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1713.
+別れる	わかれる	to separate
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1714.
+沸く	わく	to boil, to grow hot, to get excited
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1724.
+開く	あく	to open, to become open
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1729.
+明日	あした	tomorrow
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1731.
+暖かい	あたたかい	warm
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1736.
+後	あと	afterwards
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1743.
+言う	いう	to say
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1762.
+上	うえ	on top of
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1764.
+薄い	うすい	thin, weak
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1795.
+一昨日	おととい	day before yesterday
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1804.
+泳ぐ	およぐ	to swim
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1805.
+降りる	おりる	to get off, to descend
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1825.
+方	かた	person, way of doing
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1827.
+角	かど	a corner
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1830.
+辛い	からい	spicy
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1842.
+九	きゅう / く	nine
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1845.
+今日	きょう	today
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1860.
+曇る	くもる	to become cloudy, to become dim
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1890.
+魚	さかな	fish
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1895.
+雑誌	ざっし	magazine
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1899.
+散歩	さんぽする	to stroll
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1900.
+四	し / よん	four
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1905.
+下	した	below
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1906.
+七	しち / なな	seven
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1916.
+十	じゅう とお	ten
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1931.
+涼しい	すずしい	refreshing
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1934.
+背	せ	height, stature
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1935.
+生徒	せいと	pupil
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1942.
+外	そと	outside
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1943.
+空	そら	sky
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1951.
+建物	たてもの	building
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1958.
+誰	だれか	somebody
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 1968.
+一日	ついたち	first of month
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 2003.
+中	なか	middle
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 2015.
+何	なん/なに	what
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 2017.
+賑やか	にぎやか	bustling, busy
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 2062.
+暇	ひま	free time
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 2068.
+封筒	ふうとう	envelope
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 2080.
+下手	へた	unskillful
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 2083.
+勉強	べんきょうする	to study
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 2085.
+帽子	ぼうし	hat
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 2121.
+眼鏡	めがね	glasses
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 2138.
+行く	ゆく	to go
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 2146.
+夜	よる	evening, night
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 2156.
+練習	れんしゅうする	to practice
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 2157.
+廊下	ろうか	corridor
+
+DBD::SQLite::db do failed: UNIQUE constraint failed: leveln2.kanji at insert_known_words.pl line 28, <$fd> line 2163.
+私	わたし	I, myself
+
