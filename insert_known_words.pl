@@ -28,8 +28,13 @@ while (<$fd>) {
 		$dbh->do($stmt);
 	};
 	if ($@) {
-		print $fdw "$@";
-		print $fdw "$line\r\n"; 
+		my $update = qq(UPDATE leveln2 SET hit = 100 WHERE kanji = '$1' AND hit < 3);
+		my $ret = $dbh->do($update);
+		
+		if ($ret == 1) {
+			print "$1\n";
+			print $fdw "$1\r\n";
+		}
 	}
 }
 

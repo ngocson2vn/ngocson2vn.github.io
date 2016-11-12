@@ -1280,7 +1280,8 @@
 基	もと	basis
 素	もと	prime
 戻す	もどす	to restore, to put back, to return
-求める	もとめる	to seek, to request, to demand, to want, to wish for, to search for, to pursue (pleasure), to hunt (a job), 元々	もともと	originally, by nature, from the start
+求める	もとめる	to seek, to request, to demand, to want, to wish for, to search for, to pursue (pleasure), to hunt (a job)
+元々	もともと	originally, by nature, from the start
 者	もの	person
 物語	ものがたり	tale, story, legend
 物語る	ものがたる	to tell, to indicate
