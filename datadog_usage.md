@@ -21,6 +21,11 @@ http://docs.datadoghq.com/integrations/aws/
 * After the integration process is finished, click on the **Integrations** tab to see the installed services:  
 <img src="http://ngocson2vn.github.io/datadog/integrated.png" alt="installed services">  
 
+* RDS Integration  
+https://docs.datadoghq.com/integrations/awsrds/
+
+* S3 Integration
+
 <a name="basic_agent"/>
 ## 2. The Datadog Agent
 * Getting Started with the Agent  
